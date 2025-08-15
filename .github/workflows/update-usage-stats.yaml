@@ -21,7 +21,7 @@ jobs:
 
       - name: Usage Statistics Tracker
         id: stats
-        uses: LukeHagar/usage-statistics@v1
+        uses: LukeHagar/usage-statistics@v1.0.3
         with:
           npm-packages: 'sailpoint-api-client'
           github-repositories: 'sailpoint-oss/sailpoint-cli'
