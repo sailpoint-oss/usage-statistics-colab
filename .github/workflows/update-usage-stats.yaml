@@ -30,7 +30,7 @@ jobs:
           json-output-path: 'stats.json'
           update-readme: 'true'
           readme-path: 'README.md'
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.PAT_TOKEN }}
 
       - name: Commit and push changes
         run: |
