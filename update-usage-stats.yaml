@@ -1,0 +1,38 @@
+name: Update Usage Statistics
+
+on:
+  schedule:
+    - cron: '0 0 * * 1' # every Monday at 00:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Usage Statistics Tracker
+        id: stats
+        uses: LukeHagar/usage-statistics@v1
+        with:
+          npm-packages: 'sailpoint-api-client'
+          github-repositories: 'sailpoint-oss/sailpoint-cli'
+          pypi-packages: 'sailpoint'
+          powershell-modules: 'PSSailPoint,PSSailpoint.V3,PSSailpoint.Beta,PSSailpoint.V2024,PSSailpoint.V2025'
+          json-output-path: 'stats.json'
+          update-readme: 'true'
+          readme-path: 'README.md'
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add Test-Readme.md stats.json
+          git commit -m "${{ steps.stats.outputs.commit-message || 'chore: update usage statistics [skip ci]' }}" || echo "No changes to commit"
+          git push
