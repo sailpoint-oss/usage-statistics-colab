@@ -2,12 +2,12 @@
   {
     "platform": "NPM",
     "name": "sailpoint-api-client",
-    "timestamp": "2025-08-15T15:38:36.390Z",
+    "timestamp": "2025-08-18T00:05:14.480Z",
     "metrics": {
-      "downloadsTotal": 16762,
-      "downloadsMonthly": 1177,
-      "downloadsWeekly": 232,
-      "downloadsDaily": 22,
+      "downloadsTotal": 16803,
+      "downloadsMonthly": 1168,
+      "downloadsWeekly": 218,
+      "downloadsDaily": 17,
       "downloadsRange": [
         {
           "downloads": 0,
@@ -3602,8 +3602,20 @@
           "day": "2025-08-14"
         },
         {
-          "downloads": 0,
+          "downloads": 24,
           "day": "2025-08-15"
+        },
+        {
+          "downloads": 17,
+          "day": "2025-08-16"
+        },
+        {
+          "downloads": 0,
+          "day": "2025-08-17"
+        },
+        {
+          "downloads": 0,
+          "day": "2025-08-18"
         }
       ]
     }
@@ -3611,7 +3623,7 @@
   {
     "platform": "GitHub",
     "name": "sailpoint-oss/sailpoint-cli",
-    "timestamp": "2025-08-15T15:38:36.875Z",
+    "timestamp": "2025-08-18T00:05:15.722Z",
     "metrics": {
       "stars": 35,
       "forks": 24,
@@ -3621,19 +3633,19 @@
       "closedIssues": 35,
       "language": "Go",
       "size": 89031,
-      "repositoryAge": 1121,
-      "lastActivity": 35,
+      "repositoryAge": 1123,
+      "lastActivity": 37,
       "releaseCount": 31,
-      "totalReleaseDownloads": 10023,
-      "latestReleaseDownloads": 756,
-      "viewsCount": 493,
-      "uniqueVisitors": 164,
+      "totalReleaseDownloads": 10033,
+      "latestReleaseDownloads": 766,
+      "viewsCount": 485,
+      "uniqueVisitors": 163,
       "latestRelease": "2.2.5",
-      "clonesCount": 17,
+      "clonesCount": 15,
       "topics": 6,
       "license": "MIT License",
       "defaultBranch": "main",
-      "downloadsTotal": 10023,
+      "downloadsTotal": 10033,
       "downloadRange": [
         {
           "day": "2022-08-19T20:12:00Z",
@@ -3787,7 +3799,7 @@
         },
         {
           "day": "2025-06-03T14:37:59Z",
-          "downloads": 756,
+          "downloads": 766,
           "tagName": "2.2.5"
         }
       ]
@@ -3796,12 +3808,12 @@
   {
     "platform": "PyPI",
     "name": "sailpoint",
-    "timestamp": "2025-08-15T15:38:34.040Z",
+    "timestamp": "2025-08-18T00:05:15.122Z",
     "metrics": {
-      "downloadsTotal": 21614,
-      "downloadsMonthly": 10108,
-      "downloadsWeekly": 2894,
-      "downloadsDaily": 468,
+      "downloadsTotal": 22055,
+      "downloadsMonthly": 9069,
+      "downloadsWeekly": 1868,
+      "downloadsDaily": 0,
       "version": "1.3.8",
       "latestReleaseDate": "2025-07-29",
       "description": "The SailPoint API SDK for Python",
@@ -3814,14 +3826,6 @@
         {
           "day": "2025-07-16T00:00:00.000Z",
           "downloads": 336
-        },
-        {
-          "day": "2025-07-17T00:00:00.000Z",
-          "downloads": 371
-        },
-        {
-          "day": "2025-07-18T00:00:00.000Z",
-          "downloads": 332
         },
         {
           "day": "2025-07-19T00:00:00.000Z",
@@ -3937,16 +3941,6 @@
           "date": "2025-07-16T00:00:00.000Z",
           "category": "without_mirrors",
           "downloads": 336
-        },
-        {
-          "date": "2025-07-17T00:00:00.000Z",
-          "category": "without_mirrors",
-          "downloads": 371
-        },
-        {
-          "date": "2025-07-18T00:00:00.000Z",
-          "category": "without_mirrors",
-          "downloads": 332
         },
         {
           "date": "2025-07-19T00:00:00.000Z",
@@ -4089,16 +4083,6 @@
           "date": "2025-07-16T00:00:00.000Z",
           "category": "3",
           "downloads": 287
-        },
-        {
-          "date": "2025-07-17T00:00:00.000Z",
-          "category": "3",
-          "downloads": 363
-        },
-        {
-          "date": "2025-07-18T00:00:00.000Z",
-          "category": "3",
-          "downloads": 325
         },
         {
           "date": "2025-07-19T00:00:00.000Z",
@@ -4244,18 +4228,13 @@
       "pythonMinorSeries": [
         {
           "date": "2025-07-16T00:00:00.000Z",
-          "category": "3.7",
-          "downloads": 2
-        },
-        {
-          "date": "2025-07-16T00:00:00.000Z",
-          "category": "3.11",
-          "downloads": 102
-        },
-        {
-          "date": "2025-07-16T00:00:00.000Z",
           "category": "3.10",
           "downloads": 118
+        },
+        {
+          "date": "2025-07-16T00:00:00.000Z",
+          "category": "3.13",
+          "downloads": 54
         },
         {
           "date": "2025-07-16T00:00:00.000Z",
@@ -4264,73 +4243,23 @@
         },
         {
           "date": "2025-07-16T00:00:00.000Z",
+          "category": "3.11",
+          "downloads": 102
+        },
+        {
+          "date": "2025-07-16T00:00:00.000Z",
+          "category": "3.7",
+          "downloads": 2
+        },
+        {
+          "date": "2025-07-16T00:00:00.000Z",
           "category": "3.8",
           "downloads": 1
         },
         {
-          "date": "2025-07-16T00:00:00.000Z",
-          "category": "3.13",
-          "downloads": 54
-        },
-        {
-          "date": "2025-07-17T00:00:00.000Z",
-          "category": "3.12",
-          "downloads": 68
-        },
-        {
-          "date": "2025-07-17T00:00:00.000Z",
-          "category": "3.7",
-          "downloads": 1
-        },
-        {
-          "date": "2025-07-17T00:00:00.000Z",
-          "category": "3.13",
-          "downloads": 54
-        },
-        {
-          "date": "2025-07-17T00:00:00.000Z",
-          "category": "3.10",
-          "downloads": 132
-        },
-        {
-          "date": "2025-07-17T00:00:00.000Z",
-          "category": "3.11",
-          "downloads": 108
-        },
-        {
-          "date": "2025-07-18T00:00:00.000Z",
-          "category": "3.12",
-          "downloads": 2
-        },
-        {
-          "date": "2025-07-18T00:00:00.000Z",
-          "category": "3.13",
-          "downloads": 54
-        },
-        {
-          "date": "2025-07-18T00:00:00.000Z",
-          "category": "3.7",
-          "downloads": 2
-        },
-        {
-          "date": "2025-07-18T00:00:00.000Z",
-          "category": "3.9",
-          "downloads": 3
-        },
-        {
-          "date": "2025-07-18T00:00:00.000Z",
-          "category": "3.10",
-          "downloads": 140
-        },
-        {
-          "date": "2025-07-18T00:00:00.000Z",
-          "category": "3.11",
-          "downloads": 124
-        },
-        {
           "date": "2025-07-19T00:00:00.000Z",
-          "category": "3.11",
-          "downloads": 72
+          "category": "3.13",
+          "downloads": 54
         },
         {
           "date": "2025-07-19T00:00:00.000Z",
@@ -4339,17 +4268,17 @@
         },
         {
           "date": "2025-07-19T00:00:00.000Z",
-          "category": "3.13",
-          "downloads": 54
-        },
-        {
-          "date": "2025-07-19T00:00:00.000Z",
-          "category": "3.7",
+          "category": "3.6",
           "downloads": 1
         },
         {
           "date": "2025-07-19T00:00:00.000Z",
-          "category": "3.6",
+          "category": "3.11",
+          "downloads": 72
+        },
+        {
+          "date": "2025-07-19T00:00:00.000Z",
+          "category": "3.7",
           "downloads": 1
         },
         {
@@ -4364,23 +4293,18 @@
         },
         {
           "date": "2025-07-20T00:00:00.000Z",
-          "category": "3.10",
-          "downloads": 121
-        },
-        {
-          "date": "2025-07-20T00:00:00.000Z",
           "category": "3.11",
           "downloads": 74
         },
         {
-          "date": "2025-07-21T00:00:00.000Z",
-          "category": "3.7",
-          "downloads": 1
+          "date": "2025-07-20T00:00:00.000Z",
+          "category": "3.10",
+          "downloads": 121
         },
         {
           "date": "2025-07-21T00:00:00.000Z",
-          "category": "3.11",
-          "downloads": 106
+          "category": "3.10",
+          "downloads": 132
         },
         {
           "date": "2025-07-21T00:00:00.000Z",
@@ -4394,13 +4318,13 @@
         },
         {
           "date": "2025-07-21T00:00:00.000Z",
-          "category": "3.10",
-          "downloads": 132
-        },
-        {
-          "date": "2025-07-22T00:00:00.000Z",
           "category": "3.7",
           "downloads": 1
+        },
+        {
+          "date": "2025-07-21T00:00:00.000Z",
+          "category": "3.11",
+          "downloads": 106
         },
         {
           "date": "2025-07-22T00:00:00.000Z",
@@ -4409,13 +4333,13 @@
         },
         {
           "date": "2025-07-22T00:00:00.000Z",
-          "category": "3.13",
-          "downloads": 60
+          "category": "3.12",
+          "downloads": 79
         },
         {
           "date": "2025-07-22T00:00:00.000Z",
-          "category": "3.12",
-          "downloads": 79
+          "category": "3.13",
+          "downloads": 60
         },
         {
           "date": "2025-07-22T00:00:00.000Z",
@@ -4423,14 +4347,14 @@
           "downloads": 84
         },
         {
-          "date": "2025-07-23T00:00:00.000Z",
-          "category": "3.10",
-          "downloads": 139
+          "date": "2025-07-22T00:00:00.000Z",
+          "category": "3.7",
+          "downloads": 1
         },
         {
           "date": "2025-07-23T00:00:00.000Z",
-          "category": "3.12",
-          "downloads": 54
+          "category": "3.7",
+          "downloads": 1
         },
         {
           "date": "2025-07-23T00:00:00.000Z",
@@ -4439,18 +4363,23 @@
         },
         {
           "date": "2025-07-23T00:00:00.000Z",
+          "category": "3.12",
+          "downloads": 54
+        },
+        {
+          "date": "2025-07-23T00:00:00.000Z",
+          "category": "3.10",
+          "downloads": 139
+        },
+        {
+          "date": "2025-07-23T00:00:00.000Z",
           "category": "3.11",
           "downloads": 76
         },
         {
-          "date": "2025-07-23T00:00:00.000Z",
-          "category": "3.7",
-          "downloads": 1
-        },
-        {
           "date": "2025-07-24T00:00:00.000Z",
-          "category": "3.10",
-          "downloads": 149
+          "category": "3.12",
+          "downloads": 46
         },
         {
           "date": "2025-07-24T00:00:00.000Z",
@@ -4459,8 +4388,8 @@
         },
         {
           "date": "2025-07-24T00:00:00.000Z",
-          "category": "2.7",
-          "downloads": 1
+          "category": "3.11",
+          "downloads": 88
         },
         {
           "date": "2025-07-24T00:00:00.000Z",
@@ -4474,33 +4403,13 @@
         },
         {
           "date": "2025-07-24T00:00:00.000Z",
-          "category": "3.11",
-          "downloads": 88
+          "category": "2.7",
+          "downloads": 1
         },
         {
           "date": "2025-07-24T00:00:00.000Z",
-          "category": "3.12",
-          "downloads": 46
-        },
-        {
-          "date": "2025-07-25T00:00:00.000Z",
-          "category": "3.7",
-          "downloads": 1
-        },
-        {
-          "date": "2025-07-25T00:00:00.000Z",
-          "category": "3.9",
-          "downloads": 1
-        },
-        {
-          "date": "2025-07-25T00:00:00.000Z",
-          "category": "3.11",
-          "downloads": 78
-        },
-        {
-          "date": "2025-07-25T00:00:00.000Z",
-          "category": "3.12",
-          "downloads": 26
+          "category": "3.10",
+          "downloads": 149
         },
         {
           "date": "2025-07-25T00:00:00.000Z",
@@ -4513,19 +4422,34 @@
           "downloads": 143
         },
         {
-          "date": "2025-07-26T00:00:00.000Z",
-          "category": "3.10",
-          "downloads": 142
+          "date": "2025-07-25T00:00:00.000Z",
+          "category": "3.12",
+          "downloads": 26
         },
         {
-          "date": "2025-07-26T00:00:00.000Z",
+          "date": "2025-07-25T00:00:00.000Z",
+          "category": "3.9",
+          "downloads": 1
+        },
+        {
+          "date": "2025-07-25T00:00:00.000Z",
           "category": "3.7",
           "downloads": 1
+        },
+        {
+          "date": "2025-07-25T00:00:00.000Z",
+          "category": "3.11",
+          "downloads": 78
         },
         {
           "date": "2025-07-26T00:00:00.000Z",
           "category": "3.11",
           "downloads": 72
+        },
+        {
+          "date": "2025-07-26T00:00:00.000Z",
+          "category": "3.10",
+          "downloads": 142
         },
         {
           "date": "2025-07-26T00:00:00.000Z",
@@ -4533,9 +4457,14 @@
           "downloads": 51
         },
         {
+          "date": "2025-07-26T00:00:00.000Z",
+          "category": "3.7",
+          "downloads": 1
+        },
+        {
           "date": "2025-07-27T00:00:00.000Z",
-          "category": "3.11",
-          "downloads": 72
+          "category": "3.7",
+          "downloads": 1
         },
         {
           "date": "2025-07-27T00:00:00.000Z",
@@ -4544,13 +4473,13 @@
         },
         {
           "date": "2025-07-27T00:00:00.000Z",
-          "category": "3.13",
-          "downloads": 52
+          "category": "3.11",
+          "downloads": 72
         },
         {
           "date": "2025-07-27T00:00:00.000Z",
-          "category": "3.7",
-          "downloads": 1
+          "category": "3.13",
+          "downloads": 52
         },
         {
           "date": "2025-07-28T00:00:00.000Z",
@@ -4559,13 +4488,13 @@
         },
         {
           "date": "2025-07-28T00:00:00.000Z",
-          "category": "3.11",
-          "downloads": 74
+          "category": "3.12",
+          "downloads": 54
         },
         {
           "date": "2025-07-28T00:00:00.000Z",
-          "category": "3.13",
-          "downloads": 67
+          "category": "3.11",
+          "downloads": 74
         },
         {
           "date": "2025-07-28T00:00:00.000Z",
@@ -4574,8 +4503,8 @@
         },
         {
           "date": "2025-07-28T00:00:00.000Z",
-          "category": "3.12",
-          "downloads": 54
+          "category": "3.13",
+          "downloads": 67
         },
         {
           "date": "2025-07-29T00:00:00.000Z",
@@ -4584,8 +4513,8 @@
         },
         {
           "date": "2025-07-29T00:00:00.000Z",
-          "category": "3.13",
-          "downloads": 52
+          "category": "3.7",
+          "downloads": 5
         },
         {
           "date": "2025-07-29T00:00:00.000Z",
@@ -4594,13 +4523,8 @@
         },
         {
           "date": "2025-07-29T00:00:00.000Z",
-          "category": "3.10",
-          "downloads": 150
-        },
-        {
-          "date": "2025-07-29T00:00:00.000Z",
-          "category": "3.7",
-          "downloads": 5
+          "category": "3.13",
+          "downloads": 52
         },
         {
           "date": "2025-07-29T00:00:00.000Z",
@@ -4608,19 +4532,9 @@
           "downloads": 1
         },
         {
-          "date": "2025-07-30T00:00:00.000Z",
-          "category": "3.11",
-          "downloads": 75
-        },
-        {
-          "date": "2025-07-30T00:00:00.000Z",
-          "category": "3.12",
-          "downloads": 104
-        },
-        {
-          "date": "2025-07-30T00:00:00.000Z",
+          "date": "2025-07-29T00:00:00.000Z",
           "category": "3.10",
-          "downloads": 140
+          "downloads": 150
         },
         {
           "date": "2025-07-30T00:00:00.000Z",
@@ -4633,19 +4547,24 @@
           "downloads": 2
         },
         {
-          "date": "2025-07-31T00:00:00.000Z",
-          "category": "3.7",
-          "downloads": 2
+          "date": "2025-07-30T00:00:00.000Z",
+          "category": "3.12",
+          "downloads": 104
         },
         {
-          "date": "2025-07-31T00:00:00.000Z",
-          "category": "3.10",
-          "downloads": 152
-        },
-        {
-          "date": "2025-07-31T00:00:00.000Z",
+          "date": "2025-07-30T00:00:00.000Z",
           "category": "3.11",
-          "downloads": 76
+          "downloads": 75
+        },
+        {
+          "date": "2025-07-30T00:00:00.000Z",
+          "category": "3.10",
+          "downloads": 140
+        },
+        {
+          "date": "2025-07-31T00:00:00.000Z",
+          "category": "3.12",
+          "downloads": 62
         },
         {
           "date": "2025-07-31T00:00:00.000Z",
@@ -4654,8 +4573,23 @@
         },
         {
           "date": "2025-07-31T00:00:00.000Z",
-          "category": "3.12",
-          "downloads": 62
+          "category": "3.10",
+          "downloads": 152
+        },
+        {
+          "date": "2025-07-31T00:00:00.000Z",
+          "category": "3.7",
+          "downloads": 2
+        },
+        {
+          "date": "2025-07-31T00:00:00.000Z",
+          "category": "3.11",
+          "downloads": 76
+        },
+        {
+          "date": "2025-08-01T00:00:00.000Z",
+          "category": "3.7",
+          "downloads": 1
         },
         {
           "date": "2025-08-01T00:00:00.000Z",
@@ -4669,8 +4603,8 @@
         },
         {
           "date": "2025-08-01T00:00:00.000Z",
-          "category": "3.11",
-          "downloads": 80
+          "category": "3.9",
+          "downloads": 1
         },
         {
           "date": "2025-08-01T00:00:00.000Z",
@@ -4679,18 +4613,13 @@
         },
         {
           "date": "2025-08-01T00:00:00.000Z",
-          "category": "3.7",
-          "downloads": 1
-        },
-        {
-          "date": "2025-08-01T00:00:00.000Z",
-          "category": "3.9",
-          "downloads": 1
+          "category": "3.11",
+          "downloads": 80
         },
         {
           "date": "2025-08-02T00:00:00.000Z",
-          "category": "3.7",
-          "downloads": 3
+          "category": "3.13",
+          "downloads": 53
         },
         {
           "date": "2025-08-02T00:00:00.000Z",
@@ -4704,18 +4633,18 @@
         },
         {
           "date": "2025-08-02T00:00:00.000Z",
-          "category": "3.13",
-          "downloads": 53
-        },
-        {
-          "date": "2025-08-03T00:00:00.000Z",
-          "category": "3.11",
-          "downloads": 74
+          "category": "3.7",
+          "downloads": 3
         },
         {
           "date": "2025-08-03T00:00:00.000Z",
           "category": "3.7",
           "downloads": 1
+        },
+        {
+          "date": "2025-08-03T00:00:00.000Z",
+          "category": "3.11",
+          "downloads": 74
         },
         {
           "date": "2025-08-03T00:00:00.000Z",
@@ -4729,28 +4658,18 @@
         },
         {
           "date": "2025-08-04T00:00:00.000Z",
-          "category": "3.13",
-          "downloads": 53
-        },
-        {
-          "date": "2025-08-04T00:00:00.000Z",
           "category": "3.7",
           "downloads": 3
         },
         {
           "date": "2025-08-04T00:00:00.000Z",
-          "category": "3.8",
-          "downloads": 2
-        },
-        {
-          "date": "2025-08-04T00:00:00.000Z",
-          "category": "3.10",
-          "downloads": 137
-        },
-        {
-          "date": "2025-08-04T00:00:00.000Z",
           "category": "3.9",
           "downloads": 2
+        },
+        {
+          "date": "2025-08-04T00:00:00.000Z",
+          "category": "3.13",
+          "downloads": 53
         },
         {
           "date": "2025-08-04T00:00:00.000Z",
@@ -4763,9 +4682,19 @@
           "downloads": 54
         },
         {
+          "date": "2025-08-04T00:00:00.000Z",
+          "category": "3.8",
+          "downloads": 2
+        },
+        {
+          "date": "2025-08-04T00:00:00.000Z",
+          "category": "3.10",
+          "downloads": 137
+        },
+        {
           "date": "2025-08-05T00:00:00.000Z",
-          "category": "3.9",
-          "downloads": 1
+          "category": "3.7",
+          "downloads": 3
         },
         {
           "date": "2025-08-05T00:00:00.000Z",
@@ -4774,13 +4703,8 @@
         },
         {
           "date": "2025-08-05T00:00:00.000Z",
-          "category": "3.13",
-          "downloads": 59
-        },
-        {
-          "date": "2025-08-05T00:00:00.000Z",
-          "category": "3.11",
-          "downloads": 78
+          "category": "3.9",
+          "downloads": 1
         },
         {
           "date": "2025-08-05T00:00:00.000Z",
@@ -4789,13 +4713,13 @@
         },
         {
           "date": "2025-08-05T00:00:00.000Z",
-          "category": "3.7",
-          "downloads": 3
+          "category": "3.11",
+          "downloads": 78
         },
         {
-          "date": "2025-08-06T00:00:00.000Z",
+          "date": "2025-08-05T00:00:00.000Z",
           "category": "3.13",
-          "downloads": 57
+          "downloads": 59
         },
         {
           "date": "2025-08-06T00:00:00.000Z",
@@ -4809,11 +4733,6 @@
         },
         {
           "date": "2025-08-06T00:00:00.000Z",
-          "category": "3.12",
-          "downloads": 19
-        },
-        {
-          "date": "2025-08-06T00:00:00.000Z",
           "category": "3.9",
           "downloads": 2
         },
@@ -4821,6 +4740,26 @@
           "date": "2025-08-06T00:00:00.000Z",
           "category": "3.10",
           "downloads": 139
+        },
+        {
+          "date": "2025-08-06T00:00:00.000Z",
+          "category": "3.13",
+          "downloads": 57
+        },
+        {
+          "date": "2025-08-06T00:00:00.000Z",
+          "category": "3.12",
+          "downloads": 19
+        },
+        {
+          "date": "2025-08-07T00:00:00.000Z",
+          "category": "3.12",
+          "downloads": 72
+        },
+        {
+          "date": "2025-08-07T00:00:00.000Z",
+          "category": "3.11",
+          "downloads": 74
         },
         {
           "date": "2025-08-07T00:00:00.000Z",
@@ -4834,33 +4773,18 @@
         },
         {
           "date": "2025-08-07T00:00:00.000Z",
-          "category": "3.12",
-          "downloads": 72
-        },
-        {
-          "date": "2025-08-07T00:00:00.000Z",
           "category": "3.13",
           "downloads": 53
-        },
-        {
-          "date": "2025-08-07T00:00:00.000Z",
-          "category": "3.11",
-          "downloads": 74
-        },
-        {
-          "date": "2025-08-08T00:00:00.000Z",
-          "category": "3.10",
-          "downloads": 145
-        },
-        {
-          "date": "2025-08-08T00:00:00.000Z",
-          "category": "3.11",
-          "downloads": 72
         },
         {
           "date": "2025-08-08T00:00:00.000Z",
           "category": "3.13",
           "downloads": 99
+        },
+        {
+          "date": "2025-08-08T00:00:00.000Z",
+          "category": "3.11",
+          "downloads": 72
         },
         {
           "date": "2025-08-08T00:00:00.000Z",
@@ -4878,9 +4802,19 @@
           "downloads": 1
         },
         {
+          "date": "2025-08-08T00:00:00.000Z",
+          "category": "3.10",
+          "downloads": 145
+        },
+        {
           "date": "2025-08-09T00:00:00.000Z",
           "category": "3.12",
           "downloads": 3
+        },
+        {
+          "date": "2025-08-09T00:00:00.000Z",
+          "category": "3.7",
+          "downloads": 2
         },
         {
           "date": "2025-08-09T00:00:00.000Z",
@@ -4889,23 +4823,13 @@
         },
         {
           "date": "2025-08-09T00:00:00.000Z",
-          "category": "3.7",
-          "downloads": 2
+          "category": "3.13",
+          "downloads": 53
         },
         {
           "date": "2025-08-09T00:00:00.000Z",
           "category": "3.10",
           "downloads": 145
-        },
-        {
-          "date": "2025-08-09T00:00:00.000Z",
-          "category": "3.13",
-          "downloads": 53
-        },
-        {
-          "date": "2025-08-10T00:00:00.000Z",
-          "category": "3.7",
-          "downloads": 2
         },
         {
           "date": "2025-08-10T00:00:00.000Z",
@@ -4914,18 +4838,18 @@
         },
         {
           "date": "2025-08-10T00:00:00.000Z",
-          "category": "3.11",
-          "downloads": 72
-        },
-        {
-          "date": "2025-08-10T00:00:00.000Z",
           "category": "3.10",
           "downloads": 145
         },
         {
-          "date": "2025-08-11T00:00:00.000Z",
-          "category": "3.12",
-          "downloads": 53
+          "date": "2025-08-10T00:00:00.000Z",
+          "category": "3.7",
+          "downloads": 2
+        },
+        {
+          "date": "2025-08-10T00:00:00.000Z",
+          "category": "3.11",
+          "downloads": 72
         },
         {
           "date": "2025-08-11T00:00:00.000Z",
@@ -4934,18 +4858,18 @@
         },
         {
           "date": "2025-08-11T00:00:00.000Z",
-          "category": "3.9",
-          "downloads": 8
-        },
-        {
-          "date": "2025-08-11T00:00:00.000Z",
-          "category": "3.11",
-          "downloads": 73
-        },
-        {
-          "date": "2025-08-11T00:00:00.000Z",
           "category": "3.7",
           "downloads": 3
+        },
+        {
+          "date": "2025-08-11T00:00:00.000Z",
+          "category": "3.12",
+          "downloads": 53
+        },
+        {
+          "date": "2025-08-11T00:00:00.000Z",
+          "category": "3.9",
+          "downloads": 8
         },
         {
           "date": "2025-08-11T00:00:00.000Z",
@@ -4953,9 +4877,14 @@
           "downloads": 151
         },
         {
+          "date": "2025-08-11T00:00:00.000Z",
+          "category": "3.11",
+          "downloads": 73
+        },
+        {
           "date": "2025-08-12T00:00:00.000Z",
-          "category": "3.12",
-          "downloads": 150
+          "category": "3.13",
+          "downloads": 59
         },
         {
           "date": "2025-08-12T00:00:00.000Z",
@@ -4969,13 +4898,13 @@
         },
         {
           "date": "2025-08-12T00:00:00.000Z",
-          "category": "3.13",
-          "downloads": 59
+          "category": "3.7",
+          "downloads": 1
         },
         {
           "date": "2025-08-12T00:00:00.000Z",
-          "category": "3.7",
-          "downloads": 1
+          "category": "3.12",
+          "downloads": 150
         },
         {
           "date": "2025-08-12T00:00:00.000Z",
@@ -4984,13 +4913,8 @@
         },
         {
           "date": "2025-08-13T00:00:00.000Z",
-          "category": "3.13",
-          "downloads": 63
-        },
-        {
-          "date": "2025-08-13T00:00:00.000Z",
-          "category": "3.11",
-          "downloads": 72
+          "category": "3.12",
+          "downloads": 81
         },
         {
           "date": "2025-08-13T00:00:00.000Z",
@@ -4999,8 +4923,13 @@
         },
         {
           "date": "2025-08-13T00:00:00.000Z",
-          "category": "3.12",
-          "downloads": 81
+          "category": "3.11",
+          "downloads": 72
+        },
+        {
+          "date": "2025-08-13T00:00:00.000Z",
+          "category": "3.13",
+          "downloads": 63
         },
         {
           "date": "2025-08-13T00:00:00.000Z",
@@ -5029,21 +4958,16 @@
         },
         {
           "date": "2025-08-14T00:00:00.000Z",
-          "category": "3.7",
+          "category": "3.9",
           "downloads": 3
         },
         {
           "date": "2025-08-14T00:00:00.000Z",
-          "category": "3.9",
+          "category": "3.7",
           "downloads": 3
         }
       ],
       "systemSeries": [
-        {
-          "date": "2025-07-16T00:00:00.000Z",
-          "category": "other",
-          "downloads": 78
-        },
         {
           "date": "2025-07-16T00:00:00.000Z",
           "category": "Windows",
@@ -5060,39 +4984,9 @@
           "downloads": 2
         },
         {
-          "date": "2025-07-17T00:00:00.000Z",
-          "category": "Windows",
-          "downloads": 4
-        },
-        {
-          "date": "2025-07-17T00:00:00.000Z",
-          "category": "Linux",
-          "downloads": 365
-        },
-        {
-          "date": "2025-07-17T00:00:00.000Z",
+          "date": "2025-07-16T00:00:00.000Z",
           "category": "other",
-          "downloads": 21
-        },
-        {
-          "date": "2025-07-18T00:00:00.000Z",
-          "category": "other",
-          "downloads": 55
-        },
-        {
-          "date": "2025-07-18T00:00:00.000Z",
-          "category": "Linux",
-          "downloads": 316
-        },
-        {
-          "date": "2025-07-18T00:00:00.000Z",
-          "category": "Darwin",
-          "downloads": 5
-        },
-        {
-          "date": "2025-07-18T00:00:00.000Z",
-          "category": "Windows",
-          "downloads": 4
+          "downloads": 78
         },
         {
           "date": "2025-07-19T00:00:00.000Z",
@@ -5121,13 +5015,13 @@
         },
         {
           "date": "2025-07-21T00:00:00.000Z",
-          "category": "Darwin",
-          "downloads": 2
+          "category": "Linux",
+          "downloads": 303
         },
         {
           "date": "2025-07-21T00:00:00.000Z",
-          "category": "Linux",
-          "downloads": 303
+          "category": "Darwin",
+          "downloads": 2
         },
         {
           "date": "2025-07-21T00:00:00.000Z",
@@ -5141,11 +5035,6 @@
         },
         {
           "date": "2025-07-22T00:00:00.000Z",
-          "category": "Darwin",
-          "downloads": 4
-        },
-        {
-          "date": "2025-07-22T00:00:00.000Z",
           "category": "Linux",
           "downloads": 370
         },
@@ -5153,6 +5042,11 @@
           "date": "2025-07-22T00:00:00.000Z",
           "category": "Windows",
           "downloads": 2
+        },
+        {
+          "date": "2025-07-22T00:00:00.000Z",
+          "category": "Darwin",
+          "downloads": 4
         },
         {
           "date": "2025-07-23T00:00:00.000Z",
@@ -5176,11 +5070,6 @@
         },
         {
           "date": "2025-07-24T00:00:00.000Z",
-          "category": "other",
-          "downloads": 277
-        },
-        {
-          "date": "2025-07-24T00:00:00.000Z",
           "category": "Windows",
           "downloads": 8
         },
@@ -5188,6 +5077,16 @@
           "date": "2025-07-24T00:00:00.000Z",
           "category": "Linux",
           "downloads": 341
+        },
+        {
+          "date": "2025-07-24T00:00:00.000Z",
+          "category": "other",
+          "downloads": 277
+        },
+        {
+          "date": "2025-07-25T00:00:00.000Z",
+          "category": "Linux",
+          "downloads": 297
         },
         {
           "date": "2025-07-25T00:00:00.000Z",
@@ -5205,19 +5104,14 @@
           "downloads": 66
         },
         {
-          "date": "2025-07-25T00:00:00.000Z",
-          "category": "Linux",
-          "downloads": 297
+          "date": "2025-07-26T00:00:00.000Z",
+          "category": "other",
+          "downloads": 79
         },
         {
           "date": "2025-07-26T00:00:00.000Z",
           "category": "Linux",
           "downloads": 266
-        },
-        {
-          "date": "2025-07-26T00:00:00.000Z",
-          "category": "other",
-          "downloads": 79
         },
         {
           "date": "2025-07-27T00:00:00.000Z",
@@ -5236,13 +5130,8 @@
         },
         {
           "date": "2025-07-28T00:00:00.000Z",
-          "category": "Windows",
-          "downloads": 8
-        },
-        {
-          "date": "2025-07-28T00:00:00.000Z",
-          "category": "other",
-          "downloads": 24
+          "category": "Darwin",
+          "downloads": 2
         },
         {
           "date": "2025-07-28T00:00:00.000Z",
@@ -5251,18 +5140,13 @@
         },
         {
           "date": "2025-07-28T00:00:00.000Z",
-          "category": "Darwin",
-          "downloads": 2
+          "category": "Windows",
+          "downloads": 8
         },
         {
-          "date": "2025-07-29T00:00:00.000Z",
+          "date": "2025-07-28T00:00:00.000Z",
           "category": "other",
-          "downloads": 148
-        },
-        {
-          "date": "2025-07-29T00:00:00.000Z",
-          "category": "Linux",
-          "downloads": 314
+          "downloads": 24
         },
         {
           "date": "2025-07-29T00:00:00.000Z",
@@ -5273,6 +5157,16 @@
           "date": "2025-07-29T00:00:00.000Z",
           "category": "Darwin",
           "downloads": 4
+        },
+        {
+          "date": "2025-07-29T00:00:00.000Z",
+          "category": "other",
+          "downloads": 148
+        },
+        {
+          "date": "2025-07-29T00:00:00.000Z",
+          "category": "Linux",
+          "downloads": 314
         },
         {
           "date": "2025-07-30T00:00:00.000Z",
@@ -5311,8 +5205,8 @@
         },
         {
           "date": "2025-08-01T00:00:00.000Z",
-          "category": "other",
-          "downloads": 88
+          "category": "Linux",
+          "downloads": 350
         },
         {
           "date": "2025-08-01T00:00:00.000Z",
@@ -5321,18 +5215,13 @@
         },
         {
           "date": "2025-08-01T00:00:00.000Z",
-          "category": "Linux",
-          "downloads": 350
-        },
-        {
-          "date": "2025-08-01T00:00:00.000Z",
           "category": "Windows",
           "downloads": 2
         },
         {
-          "date": "2025-08-02T00:00:00.000Z",
-          "category": "Linux",
-          "downloads": 268
+          "date": "2025-08-01T00:00:00.000Z",
+          "category": "other",
+          "downloads": 88
         },
         {
           "date": "2025-08-02T00:00:00.000Z",
@@ -5345,9 +5234,14 @@
           "downloads": 75
         },
         {
+          "date": "2025-08-02T00:00:00.000Z",
+          "category": "Linux",
+          "downloads": 268
+        },
+        {
           "date": "2025-08-03T00:00:00.000Z",
-          "category": "Windows",
-          "downloads": 4
+          "category": "other",
+          "downloads": 31
         },
         {
           "date": "2025-08-03T00:00:00.000Z",
@@ -5356,8 +5250,13 @@
         },
         {
           "date": "2025-08-03T00:00:00.000Z",
-          "category": "other",
-          "downloads": 31
+          "category": "Windows",
+          "downloads": 4
+        },
+        {
+          "date": "2025-08-04T00:00:00.000Z",
+          "category": "Linux",
+          "downloads": 313
         },
         {
           "date": "2025-08-04T00:00:00.000Z",
@@ -5366,18 +5265,18 @@
         },
         {
           "date": "2025-08-04T00:00:00.000Z",
-          "category": "Windows",
-          "downloads": 6
-        },
-        {
-          "date": "2025-08-04T00:00:00.000Z",
           "category": "other",
           "downloads": 35
         },
         {
           "date": "2025-08-04T00:00:00.000Z",
-          "category": "Linux",
-          "downloads": 313
+          "category": "Windows",
+          "downloads": 6
+        },
+        {
+          "date": "2025-08-05T00:00:00.000Z",
+          "category": "other",
+          "downloads": 23
         },
         {
           "date": "2025-08-05T00:00:00.000Z",
@@ -5395,14 +5294,9 @@
           "downloads": 5
         },
         {
-          "date": "2025-08-05T00:00:00.000Z",
-          "category": "other",
-          "downloads": 23
-        },
-        {
           "date": "2025-08-06T00:00:00.000Z",
-          "category": "Linux",
-          "downloads": 295
+          "category": "Darwin",
+          "downloads": 2
         },
         {
           "date": "2025-08-06T00:00:00.000Z",
@@ -5411,23 +5305,18 @@
         },
         {
           "date": "2025-08-06T00:00:00.000Z",
+          "category": "Linux",
+          "downloads": 295
+        },
+        {
+          "date": "2025-08-06T00:00:00.000Z",
           "category": "Windows",
           "downloads": 8
         },
         {
-          "date": "2025-08-06T00:00:00.000Z",
-          "category": "Darwin",
-          "downloads": 2
-        },
-        {
           "date": "2025-08-07T00:00:00.000Z",
           "category": "Darwin",
           "downloads": 2
-        },
-        {
-          "date": "2025-08-07T00:00:00.000Z",
-          "category": "Linux",
-          "downloads": 341
         },
         {
           "date": "2025-08-07T00:00:00.000Z",
@@ -5435,9 +5324,9 @@
           "downloads": 50
         },
         {
-          "date": "2025-08-08T00:00:00.000Z",
+          "date": "2025-08-07T00:00:00.000Z",
           "category": "Linux",
-          "downloads": 355
+          "downloads": 341
         },
         {
           "date": "2025-08-08T00:00:00.000Z",
@@ -5450,9 +5339,9 @@
           "downloads": 4
         },
         {
-          "date": "2025-08-09T00:00:00.000Z",
-          "category": "other",
-          "downloads": 66
+          "date": "2025-08-08T00:00:00.000Z",
+          "category": "Linux",
+          "downloads": 355
         },
         {
           "date": "2025-08-09T00:00:00.000Z",
@@ -5460,14 +5349,19 @@
           "downloads": 278
         },
         {
-          "date": "2025-08-10T00:00:00.000Z",
+          "date": "2025-08-09T00:00:00.000Z",
           "category": "other",
-          "downloads": 14
+          "downloads": 66
         },
         {
           "date": "2025-08-10T00:00:00.000Z",
           "category": "Linux",
           "downloads": 271
+        },
+        {
+          "date": "2025-08-10T00:00:00.000Z",
+          "category": "other",
+          "downloads": 14
         },
         {
           "date": "2025-08-11T00:00:00.000Z",
@@ -5478,6 +5372,11 @@
           "date": "2025-08-11T00:00:00.000Z",
           "category": "Linux",
           "downloads": 339
+        },
+        {
+          "date": "2025-08-12T00:00:00.000Z",
+          "category": "Darwin",
+          "downloads": 2
         },
         {
           "date": "2025-08-12T00:00:00.000Z",
@@ -5495,16 +5394,6 @@
           "downloads": 2
         },
         {
-          "date": "2025-08-12T00:00:00.000Z",
-          "category": "Darwin",
-          "downloads": 2
-        },
-        {
-          "date": "2025-08-13T00:00:00.000Z",
-          "category": "Linux",
-          "downloads": 350
-        },
-        {
           "date": "2025-08-13T00:00:00.000Z",
           "category": "other",
           "downloads": 61
@@ -5515,14 +5404,19 @@
           "downloads": 4
         },
         {
-          "date": "2025-08-14T00:00:00.000Z",
+          "date": "2025-08-13T00:00:00.000Z",
           "category": "Linux",
-          "downloads": 464
+          "downloads": 350
         },
         {
           "date": "2025-08-14T00:00:00.000Z",
           "category": "other",
           "downloads": 19
+        },
+        {
+          "date": "2025-08-14T00:00:00.000Z",
+          "category": "Linux",
+          "downloads": 464
         },
         {
           "date": "2025-08-14T00:00:00.000Z",
@@ -5533,23 +5427,8 @@
       "installerSeries": [
         {
           "date": "2025-07-16T00:00:00.000Z",
-          "category": "unknown",
-          "downloads": 8
-        },
-        {
-          "date": "2025-07-16T00:00:00.000Z",
-          "category": "pip",
-          "downloads": 283
-        },
-        {
-          "date": "2025-07-16T00:00:00.000Z",
           "category": "bandersnatch",
           "downloads": 24
-        },
-        {
-          "date": "2025-07-16T00:00:00.000Z",
-          "category": "poetry",
-          "downloads": 3
         },
         {
           "date": "2025-07-16T00:00:00.000Z",
@@ -5558,8 +5437,18 @@
         },
         {
           "date": "2025-07-16T00:00:00.000Z",
-          "category": "requests",
-          "downloads": 1
+          "category": "unknown",
+          "downloads": 8
+        },
+        {
+          "date": "2025-07-16T00:00:00.000Z",
+          "category": "poetry",
+          "downloads": 3
+        },
+        {
+          "date": "2025-07-16T00:00:00.000Z",
+          "category": "pip",
+          "downloads": 283
         },
         {
           "date": "2025-07-16T00:00:00.000Z",
@@ -5572,54 +5461,9 @@
           "downloads": 4
         },
         {
-          "date": "2025-07-17T00:00:00.000Z",
-          "category": "unknown",
-          "downloads": 17
-        },
-        {
-          "date": "2025-07-17T00:00:00.000Z",
-          "category": "bandersnatch",
-          "downloads": 2
-        },
-        {
-          "date": "2025-07-17T00:00:00.000Z",
-          "category": "Browser",
-          "downloads": 2
-        },
-        {
-          "date": "2025-07-17T00:00:00.000Z",
-          "category": "poetry",
-          "downloads": 6
-        },
-        {
-          "date": "2025-07-17T00:00:00.000Z",
-          "category": "pip",
-          "downloads": 363
-        },
-        {
-          "date": "2025-07-18T00:00:00.000Z",
-          "category": "bandersnatch",
-          "downloads": 14
-        },
-        {
-          "date": "2025-07-18T00:00:00.000Z",
-          "category": "unknown",
-          "downloads": 34
-        },
-        {
-          "date": "2025-07-18T00:00:00.000Z",
-          "category": "pip",
-          "downloads": 325
-        },
-        {
-          "date": "2025-07-18T00:00:00.000Z",
+          "date": "2025-07-16T00:00:00.000Z",
           "category": "requests",
-          "downloads": 7
-        },
-        {
-          "date": "2025-07-19T00:00:00.000Z",
-          "category": "Browser",
-          "downloads": 14
+          "downloads": 1
         },
         {
           "date": "2025-07-19T00:00:00.000Z",
@@ -5628,8 +5472,8 @@
         },
         {
           "date": "2025-07-19T00:00:00.000Z",
-          "category": "requests",
-          "downloads": 1
+          "category": "pip",
+          "downloads": 248
         },
         {
           "date": "2025-07-19T00:00:00.000Z",
@@ -5638,18 +5482,23 @@
         },
         {
           "date": "2025-07-19T00:00:00.000Z",
-          "category": "pip",
-          "downloads": 248
+          "category": "Browser",
+          "downloads": 14
         },
         {
-          "date": "2025-07-20T00:00:00.000Z",
-          "category": "uv",
-          "downloads": 2
+          "date": "2025-07-19T00:00:00.000Z",
+          "category": "requests",
+          "downloads": 1
         },
         {
           "date": "2025-07-20T00:00:00.000Z",
           "category": "pip",
           "downloads": 246
+        },
+        {
+          "date": "2025-07-20T00:00:00.000Z",
+          "category": "uv",
+          "downloads": 2
         },
         {
           "date": "2025-07-21T00:00:00.000Z",
@@ -5658,13 +5507,13 @@
         },
         {
           "date": "2025-07-21T00:00:00.000Z",
-          "category": "poetry",
-          "downloads": 1
+          "category": "pip",
+          "downloads": 304
         },
         {
           "date": "2025-07-21T00:00:00.000Z",
-          "category": "pip",
-          "downloads": 304
+          "category": "poetry",
+          "downloads": 1
         },
         {
           "date": "2025-07-22T00:00:00.000Z",
@@ -5673,8 +5522,8 @@
         },
         {
           "date": "2025-07-22T00:00:00.000Z",
-          "category": "pip",
-          "downloads": 370
+          "category": "uv",
+          "downloads": 4
         },
         {
           "date": "2025-07-22T00:00:00.000Z",
@@ -5683,8 +5532,8 @@
         },
         {
           "date": "2025-07-22T00:00:00.000Z",
-          "category": "uv",
-          "downloads": 4
+          "category": "pip",
+          "downloads": 370
         },
         {
           "date": "2025-07-22T00:00:00.000Z",
@@ -5703,13 +5552,18 @@
         },
         {
           "date": "2025-07-24T00:00:00.000Z",
-          "category": "unknown",
-          "downloads": 47
+          "category": "requests",
+          "downloads": 27
         },
         {
           "date": "2025-07-24T00:00:00.000Z",
           "category": "Browser",
           "downloads": 28
+        },
+        {
+          "date": "2025-07-24T00:00:00.000Z",
+          "category": "pip",
+          "downloads": 350
         },
         {
           "date": "2025-07-24T00:00:00.000Z",
@@ -5723,33 +5577,13 @@
         },
         {
           "date": "2025-07-24T00:00:00.000Z",
-          "category": "pip",
-          "downloads": 350
+          "category": "unknown",
+          "downloads": 47
         },
         {
           "date": "2025-07-24T00:00:00.000Z",
           "category": "Nexus",
           "downloads": 1
-        },
-        {
-          "date": "2025-07-24T00:00:00.000Z",
-          "category": "requests",
-          "downloads": 27
-        },
-        {
-          "date": "2025-07-25T00:00:00.000Z",
-          "category": "bandersnatch",
-          "downloads": 36
-        },
-        {
-          "date": "2025-07-25T00:00:00.000Z",
-          "category": "requests",
-          "downloads": 3
-        },
-        {
-          "date": "2025-07-25T00:00:00.000Z",
-          "category": "unknown",
-          "downloads": 16
         },
         {
           "date": "2025-07-25T00:00:00.000Z",
@@ -5758,8 +5592,23 @@
         },
         {
           "date": "2025-07-25T00:00:00.000Z",
+          "category": "unknown",
+          "downloads": 16
+        },
+        {
+          "date": "2025-07-25T00:00:00.000Z",
           "category": "Browser",
           "downloads": 11
+        },
+        {
+          "date": "2025-07-25T00:00:00.000Z",
+          "category": "requests",
+          "downloads": 3
+        },
+        {
+          "date": "2025-07-25T00:00:00.000Z",
+          "category": "bandersnatch",
+          "downloads": 36
         },
         {
           "date": "2025-07-26T00:00:00.000Z",
@@ -5788,11 +5637,6 @@
         },
         {
           "date": "2025-07-27T00:00:00.000Z",
-          "category": "pip",
-          "downloads": 268
-        },
-        {
-          "date": "2025-07-27T00:00:00.000Z",
           "category": "Nexus",
           "downloads": 1
         },
@@ -5802,24 +5646,14 @@
           "downloads": 3
         },
         {
-          "date": "2025-07-28T00:00:00.000Z",
-          "category": "requests",
-          "downloads": 8
-        },
-        {
-          "date": "2025-07-28T00:00:00.000Z",
-          "category": "uv",
-          "downloads": 4
+          "date": "2025-07-27T00:00:00.000Z",
+          "category": "pip",
+          "downloads": 268
         },
         {
           "date": "2025-07-28T00:00:00.000Z",
           "category": "Browser",
           "downloads": 1
-        },
-        {
-          "date": "2025-07-28T00:00:00.000Z",
-          "category": "bandersnatch",
-          "downloads": 14
         },
         {
           "date": "2025-07-28T00:00:00.000Z",
@@ -5832,14 +5666,44 @@
           "downloads": 334
         },
         {
-          "date": "2025-07-29T00:00:00.000Z",
-          "category": "unknown",
-          "downloads": 65
+          "date": "2025-07-28T00:00:00.000Z",
+          "category": "bandersnatch",
+          "downloads": 14
+        },
+        {
+          "date": "2025-07-28T00:00:00.000Z",
+          "category": "requests",
+          "downloads": 8
+        },
+        {
+          "date": "2025-07-28T00:00:00.000Z",
+          "category": "uv",
+          "downloads": 4
         },
         {
           "date": "2025-07-29T00:00:00.000Z",
           "category": "Browser",
           "downloads": 36
+        },
+        {
+          "date": "2025-07-29T00:00:00.000Z",
+          "category": "requests",
+          "downloads": 23
+        },
+        {
+          "date": "2025-07-29T00:00:00.000Z",
+          "category": "Nexus",
+          "downloads": 1
+        },
+        {
+          "date": "2025-07-29T00:00:00.000Z",
+          "category": "bandersnatch",
+          "downloads": 23
+        },
+        {
+          "date": "2025-07-29T00:00:00.000Z",
+          "category": "unknown",
+          "downloads": 65
         },
         {
           "date": "2025-07-29T00:00:00.000Z",
@@ -5852,44 +5716,9 @@
           "downloads": 317
         },
         {
-          "date": "2025-07-29T00:00:00.000Z",
-          "category": "Nexus",
-          "downloads": 1
-        },
-        {
-          "date": "2025-07-29T00:00:00.000Z",
-          "category": "requests",
-          "downloads": 23
-        },
-        {
-          "date": "2025-07-29T00:00:00.000Z",
-          "category": "bandersnatch",
-          "downloads": 23
-        },
-        {
-          "date": "2025-07-30T00:00:00.000Z",
-          "category": "pip",
-          "downloads": 380
-        },
-        {
-          "date": "2025-07-30T00:00:00.000Z",
-          "category": "unknown",
-          "downloads": 16
-        },
-        {
-          "date": "2025-07-30T00:00:00.000Z",
-          "category": "requests",
-          "downloads": 4
-        },
-        {
           "date": "2025-07-30T00:00:00.000Z",
           "category": "poetry",
           "downloads": 3
-        },
-        {
-          "date": "2025-07-30T00:00:00.000Z",
-          "category": "Browser",
-          "downloads": 11
         },
         {
           "date": "2025-07-30T00:00:00.000Z",
@@ -5902,9 +5731,29 @@
           "downloads": 2
         },
         {
-          "date": "2025-07-31T00:00:00.000Z",
-          "category": "bandersnatch",
+          "date": "2025-07-30T00:00:00.000Z",
+          "category": "requests",
           "downloads": 4
+        },
+        {
+          "date": "2025-07-30T00:00:00.000Z",
+          "category": "unknown",
+          "downloads": 16
+        },
+        {
+          "date": "2025-07-30T00:00:00.000Z",
+          "category": "Browser",
+          "downloads": 11
+        },
+        {
+          "date": "2025-07-30T00:00:00.000Z",
+          "category": "pip",
+          "downloads": 380
+        },
+        {
+          "date": "2025-07-31T00:00:00.000Z",
+          "category": "Browser",
+          "downloads": 1
         },
         {
           "date": "2025-07-31T00:00:00.000Z",
@@ -5913,28 +5762,13 @@
         },
         {
           "date": "2025-07-31T00:00:00.000Z",
-          "category": "unknown",
-          "downloads": 5
+          "category": "bandersnatch",
+          "downloads": 4
         },
         {
           "date": "2025-07-31T00:00:00.000Z",
-          "category": "Browser",
-          "downloads": 1
-        },
-        {
-          "date": "2025-08-01T00:00:00.000Z",
-          "category": "uv",
-          "downloads": 5
-        },
-        {
-          "date": "2025-08-01T00:00:00.000Z",
-          "category": "pip",
-          "downloads": 353
-        },
-        {
-          "date": "2025-08-01T00:00:00.000Z",
           "category": "unknown",
-          "downloads": 3
+          "downloads": 5
         },
         {
           "date": "2025-08-01T00:00:00.000Z",
@@ -5948,23 +5782,23 @@
         },
         {
           "date": "2025-08-01T00:00:00.000Z",
+          "category": "unknown",
+          "downloads": 3
+        },
+        {
+          "date": "2025-08-01T00:00:00.000Z",
+          "category": "uv",
+          "downloads": 5
+        },
+        {
+          "date": "2025-08-01T00:00:00.000Z",
+          "category": "pip",
+          "downloads": 353
+        },
+        {
+          "date": "2025-08-01T00:00:00.000Z",
           "category": "Artifactory",
           "downloads": 4
-        },
-        {
-          "date": "2025-08-02T00:00:00.000Z",
-          "category": "unknown",
-          "downloads": 2
-        },
-        {
-          "date": "2025-08-02T00:00:00.000Z",
-          "category": "pip",
-          "downloads": 268
-        },
-        {
-          "date": "2025-08-02T00:00:00.000Z",
-          "category": "Browser",
-          "downloads": 7
         },
         {
           "date": "2025-08-02T00:00:00.000Z",
@@ -5978,8 +5812,33 @@
         },
         {
           "date": "2025-08-02T00:00:00.000Z",
+          "category": "pip",
+          "downloads": 268
+        },
+        {
+          "date": "2025-08-02T00:00:00.000Z",
+          "category": "unknown",
+          "downloads": 2
+        },
+        {
+          "date": "2025-08-02T00:00:00.000Z",
+          "category": "Browser",
+          "downloads": 7
+        },
+        {
+          "date": "2025-08-02T00:00:00.000Z",
           "category": "uv",
           "downloads": 2
+        },
+        {
+          "date": "2025-08-03T00:00:00.000Z",
+          "category": "pip",
+          "downloads": 268
+        },
+        {
+          "date": "2025-08-03T00:00:00.000Z",
+          "category": "unknown",
+          "downloads": 1
         },
         {
           "date": "2025-08-03T00:00:00.000Z",
@@ -5992,24 +5851,9 @@
           "downloads": 6
         },
         {
-          "date": "2025-08-03T00:00:00.000Z",
-          "category": "unknown",
-          "downloads": 1
-        },
-        {
-          "date": "2025-08-03T00:00:00.000Z",
-          "category": "pip",
-          "downloads": 268
-        },
-        {
           "date": "2025-08-04T00:00:00.000Z",
           "category": "Browser",
           "downloads": 1
-        },
-        {
-          "date": "2025-08-04T00:00:00.000Z",
-          "category": "pip",
-          "downloads": 323
         },
         {
           "date": "2025-08-04T00:00:00.000Z",
@@ -6020,6 +5864,11 @@
           "date": "2025-08-04T00:00:00.000Z",
           "category": "bandersnatch",
           "downloads": 4
+        },
+        {
+          "date": "2025-08-04T00:00:00.000Z",
+          "category": "pip",
+          "downloads": 323
         },
         {
           "date": "2025-08-05T00:00:00.000Z",
@@ -6048,23 +5897,18 @@
         },
         {
           "date": "2025-08-06T00:00:00.000Z",
-          "category": "bandersnatch",
-          "downloads": 122
-        },
-        {
-          "date": "2025-08-06T00:00:00.000Z",
           "category": "pip",
           "downloads": 305
         },
         {
-          "date": "2025-08-07T00:00:00.000Z",
-          "category": "poetry",
-          "downloads": 4
+          "date": "2025-08-06T00:00:00.000Z",
+          "category": "bandersnatch",
+          "downloads": 122
         },
         {
           "date": "2025-08-07T00:00:00.000Z",
-          "category": "uv",
-          "downloads": 2
+          "category": "unknown",
+          "downloads": 6
         },
         {
           "date": "2025-08-07T00:00:00.000Z",
@@ -6073,18 +5917,23 @@
         },
         {
           "date": "2025-08-07T00:00:00.000Z",
-          "category": "bandersnatch",
-          "downloads": 2
-        },
-        {
-          "date": "2025-08-07T00:00:00.000Z",
           "category": "Browser",
           "downloads": 42
         },
         {
           "date": "2025-08-07T00:00:00.000Z",
-          "category": "unknown",
-          "downloads": 6
+          "category": "uv",
+          "downloads": 2
+        },
+        {
+          "date": "2025-08-07T00:00:00.000Z",
+          "category": "poetry",
+          "downloads": 4
+        },
+        {
+          "date": "2025-08-07T00:00:00.000Z",
+          "category": "bandersnatch",
+          "downloads": 2
         },
         {
           "date": "2025-08-08T00:00:00.000Z",
@@ -6098,11 +5947,6 @@
         },
         {
           "date": "2025-08-09T00:00:00.000Z",
-          "category": "bandersnatch",
-          "downloads": 64
-        },
-        {
-          "date": "2025-08-09T00:00:00.000Z",
           "category": "requests",
           "downloads": 2
         },
@@ -6112,8 +5956,13 @@
           "downloads": 278
         },
         {
+          "date": "2025-08-09T00:00:00.000Z",
+          "category": "bandersnatch",
+          "downloads": 64
+        },
+        {
           "date": "2025-08-10T00:00:00.000Z",
-          "category": "unknown",
+          "category": "Browser",
           "downloads": 1
         },
         {
@@ -6123,8 +5972,8 @@
         },
         {
           "date": "2025-08-10T00:00:00.000Z",
-          "category": "Browser",
-          "downloads": 1
+          "category": "pip",
+          "downloads": 271
         },
         {
           "date": "2025-08-10T00:00:00.000Z",
@@ -6133,13 +5982,8 @@
         },
         {
           "date": "2025-08-10T00:00:00.000Z",
-          "category": "pip",
-          "downloads": 271
-        },
-        {
-          "date": "2025-08-11T00:00:00.000Z",
-          "category": "bandersnatch",
-          "downloads": 62
+          "category": "unknown",
+          "downloads": 1
         },
         {
           "date": "2025-08-11T00:00:00.000Z",
@@ -6152,9 +5996,9 @@
           "downloads": 339
         },
         {
-          "date": "2025-08-12T00:00:00.000Z",
-          "category": "unknown",
-          "downloads": 1
+          "date": "2025-08-11T00:00:00.000Z",
+          "category": "bandersnatch",
+          "downloads": 62
         },
         {
           "date": "2025-08-12T00:00:00.000Z",
@@ -6163,8 +6007,18 @@
         },
         {
           "date": "2025-08-12T00:00:00.000Z",
+          "category": "bandersnatch",
+          "downloads": 118
+        },
+        {
+          "date": "2025-08-12T00:00:00.000Z",
           "category": "Browser",
           "downloads": 5
+        },
+        {
+          "date": "2025-08-12T00:00:00.000Z",
+          "category": "unknown",
+          "downloads": 1
         },
         {
           "date": "2025-08-12T00:00:00.000Z",
@@ -6172,9 +6026,9 @@
           "downloads": 3
         },
         {
-          "date": "2025-08-12T00:00:00.000Z",
-          "category": "bandersnatch",
-          "downloads": 118
+          "date": "2025-08-13T00:00:00.000Z",
+          "category": "poetry",
+          "downloads": 2
         },
         {
           "date": "2025-08-13T00:00:00.000Z",
@@ -6183,8 +6037,8 @@
         },
         {
           "date": "2025-08-13T00:00:00.000Z",
-          "category": "poetry",
-          "downloads": 2
+          "category": "Nexus",
+          "downloads": 1
         },
         {
           "date": "2025-08-13T00:00:00.000Z",
@@ -6199,11 +6053,6 @@
         {
           "date": "2025-08-13T00:00:00.000Z",
           "category": "unknown",
-          "downloads": 1
-        },
-        {
-          "date": "2025-08-13T00:00:00.000Z",
-          "category": "Nexus",
           "downloads": 1
         },
         {
@@ -6236,8 +6085,6 @@
         "title": "sailpoint — Overall downloads (with/without mirrors)",
         "labels": [
           "2025-07-16",
-          "2025-07-17",
-          "2025-07-18",
           "2025-07-19",
           "2025-07-20",
           "2025-07-21",
@@ -6271,8 +6118,6 @@
             "label": "without_mirrors",
             "data": [
               336,
-              371,
-              332,
               263,
               248,
               305,
@@ -6309,8 +6154,6 @@
             "label": "with_mirrors",
             "data": [
               368,
-              390,
-              380,
               344,
               248,
               313,
@@ -6352,8 +6195,6 @@
         "title": "sailpoint — Downloads by Python major version",
         "labels": [
           "2025-07-16",
-          "2025-07-17",
-          "2025-07-18",
           "2025-07-19",
           "2025-07-20",
           "2025-07-21",
@@ -6387,8 +6228,6 @@
             "label": "3",
             "data": [
               287,
-              363,
-              325,
               248,
               248,
               304,
@@ -6417,15 +6256,13 @@
               352,
               467
             ],
-            "borderColor": "#16a34a",
-            "backgroundColor": "#16a34a33",
+            "borderColor": "#2563eb",
+            "backgroundColor": "#2563eb33",
             "fill": true
           },
           {
             "label": "2",
             "data": [
-              0,
-              0,
               0,
               0,
               0,
@@ -6468,8 +6305,6 @@
         "title": "sailpoint — Downloads by Python minor version",
         "labels": [
           "2025-07-16",
-          "2025-07-17",
-          "2025-07-18",
           "2025-07-19",
           "2025-07-20",
           "2025-07-21",
@@ -6500,87 +6335,9 @@
         ],
         "datasets": [
           {
-            "label": "3.7",
-            "data": [
-              2,
-              1,
-              2,
-              1,
-              1,
-              1,
-              1,
-              1,
-              6,
-              1,
-              1,
-              1,
-              1,
-              5,
-              2,
-              2,
-              1,
-              3,
-              1,
-              3,
-              3,
-              0,
-              4,
-              1,
-              2,
-              2,
-              3,
-              1,
-              3,
-              3
-            ],
-            "borderColor": "#2563eb",
-            "backgroundColor": "#2563eb33",
-            "fill": true
-          },
-          {
-            "label": "3.11",
-            "data": [
-              102,
-              108,
-              124,
-              72,
-              74,
-              106,
-              84,
-              76,
-              88,
-              78,
-              72,
-              72,
-              74,
-              80,
-              75,
-              76,
-              80,
-              72,
-              74,
-              72,
-              78,
-              80,
-              74,
-              72,
-              75,
-              72,
-              73,
-              78,
-              72,
-              72
-            ],
-            "borderColor": "#16a34a",
-            "backgroundColor": "#16a34a33",
-            "fill": true
-          },
-          {
             "label": "3.10",
             "data": [
               118,
-              132,
-              140,
               120,
               121,
               132,
@@ -6609,6 +6366,42 @@
               133,
               143
             ],
+            "borderColor": "#2563eb",
+            "backgroundColor": "#2563eb33",
+            "fill": true
+          },
+          {
+            "label": "3.13",
+            "data": [
+              54,
+              54,
+              52,
+              54,
+              60,
+              63,
+              59,
+              57,
+              51,
+              52,
+              67,
+              52,
+              61,
+              55,
+              53,
+              53,
+              52,
+              53,
+              59,
+              57,
+              53,
+              99,
+              53,
+              52,
+              51,
+              59,
+              63,
+              55
+            ],
             "borderColor": "#dc2626",
             "backgroundColor": "#dc262633",
             "fill": true
@@ -6617,8 +6410,6 @@
             "label": "3.12",
             "data": [
               10,
-              68,
-              2,
               0,
               0,
               11,
@@ -6652,11 +6443,81 @@
             "fill": true
           },
           {
+            "label": "3.11",
+            "data": [
+              102,
+              72,
+              74,
+              106,
+              84,
+              76,
+              88,
+              78,
+              72,
+              72,
+              74,
+              80,
+              75,
+              76,
+              80,
+              72,
+              74,
+              72,
+              78,
+              80,
+              74,
+              72,
+              75,
+              72,
+              73,
+              78,
+              72,
+              72
+            ],
+            "borderColor": "#ea580c",
+            "backgroundColor": "#ea580c33",
+            "fill": true
+          },
+          {
+            "label": "3.7",
+            "data": [
+              2,
+              1,
+              1,
+              1,
+              1,
+              1,
+              6,
+              1,
+              1,
+              1,
+              1,
+              5,
+              2,
+              2,
+              1,
+              3,
+              1,
+              3,
+              3,
+              0,
+              4,
+              1,
+              2,
+              2,
+              3,
+              1,
+              3,
+              3
+            ],
+            "borderColor": "#0891b2",
+            "backgroundColor": "#0891b233",
+            "fill": true
+          },
+          {
             "label": "3.8",
             "data": [
               1,
-              0,
-              0,
               0,
               0,
               0,
@@ -6685,54 +6546,86 @@
               0,
               0
             ],
-            "borderColor": "#ea580c",
-            "backgroundColor": "#ea580c33",
+            "borderColor": "#ca8a04",
+            "backgroundColor": "#ca8a0433",
             "fill": true
           },
           {
-            "label": "3.13",
+            "label": "3.6",
             "data": [
-              54,
-              54,
-              54,
-              54,
-              52,
-              54,
-              60,
-              63,
-              59,
-              57,
-              51,
-              52,
-              67,
-              52,
-              61,
-              55,
-              53,
-              53,
-              52,
-              53,
-              59,
-              57,
-              53,
-              99,
-              53,
-              52,
-              51,
-              59,
-              63,
-              55
+              0,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
             ],
-            "borderColor": "#ca8a04",
-            "backgroundColor": "#ca8a0433",
+            "borderColor": "#4b5563",
+            "backgroundColor": "#4b556333",
+            "fill": true
+          },
+          {
+            "label": "2.7",
+            "data": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "borderColor": "#2563eb",
+            "backgroundColor": "#2563eb33",
             "fill": true
           },
           {
             "label": "3.9",
             "data": [
               0,
-              0,
-              3,
               0,
               0,
               0,
@@ -6761,82 +6654,6 @@
               0,
               3
             ],
-            "borderColor": "#4b5563",
-            "backgroundColor": "#4b556333",
-            "fill": true
-          },
-          {
-            "label": "3.6",
-            "data": [
-              0,
-              0,
-              0,
-              1,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0
-            ],
-            "borderColor": "#2563eb",
-            "backgroundColor": "#2563eb33",
-            "fill": true
-          },
-          {
-            "label": "2.7",
-            "data": [
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              1,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0
-            ],
             "borderColor": "#16a34a",
             "backgroundColor": "#16a34a33",
             "fill": true
@@ -6850,8 +6667,6 @@
         "title": "sailpoint — Downloads by operating system",
         "labels": [
           "2025-07-16",
-          "2025-07-17",
-          "2025-07-18",
           "2025-07-19",
           "2025-07-20",
           "2025-07-21",
@@ -6882,49 +6697,9 @@
         ],
         "datasets": [
           {
-            "label": "other",
-            "data": [
-              78,
-              21,
-              55,
-              96,
-              0,
-              8,
-              6,
-              38,
-              277,
-              66,
-              79,
-              16,
-              24,
-              148,
-              76,
-              10,
-              88,
-              75,
-              31,
-              35,
-              23,
-              132,
-              50,
-              2,
-              66,
-              14,
-              64,
-              124,
-              61,
-              19
-            ],
-            "borderColor": "#2563eb",
-            "backgroundColor": "#2563eb33",
-            "fill": true
-          },
-          {
             "label": "Windows",
             "data": [
               7,
-              4,
-              4,
               0,
               2,
               0,
@@ -6953,16 +6728,14 @@
               4,
               0
             ],
-            "borderColor": "#16a34a",
-            "backgroundColor": "#16a34a33",
+            "borderColor": "#2563eb",
+            "backgroundColor": "#2563eb33",
             "fill": true
           },
           {
             "label": "Linux",
             "data": [
               281,
-              365,
-              316,
               244,
               246,
               303,
@@ -6991,16 +6764,14 @@
               350,
               464
             ],
-            "borderColor": "#dc2626",
-            "backgroundColor": "#dc262633",
+            "borderColor": "#16a34a",
+            "backgroundColor": "#16a34a33",
             "fill": true
           },
           {
             "label": "Darwin",
             "data": [
               2,
-              0,
-              5,
               4,
               0,
               2,
@@ -7029,6 +6800,42 @@
               0,
               3
             ],
+            "borderColor": "#dc2626",
+            "backgroundColor": "#dc262633",
+            "fill": true
+          },
+          {
+            "label": "other",
+            "data": [
+              78,
+              96,
+              0,
+              8,
+              6,
+              38,
+              277,
+              66,
+              79,
+              16,
+              24,
+              148,
+              76,
+              10,
+              88,
+              75,
+              31,
+              35,
+              23,
+              132,
+              50,
+              2,
+              66,
+              14,
+              64,
+              124,
+              61,
+              19
+            ],
             "borderColor": "#7c3aed",
             "backgroundColor": "#7c3aed33",
             "fill": true
@@ -7042,8 +6849,6 @@
         "title": "sailpoint — Downloads by installer",
         "labels": [
           "2025-07-16",
-          "2025-07-17",
-          "2025-07-18",
           "2025-07-19",
           "2025-07-20",
           "2025-07-21",
@@ -7074,87 +6879,9 @@
         ],
         "datasets": [
           {
-            "label": "unknown",
-            "data": [
-              8,
-              17,
-              34,
-              1,
-              0,
-              0,
-              0,
-              0,
-              47,
-              16,
-              2,
-              0,
-              1,
-              65,
-              16,
-              5,
-              3,
-              2,
-              1,
-              30,
-              1,
-              10,
-              6,
-              0,
-              0,
-              1,
-              0,
-              1,
-              1,
-              2
-            ],
-            "borderColor": "#2563eb",
-            "backgroundColor": "#2563eb33",
-            "fill": true
-          },
-          {
-            "label": "pip",
-            "data": [
-              283,
-              363,
-              325,
-              248,
-              246,
-              304,
-              370,
-              333,
-              350,
-              306,
-              266,
-              268,
-              334,
-              317,
-              380,
-              347,
-              353,
-              268,
-              268,
-              323,
-              281,
-              305,
-              337,
-              359,
-              278,
-              271,
-              339,
-              421,
-              352,
-              467
-            ],
-            "borderColor": "#16a34a",
-            "backgroundColor": "#16a34a33",
-            "fill": true
-          },
-          {
             "label": "bandersnatch",
             "data": [
               24,
-              2,
-              14,
               80,
               0,
               8,
@@ -7183,6 +6910,78 @@
               58,
               16
             ],
+            "borderColor": "#2563eb",
+            "backgroundColor": "#2563eb33",
+            "fill": true
+          },
+          {
+            "label": "Browser",
+            "data": [
+              44,
+              14,
+              0,
+              0,
+              2,
+              38,
+              28,
+              11,
+              7,
+              3,
+              1,
+              36,
+              11,
+              1,
+              15,
+              7,
+              24,
+              1,
+              0,
+              0,
+              42,
+              2,
+              0,
+              1,
+              2,
+              5,
+              0,
+              1
+            ],
+            "borderColor": "#16a34a",
+            "backgroundColor": "#16a34a33",
+            "fill": true
+          },
+          {
+            "label": "unknown",
+            "data": [
+              8,
+              1,
+              0,
+              0,
+              0,
+              0,
+              47,
+              16,
+              2,
+              0,
+              1,
+              65,
+              16,
+              5,
+              3,
+              2,
+              1,
+              30,
+              1,
+              10,
+              6,
+              0,
+              0,
+              1,
+              0,
+              1,
+              1,
+              2
+            ],
             "borderColor": "#dc2626",
             "backgroundColor": "#dc262633",
             "fill": true
@@ -7191,8 +6990,6 @@
             "label": "poetry",
             "data": [
               3,
-              6,
-              0,
               0,
               0,
               1,
@@ -7226,49 +7023,117 @@
             "fill": true
           },
           {
-            "label": "Browser",
+            "label": "pip",
             "data": [
-              44,
-              2,
-              0,
-              14,
-              0,
-              0,
-              2,
-              38,
-              28,
-              11,
-              7,
-              3,
-              1,
-              36,
-              11,
-              1,
-              15,
-              7,
-              24,
-              1,
-              0,
-              0,
-              42,
-              2,
-              0,
-              1,
-              2,
-              5,
-              0,
-              1
+              283,
+              248,
+              246,
+              304,
+              370,
+              333,
+              350,
+              306,
+              266,
+              268,
+              334,
+              317,
+              380,
+              347,
+              353,
+              268,
+              268,
+              323,
+              281,
+              305,
+              337,
+              359,
+              278,
+              271,
+              339,
+              421,
+              352,
+              467
             ],
             "borderColor": "#ea580c",
             "backgroundColor": "#ea580c33",
             "fill": true
           },
           {
-            "label": "requests",
+            "label": "Nexus",
             "data": [
               1,
               0,
-              7,
+              0,
+              0,
+              0,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "borderColor": "#0891b2",
+            "backgroundColor": "#0891b233",
+            "fill": true
+          },
+          {
+            "label": "uv",
+            "data": [
+              4,
+              0,
+              2,
+              0,
+              4,
+              0,
+              0,
+              0,
+              0,
+              0,
+              4,
+              0,
+              2,
+              0,
+              5,
+              2,
+              0,
+              0,
+              2,
+              0,
+              2,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "borderColor": "#ca8a04",
+            "backgroundColor": "#ca8a0433",
+            "fill": true
+          },
+          {
+            "label": "requests",
+            "data": [
+              1,
               1,
               0,
               0,
@@ -7297,82 +7162,6 @@
               1,
               0
             ],
-            "borderColor": "#0891b2",
-            "backgroundColor": "#0891b233",
-            "fill": true
-          },
-          {
-            "label": "Nexus",
-            "data": [
-              1,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              1,
-              0,
-              0,
-              1,
-              0,
-              1,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              1,
-              0
-            ],
-            "borderColor": "#ca8a04",
-            "backgroundColor": "#ca8a0433",
-            "fill": true
-          },
-          {
-            "label": "uv",
-            "data": [
-              4,
-              0,
-              0,
-              0,
-              2,
-              0,
-              4,
-              0,
-              0,
-              0,
-              0,
-              0,
-              4,
-              0,
-              2,
-              0,
-              5,
-              2,
-              0,
-              0,
-              2,
-              0,
-              2,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0
-            ],
             "borderColor": "#4b5563",
             "backgroundColor": "#4b556333",
             "fill": true
@@ -7380,8 +7169,6 @@
           {
             "label": "Artifactory",
             "data": [
-              0,
-              0,
               0,
               0,
               0,
@@ -7419,37 +7206,37 @@
       },
       "pythonVersionBreakdown": {
         "python2": 1,
-        "python3": 9690
+        "python3": 9921
       },
       "pythonMinorBreakdown": {
-        "python3.7": 59,
-        "python3.13": 1711,
-        "python3.6": 1,
-        "python3.11": 2405,
-        "python3.12": 1295,
-        "python3.10": 4182,
+        "python3.11": 2394,
+        "python3.10": 4356,
         "python3.8": 16,
         "python2.7": 1,
-        "python3.9": 21
+        "python3.9": 21,
+        "python3.7": 66,
+        "python3.13": 1758,
+        "python3.6": 1,
+        "python3.12": 1309
       },
       "systemBreakdown": {
-        "other": 1782,
-        "Darwin": 67,
-        "Windows": 87,
-        "Linux": 9570
+        "other": 1780,
+        "Darwin": 65,
+        "Windows": 81,
+        "Linux": 9803
       }
     }
   },
   {
     "platform": "PowerShell",
     "name": "PSSailPoint",
-    "timestamp": "2025-08-15T15:38:35.743Z",
+    "timestamp": "2025-08-18T00:05:15.119Z",
     "metrics": {
-      "downloadsTotal": 20449,
+      "downloadsTotal": 20451,
       "downloadsRange": [
         {
           "day": "2025-07-29T15:00:10.787Z",
-          "downloads": 113,
+          "downloads": 115,
           "version": "1.6.6"
         },
         {
@@ -7608,11 +7395,11 @@
           "version": "1.0.0"
         }
       ],
-      "latestVersionDownloads": 113,
+      "latestVersionDownloads": 115,
       "latestVersion": "1.6.6",
       "latestVersionDate": "2025-07-29T15:00:10.787Z",
       "versionCount": 32,
-      "lastUpdated": "2025-08-15T13:00:00.337Z",
+      "lastUpdated": "2025-08-16T14:10:00.430Z",
       "authors": "Sailpoint Developer Relations",
       "description": "PSSailpoint - the PowerShell module for IdentityNow",
       "packageSize": 13944563,
@@ -7623,13 +7410,13 @@
   {
     "platform": "PowerShell",
     "name": "PSSailpoint.V3",
-    "timestamp": "2025-08-15T15:38:34.423Z",
+    "timestamp": "2025-08-18T00:05:13.504Z",
     "metrics": {
-      "downloadsTotal": 11723,
+      "downloadsTotal": 11725,
       "downloadsRange": [
         {
           "day": "2025-07-29T14:56:06.410Z",
-          "downloads": 113,
+          "downloads": 115,
           "version": "1.6.6"
         },
         {
@@ -7723,11 +7510,11 @@
           "version": "1.4.3"
         }
       ],
-      "latestVersionDownloads": 113,
+      "latestVersionDownloads": 115,
       "latestVersion": "1.6.6",
       "latestVersionDate": "2025-07-29T14:56:06.410Z",
       "versionCount": 19,
-      "lastUpdated": "2025-08-15T13:00:00.337Z",
+      "lastUpdated": "2025-08-16T14:10:00.430Z",
       "authors": "OpenAPI Generator Team",
       "description": "PSSailpoint.V3 - the PowerShell module for Identity Security Cloud V3 API",
       "packageSize": 1047127,
@@ -7738,13 +7525,13 @@
   {
     "platform": "PowerShell",
     "name": "PSSailpoint.Beta",
-    "timestamp": "2025-08-15T15:38:34.735Z",
+    "timestamp": "2025-08-18T00:05:13.966Z",
     "metrics": {
-      "downloadsTotal": 12051,
+      "downloadsTotal": 12053,
       "downloadsRange": [
         {
           "day": "2025-07-29T14:55:41.073Z",
-          "downloads": 112,
+          "downloads": 114,
           "version": "1.6.6"
         },
         {
@@ -7838,11 +7625,11 @@
           "version": "1.4.3"
         }
       ],
-      "latestVersionDownloads": 112,
+      "latestVersionDownloads": 114,
       "latestVersion": "1.6.6",
       "latestVersionDate": "2025-07-29T14:55:41.073Z",
       "versionCount": 19,
-      "lastUpdated": "2025-08-15T13:00:00.337Z",
+      "lastUpdated": "2025-08-16T14:10:00.430Z",
       "authors": "OpenAPI Generator Team",
       "description": "PSSailpoint.Beta - the PowerShell module for Identity Security Cloud Beta API",
       "packageSize": 1562121,
@@ -7853,13 +7640,13 @@
   {
     "platform": "PowerShell",
     "name": "PSSailpoint.V2024",
-    "timestamp": "2025-08-15T15:38:34.960Z",
+    "timestamp": "2025-08-18T00:05:14.478Z",
     "metrics": {
-      "downloadsTotal": 11718,
+      "downloadsTotal": 11720,
       "downloadsRange": [
         {
           "day": "2025-07-29T14:56:45.697Z",
-          "downloads": 108,
+          "downloads": 110,
           "version": "1.6.6"
         },
         {
@@ -7953,11 +7740,11 @@
           "version": "1.4.3"
         }
       ],
-      "latestVersionDownloads": 108,
+      "latestVersionDownloads": 110,
       "latestVersion": "1.6.6",
       "latestVersionDate": "2025-07-29T14:56:45.697Z",
       "versionCount": 19,
-      "lastUpdated": "2025-08-15T13:00:00.337Z",
+      "lastUpdated": "2025-08-16T14:10:00.430Z",
       "authors": "OpenAPI Generator Team",
       "description": "PSSailpoint.V2024 - the PowerShell module for Identity Security Cloud V2024 API",
       "packageSize": 1926341,
@@ -7968,13 +7755,13 @@
   {
     "platform": "PowerShell",
     "name": "PSSailpoint.V2025",
-    "timestamp": "2025-08-15T15:38:34.552Z",
+    "timestamp": "2025-08-18T00:05:13.608Z",
     "metrics": {
-      "downloadsTotal": 1012,
+      "downloadsTotal": 1014,
       "downloadsRange": [
         {
           "day": "2025-07-29T14:57:25.877Z",
-          "downloads": 105,
+          "downloads": 107,
           "version": "1.6.6"
         },
         {
@@ -8013,11 +7800,11 @@
           "version": "1.5.0"
         }
       ],
-      "latestVersionDownloads": 105,
+      "latestVersionDownloads": 107,
       "latestVersion": "1.6.6",
       "latestVersionDate": "2025-07-29T14:57:25.877Z",
       "versionCount": 8,
-      "lastUpdated": "2025-08-15T14:40:00.340Z",
+      "lastUpdated": "2025-08-16T14:10:00.430Z",
       "authors": "OpenAPI Generator Team",
       "description": "PSSailpoint.V2025 - the PowerShell module for Identity Security Cloud V2025 API",
       "packageSize": 1968958,
