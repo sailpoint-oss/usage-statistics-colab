@@ -2,7 +2,7 @@
   {
     "platform": "NPM",
     "name": "sailpoint-api-client",
-    "timestamp": "2025-08-26T19:21:29.011Z",
+    "timestamp": "2025-08-26T21:40:34.624Z",
     "metrics": {
       "downloadsTotal": 17075,
       "downloadsMonthly": 1113,
@@ -3655,7 +3655,7 @@
   {
     "platform": "GitHub",
     "name": "sailpoint-oss/sailpoint-cli",
-    "timestamp": "2025-08-26T19:21:29.554Z",
+    "timestamp": "2025-08-26T21:40:32.891Z",
     "metrics": {
       "stars": 36,
       "forks": 24,
@@ -3668,8 +3668,8 @@
       "repositoryAge": 1132,
       "lastActivity": 4,
       "releaseCount": 31,
-      "totalReleaseDownloads": 10191,
-      "latestReleaseDownloads": 919,
+      "totalReleaseDownloads": 10193,
+      "latestReleaseDownloads": 921,
       "viewsCount": 384,
       "uniqueVisitors": 146,
       "latestRelease": "2.2.5",
@@ -3677,7 +3677,7 @@
       "topics": 6,
       "license": "MIT License",
       "defaultBranch": "main",
-      "downloadsTotal": 10191,
+      "downloadsTotal": 10193,
       "downloadRange": [
         {
           "day": "2022-08-19T20:12:00Z",
@@ -3831,16 +3831,3547 @@
         },
         {
           "day": "2025-06-03T14:37:59Z",
-          "downloads": 919,
+          "downloads": 921,
           "tagName": "2.2.5"
         }
-      ]
+      ],
+      "assetTotalsByName": {
+        "sail_macos_arm64_tar.gz": 1519,
+        "sail_linux_i386_tar.gz": 13,
+        "sail_linux_armv6_tar.gz": 92,
+        "sail_linux_tar.gz": 35,
+        "sail_linux_arm64_tar.gz": 179,
+        "sail_windows_386_zip": 789,
+        "sail_windows_arm64_zip": 413,
+        "sail_macos_tar.gz": 49,
+        "sail_linux_386_deb": 154,
+        "sail_linux_arm64_deb": 186,
+        "sail_linux_amd64_deb": 991,
+        "sail_linux_armv6_deb": 106,
+        "sail_linux_386_rpm": 126,
+        "sail_linux_armv6_rpm": 115,
+        "sail_linux_amd64_rpm": 219,
+        "sail_linux_arm64_rpm": 116,
+        "sail_txt": 183,
+        "sail_windows_amd64_zip": 1206,
+        "sail_windows_amd64_msi": 2413,
+        "sail_windows_i386_zip": 24,
+        "sail_windows_zip": 177,
+        "sail_macos_amd64_tar.gz": 536,
+        "sail_linux_386_tar.gz": 110,
+        "sail_linux_amd64_tar.gz": 272,
+        "sailpoint_macos_amd64_tar.gz": 6,
+        "sailpoint_windows_arm64_zip": 6,
+        "sailpoint_macos_arm64_tar.gz": 6,
+        "sailpoint_linux_amd64_tar.gz": 7,
+        "sailpoint_linux_arm64_tar.gz": 6,
+        "sailpoint_windows_amd64_zip": 10,
+        "sailpoint_txt": 5,
+        "connector_windows_arm64_zip": 17,
+        "connector_macos_amd64_tar.gz": 17,
+        "connector_macos_arm64_tar.gz": 18,
+        "connector_linux_amd64_tar.gz": 20,
+        "connector_linux_arm64_tar.gz": 21,
+        "connector_windows_amd64_zip": 21,
+        "connector_txt": 10
+      },
+      "assetReleaseSeries": {
+        "sail_macos_arm64_tar.gz": [
+          {
+            "tagName": "2.2.5",
+            "day": "2025-06-03T14:37:59Z",
+            "downloads": 173
+          },
+          {
+            "tagName": "2.2.4",
+            "day": "2025-05-14T15:28:58Z",
+            "downloads": 46
+          },
+          {
+            "tagName": "2.2.3",
+            "day": "2025-04-21T10:31:57Z",
+            "downloads": 71
+          },
+          {
+            "tagName": "2.2.2",
+            "day": "2025-04-16T16:25:17Z",
+            "downloads": 19
+          },
+          {
+            "tagName": "2.1.10",
+            "day": "2025-04-02T19:24:30Z",
+            "downloads": 41
+          },
+          {
+            "tagName": "2.1.9",
+            "day": "2024-11-14T00:58:21Z",
+            "downloads": 234
+          },
+          {
+            "tagName": "2.1.8",
+            "day": "2024-10-10T12:47:09Z",
+            "downloads": 112
+          },
+          {
+            "tagName": "2.1.7",
+            "day": "2024-10-01T15:24:59Z",
+            "downloads": 19
+          },
+          {
+            "tagName": "2.1.6",
+            "day": "2024-09-16T16:47:46Z",
+            "downloads": 27
+          },
+          {
+            "tagName": "2.1.5",
+            "day": "2024-05-15T15:32:09Z",
+            "downloads": 172
+          },
+          {
+            "tagName": "2.1.4",
+            "day": "2024-03-13T17:46:06Z",
+            "downloads": 144
+          },
+          {
+            "tagName": "2.0.4",
+            "day": "2024-01-29T15:09:32Z",
+            "downloads": 60
+          },
+          {
+            "tagName": "2.0.3",
+            "day": "2023-11-16T17:17:14Z",
+            "downloads": 76
+          },
+          {
+            "tagName": "2.0.2",
+            "day": "2023-10-11T20:58:03Z",
+            "downloads": 52
+          },
+          {
+            "tagName": "2.0.1",
+            "day": "2023-10-05T02:29:23Z",
+            "downloads": 22
+          },
+          {
+            "tagName": "2.0",
+            "day": "2023-09-28T15:32:02Z",
+            "downloads": 23
+          },
+          {
+            "tagName": "1.2.0",
+            "day": "2023-04-14T21:57:54Z",
+            "downloads": 106
+          },
+          {
+            "tagName": "1.1.16",
+            "day": "2023-04-14T21:41:23Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "1.0.0",
+            "day": "2023-03-21T19:41:09Z",
+            "downloads": 28
+          },
+          {
+            "tagName": "0.5.1",
+            "day": "2023-03-13T14:35:02Z",
+            "downloads": 10
+          },
+          {
+            "tagName": "0.5.0",
+            "day": "2023-02-27T19:31:53Z",
+            "downloads": 23
+          },
+          {
+            "tagName": "0.4.1",
+            "day": "2023-02-07T19:08:48Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "0.4.0",
+            "day": "2023-01-06T16:22:01Z",
+            "downloads": 19
+          },
+          {
+            "tagName": "0.3.2",
+            "day": "2023-01-06T15:37:38Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "0.3.1",
+            "day": "2023-01-06T15:27:28Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "0.3.0",
+            "day": "2023-01-06T14:50:24Z",
+            "downloads": 5
+          },
+          {
+            "tagName": "0.2.2",
+            "day": "2022-11-09T13:33:03Z",
+            "downloads": 8
+          }
+        ],
+        "sail_linux_i386_tar.gz": [
+          {
+            "tagName": "2.2.5",
+            "day": "2025-06-03T14:37:59Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "2.2.4",
+            "day": "2025-05-14T15:28:58Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "2.2.3",
+            "day": "2025-04-21T10:31:57Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "2.2.2",
+            "day": "2025-04-16T16:25:17Z",
+            "downloads": 3
+          }
+        ],
+        "sail_linux_armv6_tar.gz": [
+          {
+            "tagName": "2.2.5",
+            "day": "2025-06-03T14:37:59Z",
+            "downloads": 3
+          },
+          {
+            "tagName": "2.2.4",
+            "day": "2025-05-14T15:28:58Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "2.2.3",
+            "day": "2025-04-21T10:31:57Z",
+            "downloads": 3
+          },
+          {
+            "tagName": "2.2.2",
+            "day": "2025-04-16T16:25:17Z",
+            "downloads": 3
+          },
+          {
+            "tagName": "2.1.10",
+            "day": "2025-04-02T19:24:30Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.1.9",
+            "day": "2024-11-14T00:58:21Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.1.8",
+            "day": "2024-10-10T12:47:09Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.1.7",
+            "day": "2024-10-01T15:24:59Z",
+            "downloads": 3
+          },
+          {
+            "tagName": "2.1.6",
+            "day": "2024-09-16T16:47:46Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.1.5",
+            "day": "2024-05-15T15:32:09Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "2.1.4",
+            "day": "2024-03-13T17:46:06Z",
+            "downloads": 5
+          },
+          {
+            "tagName": "2.0.4",
+            "day": "2024-01-29T15:09:32Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "2.0.3",
+            "day": "2023-11-16T17:17:14Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "2.0.2",
+            "day": "2023-10-11T20:58:03Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "2.0.1",
+            "day": "2023-10-05T02:29:23Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "2.0",
+            "day": "2023-09-28T15:32:02Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "1.2.0",
+            "day": "2023-04-14T21:57:54Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "1.1.16",
+            "day": "2023-04-14T21:41:23Z",
+            "downloads": 7
+          }
+        ],
+        "sail_linux_tar.gz": [
+          {
+            "tagName": "2.2.5",
+            "day": "2025-06-03T14:37:59Z",
+            "downloads": 11
+          },
+          {
+            "tagName": "2.2.4",
+            "day": "2025-05-14T15:28:58Z",
+            "downloads": 5
+          },
+          {
+            "tagName": "2.2.3",
+            "day": "2025-04-21T10:31:57Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "2.2.2",
+            "day": "2025-04-16T16:25:17Z",
+            "downloads": 10
+          }
+        ],
+        "sail_linux_arm64_tar.gz": [
+          {
+            "tagName": "2.2.5",
+            "day": "2025-06-03T14:37:59Z",
+            "downloads": 10
+          },
+          {
+            "tagName": "2.2.4",
+            "day": "2025-05-14T15:28:58Z",
+            "downloads": 3
+          },
+          {
+            "tagName": "2.2.3",
+            "day": "2025-04-21T10:31:57Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "2.2.2",
+            "day": "2025-04-16T16:25:17Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "2.1.10",
+            "day": "2025-04-02T19:24:30Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.1.9",
+            "day": "2024-11-14T00:58:21Z",
+            "downloads": 13
+          },
+          {
+            "tagName": "2.1.8",
+            "day": "2024-10-10T12:47:09Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "2.1.7",
+            "day": "2024-10-01T15:24:59Z",
+            "downloads": 3
+          },
+          {
+            "tagName": "2.1.6",
+            "day": "2024-09-16T16:47:46Z",
+            "downloads": 5
+          },
+          {
+            "tagName": "2.1.5",
+            "day": "2024-05-15T15:32:09Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "2.1.4",
+            "day": "2024-03-13T17:46:06Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "2.0.4",
+            "day": "2024-01-29T15:09:32Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "2.0.3",
+            "day": "2023-11-16T17:17:14Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "2.0.2",
+            "day": "2023-10-11T20:58:03Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "2.0.1",
+            "day": "2023-10-05T02:29:23Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "2.0",
+            "day": "2023-09-28T15:32:02Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "1.2.0",
+            "day": "2023-04-14T21:57:54Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "1.1.16",
+            "day": "2023-04-14T21:41:23Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "1.0.0",
+            "day": "2023-03-21T19:41:09Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "0.5.1",
+            "day": "2023-03-13T14:35:02Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "0.5.0",
+            "day": "2023-02-27T19:31:53Z",
+            "downloads": 10
+          },
+          {
+            "tagName": "0.4.1",
+            "day": "2023-02-07T19:08:48Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "0.4.0",
+            "day": "2023-01-06T16:22:01Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "0.3.2",
+            "day": "2023-01-06T15:37:38Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "0.3.1",
+            "day": "2023-01-06T15:27:28Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "0.3.0",
+            "day": "2023-01-06T14:50:24Z",
+            "downloads": 5
+          },
+          {
+            "tagName": "0.2.2",
+            "day": "2022-11-09T13:33:03Z",
+            "downloads": 6
+          }
+        ],
+        "sail_windows_386_zip": [
+          {
+            "tagName": "2.2.5",
+            "day": "2025-06-03T14:37:59Z",
+            "downloads": 311
+          },
+          {
+            "tagName": "2.2.4",
+            "day": "2025-05-14T15:28:58Z",
+            "downloads": 77
+          },
+          {
+            "tagName": "2.1.10",
+            "day": "2025-04-02T19:24:30Z",
+            "downloads": 12
+          },
+          {
+            "tagName": "2.1.9",
+            "day": "2024-11-14T00:58:21Z",
+            "downloads": 101
+          },
+          {
+            "tagName": "2.1.8",
+            "day": "2024-10-10T12:47:09Z",
+            "downloads": 33
+          },
+          {
+            "tagName": "2.1.7",
+            "day": "2024-10-01T15:24:59Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "2.1.6",
+            "day": "2024-09-16T16:47:46Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "2.1.5",
+            "day": "2024-05-15T15:32:09Z",
+            "downloads": 59
+          },
+          {
+            "tagName": "2.1.4",
+            "day": "2024-03-13T17:46:06Z",
+            "downloads": 53
+          },
+          {
+            "tagName": "2.0.4",
+            "day": "2024-01-29T15:09:32Z",
+            "downloads": 25
+          },
+          {
+            "tagName": "2.0.3",
+            "day": "2023-11-16T17:17:14Z",
+            "downloads": 18
+          },
+          {
+            "tagName": "2.0.2",
+            "day": "2023-10-11T20:58:03Z",
+            "downloads": 24
+          },
+          {
+            "tagName": "2.0.1",
+            "day": "2023-10-05T02:29:23Z",
+            "downloads": 11
+          },
+          {
+            "tagName": "2.0",
+            "day": "2023-09-28T15:32:02Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "1.2.0",
+            "day": "2023-04-14T21:57:54Z",
+            "downloads": 32
+          },
+          {
+            "tagName": "1.1.16",
+            "day": "2023-04-14T21:41:23Z",
+            "downloads": 7
+          }
+        ],
+        "sail_windows_arm64_zip": [
+          {
+            "tagName": "2.2.5",
+            "day": "2025-06-03T14:37:59Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "2.2.4",
+            "day": "2025-05-14T15:28:58Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "2.2.3",
+            "day": "2025-04-21T10:31:57Z",
+            "downloads": 55
+          },
+          {
+            "tagName": "2.2.2",
+            "day": "2025-04-16T16:25:17Z",
+            "downloads": 14
+          },
+          {
+            "tagName": "2.1.10",
+            "day": "2025-04-02T19:24:30Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.1.9",
+            "day": "2024-11-14T00:58:21Z",
+            "downloads": 79
+          },
+          {
+            "tagName": "2.1.8",
+            "day": "2024-10-10T12:47:09Z",
+            "downloads": 16
+          },
+          {
+            "tagName": "2.1.7",
+            "day": "2024-10-01T15:24:59Z",
+            "downloads": 5
+          },
+          {
+            "tagName": "2.1.6",
+            "day": "2024-09-16T16:47:46Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "2.1.5",
+            "day": "2024-05-15T15:32:09Z",
+            "downloads": 31
+          },
+          {
+            "tagName": "2.1.4",
+            "day": "2024-03-13T17:46:06Z",
+            "downloads": 23
+          },
+          {
+            "tagName": "2.0.4",
+            "day": "2024-01-29T15:09:32Z",
+            "downloads": 14
+          },
+          {
+            "tagName": "2.0.3",
+            "day": "2023-11-16T17:17:14Z",
+            "downloads": 12
+          },
+          {
+            "tagName": "2.0.2",
+            "day": "2023-10-11T20:58:03Z",
+            "downloads": 20
+          },
+          {
+            "tagName": "2.0.1",
+            "day": "2023-10-05T02:29:23Z",
+            "downloads": 11
+          },
+          {
+            "tagName": "2.0",
+            "day": "2023-09-28T15:32:02Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "1.2.0",
+            "day": "2023-04-14T21:57:54Z",
+            "downloads": 16
+          },
+          {
+            "tagName": "1.1.16",
+            "day": "2023-04-14T21:41:23Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "1.0.0",
+            "day": "2023-03-21T19:41:09Z",
+            "downloads": 17
+          },
+          {
+            "tagName": "0.5.1",
+            "day": "2023-03-13T14:35:02Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "0.5.0",
+            "day": "2023-02-27T19:31:53Z",
+            "downloads": 10
+          },
+          {
+            "tagName": "0.4.1",
+            "day": "2023-02-07T19:08:48Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "0.4.0",
+            "day": "2023-01-06T16:22:01Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "0.3.2",
+            "day": "2023-01-06T15:37:38Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "0.3.1",
+            "day": "2023-01-06T15:27:28Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "0.3.0",
+            "day": "2023-01-06T14:50:24Z",
+            "downloads": 5
+          },
+          {
+            "tagName": "0.2.2",
+            "day": "2022-11-09T13:33:03Z",
+            "downloads": 9
+          }
+        ],
+        "sail_macos_tar.gz": [
+          {
+            "tagName": "2.2.5",
+            "day": "2025-06-03T14:37:59Z",
+            "downloads": 19
+          },
+          {
+            "tagName": "2.2.4",
+            "day": "2025-05-14T15:28:58Z",
+            "downloads": 10
+          },
+          {
+            "tagName": "2.2.3",
+            "day": "2025-04-21T10:31:57Z",
+            "downloads": 17
+          },
+          {
+            "tagName": "2.2.2",
+            "day": "2025-04-16T16:25:17Z",
+            "downloads": 3
+          }
+        ],
+        "sail_linux_386_deb": [
+          {
+            "tagName": "2.2.5",
+            "day": "2025-06-03T14:37:59Z",
+            "downloads": 10
+          },
+          {
+            "tagName": "2.2.4",
+            "day": "2025-05-14T15:28:58Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "2.2.3",
+            "day": "2025-04-21T10:31:57Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.2.2",
+            "day": "2025-04-16T16:25:17Z",
+            "downloads": 3
+          },
+          {
+            "tagName": "2.1.10",
+            "day": "2025-04-02T19:24:30Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.1.9",
+            "day": "2024-11-14T00:58:21Z",
+            "downloads": 18
+          },
+          {
+            "tagName": "2.1.8",
+            "day": "2024-10-10T12:47:09Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "2.1.7",
+            "day": "2024-10-01T15:24:59Z",
+            "downloads": 3
+          },
+          {
+            "tagName": "2.1.6",
+            "day": "2024-09-16T16:47:46Z",
+            "downloads": 5
+          },
+          {
+            "tagName": "2.1.5",
+            "day": "2024-05-15T15:32:09Z",
+            "downloads": 17
+          },
+          {
+            "tagName": "2.1.4",
+            "day": "2024-03-13T17:46:06Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "2.0.4",
+            "day": "2024-01-29T15:09:32Z",
+            "downloads": 14
+          },
+          {
+            "tagName": "2.0.3",
+            "day": "2023-11-16T17:17:14Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "2.0.2",
+            "day": "2023-10-11T20:58:03Z",
+            "downloads": 10
+          },
+          {
+            "tagName": "2.0.1",
+            "day": "2023-10-05T02:29:23Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "2.0",
+            "day": "2023-09-28T15:32:02Z",
+            "downloads": 11
+          },
+          {
+            "tagName": "1.2.0",
+            "day": "2023-04-14T21:57:54Z",
+            "downloads": 10
+          },
+          {
+            "tagName": "1.1.16",
+            "day": "2023-04-14T21:41:23Z",
+            "downloads": 7
+          }
+        ],
+        "sail_linux_arm64_deb": [
+          {
+            "tagName": "2.2.5",
+            "day": "2025-06-03T14:37:59Z",
+            "downloads": 14
+          },
+          {
+            "tagName": "2.2.4",
+            "day": "2025-05-14T15:28:58Z",
+            "downloads": 3
+          },
+          {
+            "tagName": "2.2.3",
+            "day": "2025-04-21T10:31:57Z",
+            "downloads": 27
+          },
+          {
+            "tagName": "2.2.2",
+            "day": "2025-04-16T16:25:17Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.1.10",
+            "day": "2025-04-02T19:24:30Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "2.1.9",
+            "day": "2024-11-14T00:58:21Z",
+            "downloads": 15
+          },
+          {
+            "tagName": "2.1.8",
+            "day": "2024-10-10T12:47:09Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "2.1.7",
+            "day": "2024-10-01T15:24:59Z",
+            "downloads": 3
+          },
+          {
+            "tagName": "2.1.6",
+            "day": "2024-09-16T16:47:46Z",
+            "downloads": 18
+          },
+          {
+            "tagName": "2.1.5",
+            "day": "2024-05-15T15:32:09Z",
+            "downloads": 15
+          },
+          {
+            "tagName": "2.1.4",
+            "day": "2024-03-13T17:46:06Z",
+            "downloads": 14
+          },
+          {
+            "tagName": "2.0.4",
+            "day": "2024-01-29T15:09:32Z",
+            "downloads": 10
+          },
+          {
+            "tagName": "2.0.3",
+            "day": "2023-11-16T17:17:14Z",
+            "downloads": 10
+          },
+          {
+            "tagName": "2.0.2",
+            "day": "2023-10-11T20:58:03Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "2.0.1",
+            "day": "2023-10-05T02:29:23Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "2.0",
+            "day": "2023-09-28T15:32:02Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "1.2.0",
+            "day": "2023-04-14T21:57:54Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "1.1.16",
+            "day": "2023-04-14T21:41:23Z",
+            "downloads": 7
+          }
+        ],
+        "sail_linux_amd64_deb": [
+          {
+            "tagName": "2.2.5",
+            "day": "2025-06-03T14:37:59Z",
+            "downloads": 77
+          },
+          {
+            "tagName": "2.2.4",
+            "day": "2025-05-14T15:28:58Z",
+            "downloads": 99
+          },
+          {
+            "tagName": "2.2.3",
+            "day": "2025-04-21T10:31:57Z",
+            "downloads": 36
+          },
+          {
+            "tagName": "2.2.2",
+            "day": "2025-04-16T16:25:17Z",
+            "downloads": 5
+          },
+          {
+            "tagName": "2.1.10",
+            "day": "2025-04-02T19:24:30Z",
+            "downloads": 41
+          },
+          {
+            "tagName": "2.1.9",
+            "day": "2024-11-14T00:58:21Z",
+            "downloads": 132
+          },
+          {
+            "tagName": "2.1.8",
+            "day": "2024-10-10T12:47:09Z",
+            "downloads": 72
+          },
+          {
+            "tagName": "2.1.7",
+            "day": "2024-10-01T15:24:59Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "2.1.6",
+            "day": "2024-09-16T16:47:46Z",
+            "downloads": 11
+          },
+          {
+            "tagName": "2.1.5",
+            "day": "2024-05-15T15:32:09Z",
+            "downloads": 260
+          },
+          {
+            "tagName": "2.1.4",
+            "day": "2024-03-13T17:46:06Z",
+            "downloads": 85
+          },
+          {
+            "tagName": "2.0.4",
+            "day": "2024-01-29T15:09:32Z",
+            "downloads": 29
+          },
+          {
+            "tagName": "2.0.3",
+            "day": "2023-11-16T17:17:14Z",
+            "downloads": 17
+          },
+          {
+            "tagName": "2.0.2",
+            "day": "2023-10-11T20:58:03Z",
+            "downloads": 15
+          },
+          {
+            "tagName": "2.0.1",
+            "day": "2023-10-05T02:29:23Z",
+            "downloads": 33
+          },
+          {
+            "tagName": "2.0",
+            "day": "2023-09-28T15:32:02Z",
+            "downloads": 33
+          },
+          {
+            "tagName": "1.2.0",
+            "day": "2023-04-14T21:57:54Z",
+            "downloads": 27
+          },
+          {
+            "tagName": "1.1.16",
+            "day": "2023-04-14T21:41:23Z",
+            "downloads": 10
+          }
+        ],
+        "sail_linux_armv6_deb": [
+          {
+            "tagName": "2.2.5",
+            "day": "2025-06-03T14:37:59Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.2.4",
+            "day": "2025-05-14T15:28:58Z",
+            "downloads": 11
+          },
+          {
+            "tagName": "2.2.3",
+            "day": "2025-04-21T10:31:57Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "2.2.2",
+            "day": "2025-04-16T16:25:17Z",
+            "downloads": 3
+          },
+          {
+            "tagName": "2.1.10",
+            "day": "2025-04-02T19:24:30Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.1.9",
+            "day": "2024-11-14T00:58:21Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.1.8",
+            "day": "2024-10-10T12:47:09Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.1.7",
+            "day": "2024-10-01T15:24:59Z",
+            "downloads": 3
+          },
+          {
+            "tagName": "2.1.6",
+            "day": "2024-09-16T16:47:46Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.1.5",
+            "day": "2024-05-15T15:32:09Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "2.1.4",
+            "day": "2024-03-13T17:46:06Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "2.0.4",
+            "day": "2024-01-29T15:09:32Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "2.0.3",
+            "day": "2023-11-16T17:17:14Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "2.0.2",
+            "day": "2023-10-11T20:58:03Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "2.0.1",
+            "day": "2023-10-05T02:29:23Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "2.0",
+            "day": "2023-09-28T15:32:02Z",
+            "downloads": 10
+          },
+          {
+            "tagName": "1.2.0",
+            "day": "2023-04-14T21:57:54Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "1.1.16",
+            "day": "2023-04-14T21:41:23Z",
+            "downloads": 7
+          }
+        ],
+        "sail_linux_386_rpm": [
+          {
+            "tagName": "2.2.5",
+            "day": "2025-06-03T14:37:59Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.2.4",
+            "day": "2025-05-14T15:28:58Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "2.2.3",
+            "day": "2025-04-21T10:31:57Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.2.2",
+            "day": "2025-04-16T16:25:17Z",
+            "downloads": 3
+          },
+          {
+            "tagName": "2.1.10",
+            "day": "2025-04-02T19:24:30Z",
+            "downloads": 5
+          },
+          {
+            "tagName": "2.1.9",
+            "day": "2024-11-14T00:58:21Z",
+            "downloads": 10
+          },
+          {
+            "tagName": "2.1.8",
+            "day": "2024-10-10T12:47:09Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "2.1.7",
+            "day": "2024-10-01T15:24:59Z",
+            "downloads": 3
+          },
+          {
+            "tagName": "2.1.6",
+            "day": "2024-09-16T16:47:46Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.1.5",
+            "day": "2024-05-15T15:32:09Z",
+            "downloads": 11
+          },
+          {
+            "tagName": "2.1.4",
+            "day": "2024-03-13T17:46:06Z",
+            "downloads": 10
+          },
+          {
+            "tagName": "2.0.4",
+            "day": "2024-01-29T15:09:32Z",
+            "downloads": 10
+          },
+          {
+            "tagName": "2.0.3",
+            "day": "2023-11-16T17:17:14Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "2.0.2",
+            "day": "2023-10-11T20:58:03Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "2.0.1",
+            "day": "2023-10-05T02:29:23Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "2.0",
+            "day": "2023-09-28T15:32:02Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "1.2.0",
+            "day": "2023-04-14T21:57:54Z",
+            "downloads": 10
+          },
+          {
+            "tagName": "1.1.16",
+            "day": "2023-04-14T21:41:23Z",
+            "downloads": 7
+          }
+        ],
+        "sail_linux_armv6_rpm": [
+          {
+            "tagName": "2.2.5",
+            "day": "2025-06-03T14:37:59Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.2.4",
+            "day": "2025-05-14T15:28:58Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "2.2.3",
+            "day": "2025-04-21T10:31:57Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "2.2.2",
+            "day": "2025-04-16T16:25:17Z",
+            "downloads": 3
+          },
+          {
+            "tagName": "2.1.10",
+            "day": "2025-04-02T19:24:30Z",
+            "downloads": 5
+          },
+          {
+            "tagName": "2.1.9",
+            "day": "2024-11-14T00:58:21Z",
+            "downloads": 3
+          },
+          {
+            "tagName": "2.1.8",
+            "day": "2024-10-10T12:47:09Z",
+            "downloads": 5
+          },
+          {
+            "tagName": "2.1.7",
+            "day": "2024-10-01T15:24:59Z",
+            "downloads": 3
+          },
+          {
+            "tagName": "2.1.6",
+            "day": "2024-09-16T16:47:46Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.1.5",
+            "day": "2024-05-15T15:32:09Z",
+            "downloads": 5
+          },
+          {
+            "tagName": "2.1.4",
+            "day": "2024-03-13T17:46:06Z",
+            "downloads": 5
+          },
+          {
+            "tagName": "2.0.4",
+            "day": "2024-01-29T15:09:32Z",
+            "downloads": 26
+          },
+          {
+            "tagName": "2.0.3",
+            "day": "2023-11-16T17:17:14Z",
+            "downloads": 10
+          },
+          {
+            "tagName": "2.0.2",
+            "day": "2023-10-11T20:58:03Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "2.0.1",
+            "day": "2023-10-05T02:29:23Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "2.0",
+            "day": "2023-09-28T15:32:02Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "1.2.0",
+            "day": "2023-04-14T21:57:54Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "1.1.16",
+            "day": "2023-04-14T21:41:23Z",
+            "downloads": 7
+          }
+        ],
+        "sail_linux_amd64_rpm": [
+          {
+            "tagName": "2.2.5",
+            "day": "2025-06-03T14:37:59Z",
+            "downloads": 40
+          },
+          {
+            "tagName": "2.2.4",
+            "day": "2025-05-14T15:28:58Z",
+            "downloads": 18
+          },
+          {
+            "tagName": "2.2.3",
+            "day": "2025-04-21T10:31:57Z",
+            "downloads": 21
+          },
+          {
+            "tagName": "2.2.2",
+            "day": "2025-04-16T16:25:17Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.1.10",
+            "day": "2025-04-02T19:24:30Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "2.1.9",
+            "day": "2024-11-14T00:58:21Z",
+            "downloads": 10
+          },
+          {
+            "tagName": "2.1.8",
+            "day": "2024-10-10T12:47:09Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "2.1.7",
+            "day": "2024-10-01T15:24:59Z",
+            "downloads": 5
+          },
+          {
+            "tagName": "2.1.6",
+            "day": "2024-09-16T16:47:46Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.1.5",
+            "day": "2024-05-15T15:32:09Z",
+            "downloads": 14
+          },
+          {
+            "tagName": "2.1.4",
+            "day": "2024-03-13T17:46:06Z",
+            "downloads": 21
+          },
+          {
+            "tagName": "2.0.4",
+            "day": "2024-01-29T15:09:32Z",
+            "downloads": 17
+          },
+          {
+            "tagName": "2.0.3",
+            "day": "2023-11-16T17:17:14Z",
+            "downloads": 11
+          },
+          {
+            "tagName": "2.0.2",
+            "day": "2023-10-11T20:58:03Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "2.0.1",
+            "day": "2023-10-05T02:29:23Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "2.0",
+            "day": "2023-09-28T15:32:02Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "1.2.0",
+            "day": "2023-04-14T21:57:54Z",
+            "downloads": 10
+          },
+          {
+            "tagName": "1.1.16",
+            "day": "2023-04-14T21:41:23Z",
+            "downloads": 7
+          }
+        ],
+        "sail_linux_arm64_rpm": [
+          {
+            "tagName": "2.2.5",
+            "day": "2025-06-03T14:37:59Z",
+            "downloads": 10
+          },
+          {
+            "tagName": "2.2.4",
+            "day": "2025-05-14T15:28:58Z",
+            "downloads": 3
+          },
+          {
+            "tagName": "2.2.3",
+            "day": "2025-04-21T10:31:57Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "2.2.2",
+            "day": "2025-04-16T16:25:17Z",
+            "downloads": 3
+          },
+          {
+            "tagName": "2.1.10",
+            "day": "2025-04-02T19:24:30Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.1.9",
+            "day": "2024-11-14T00:58:21Z",
+            "downloads": 5
+          },
+          {
+            "tagName": "2.1.8",
+            "day": "2024-10-10T12:47:09Z",
+            "downloads": 5
+          },
+          {
+            "tagName": "2.1.7",
+            "day": "2024-10-01T15:24:59Z",
+            "downloads": 3
+          },
+          {
+            "tagName": "2.1.6",
+            "day": "2024-09-16T16:47:46Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.1.5",
+            "day": "2024-05-15T15:32:09Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "2.1.4",
+            "day": "2024-03-13T17:46:06Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "2.0.4",
+            "day": "2024-01-29T15:09:32Z",
+            "downloads": 12
+          },
+          {
+            "tagName": "2.0.3",
+            "day": "2023-11-16T17:17:14Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "2.0.2",
+            "day": "2023-10-11T20:58:03Z",
+            "downloads": 12
+          },
+          {
+            "tagName": "2.0.1",
+            "day": "2023-10-05T02:29:23Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "2.0",
+            "day": "2023-09-28T15:32:02Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "1.2.0",
+            "day": "2023-04-14T21:57:54Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "1.1.16",
+            "day": "2023-04-14T21:41:23Z",
+            "downloads": 7
+          }
+        ],
+        "sail_txt": [
+          {
+            "tagName": "2.2.5",
+            "day": "2025-06-03T14:37:59Z",
+            "downloads": 11
+          },
+          {
+            "tagName": "2.2.4",
+            "day": "2025-05-14T15:28:58Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "2.2.3",
+            "day": "2025-04-21T10:31:57Z",
+            "downloads": 12
+          },
+          {
+            "tagName": "2.2.2",
+            "day": "2025-04-16T16:25:17Z",
+            "downloads": 3
+          },
+          {
+            "tagName": "2.1.10",
+            "day": "2025-04-02T19:24:30Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.1.9",
+            "day": "2024-11-14T00:58:21Z",
+            "downloads": 18
+          },
+          {
+            "tagName": "2.1.8",
+            "day": "2024-10-10T12:47:09Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "2.1.7",
+            "day": "2024-10-01T15:24:59Z",
+            "downloads": 0
+          },
+          {
+            "tagName": "2.1.6",
+            "day": "2024-09-16T16:47:46Z",
+            "downloads": 1
+          },
+          {
+            "tagName": "2.1.5",
+            "day": "2024-05-15T15:32:09Z",
+            "downloads": 11
+          },
+          {
+            "tagName": "2.1.4",
+            "day": "2024-03-13T17:46:06Z",
+            "downloads": 11
+          },
+          {
+            "tagName": "2.0.4",
+            "day": "2024-01-29T15:09:32Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "2.0.3",
+            "day": "2023-11-16T17:17:14Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "2.0.2",
+            "day": "2023-10-11T20:58:03Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "2.0.1",
+            "day": "2023-10-05T02:29:23Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "2.0",
+            "day": "2023-09-28T15:32:02Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "1.2.0",
+            "day": "2023-04-14T21:57:54Z",
+            "downloads": 13
+          },
+          {
+            "tagName": "1.1.16",
+            "day": "2023-04-14T21:41:23Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "1.0.0",
+            "day": "2023-03-21T19:41:09Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "0.5.1",
+            "day": "2023-03-13T14:35:02Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "0.5.0",
+            "day": "2023-02-27T19:31:53Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "0.4.1",
+            "day": "2023-02-07T19:08:48Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "0.4.0",
+            "day": "2023-01-06T16:22:01Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "0.3.2",
+            "day": "2023-01-06T15:37:38Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "0.3.1",
+            "day": "2023-01-06T15:27:28Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "0.3.0",
+            "day": "2023-01-06T14:50:24Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "0.2.2",
+            "day": "2022-11-09T13:33:03Z",
+            "downloads": 9
+          }
+        ],
+        "sail_windows_amd64_zip": [
+          {
+            "tagName": "2.2.5",
+            "day": "2025-06-03T14:37:59Z",
+            "downloads": 38
+          },
+          {
+            "tagName": "2.2.4",
+            "day": "2025-05-14T15:28:58Z",
+            "downloads": 20
+          },
+          {
+            "tagName": "2.1.10",
+            "day": "2025-04-02T19:24:30Z",
+            "downloads": 25
+          },
+          {
+            "tagName": "2.1.9",
+            "day": "2024-11-14T00:58:21Z",
+            "downloads": 409
+          },
+          {
+            "tagName": "2.1.8",
+            "day": "2024-10-10T12:47:09Z",
+            "downloads": 50
+          },
+          {
+            "tagName": "2.1.7",
+            "day": "2024-10-01T15:24:59Z",
+            "downloads": 11
+          },
+          {
+            "tagName": "2.1.6",
+            "day": "2024-09-16T16:47:46Z",
+            "downloads": 12
+          },
+          {
+            "tagName": "2.1.5",
+            "day": "2024-05-15T15:32:09Z",
+            "downloads": 136
+          },
+          {
+            "tagName": "2.1.4",
+            "day": "2024-03-13T17:46:06Z",
+            "downloads": 51
+          },
+          {
+            "tagName": "2.0.4",
+            "day": "2024-01-29T15:09:32Z",
+            "downloads": 34
+          },
+          {
+            "tagName": "2.0.3",
+            "day": "2023-11-16T17:17:14Z",
+            "downloads": 50
+          },
+          {
+            "tagName": "2.0.2",
+            "day": "2023-10-11T20:58:03Z",
+            "downloads": 97
+          },
+          {
+            "tagName": "2.0.1",
+            "day": "2023-10-05T02:29:23Z",
+            "downloads": 14
+          },
+          {
+            "tagName": "2.0",
+            "day": "2023-09-28T15:32:02Z",
+            "downloads": 14
+          },
+          {
+            "tagName": "1.2.0",
+            "day": "2023-04-14T21:57:54Z",
+            "downloads": 61
+          },
+          {
+            "tagName": "1.1.16",
+            "day": "2023-04-14T21:41:23Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "1.0.0",
+            "day": "2023-03-21T19:41:09Z",
+            "downloads": 59
+          },
+          {
+            "tagName": "0.5.1",
+            "day": "2023-03-13T14:35:02Z",
+            "downloads": 14
+          },
+          {
+            "tagName": "0.5.0",
+            "day": "2023-02-27T19:31:53Z",
+            "downloads": 27
+          },
+          {
+            "tagName": "0.4.1",
+            "day": "2023-02-07T19:08:48Z",
+            "downloads": 19
+          },
+          {
+            "tagName": "0.4.0",
+            "day": "2023-01-06T16:22:01Z",
+            "downloads": 12
+          },
+          {
+            "tagName": "0.3.2",
+            "day": "2023-01-06T15:37:38Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "0.3.1",
+            "day": "2023-01-06T15:27:28Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "0.3.0",
+            "day": "2023-01-06T14:50:24Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "0.2.2",
+            "day": "2022-11-09T13:33:03Z",
+            "downloads": 21
+          }
+        ],
+        "sail_windows_amd64_msi": [
+          {
+            "tagName": "2.2.5",
+            "day": "2025-06-03T14:37:59Z",
+            "downloads": 167
+          },
+          {
+            "tagName": "2.2.4",
+            "day": "2025-05-14T15:28:58Z",
+            "downloads": 90
+          },
+          {
+            "tagName": "2.1.10",
+            "day": "2025-04-02T19:24:30Z",
+            "downloads": 126
+          },
+          {
+            "tagName": "2.1.9",
+            "day": "2024-11-14T00:58:21Z",
+            "downloads": 355
+          },
+          {
+            "tagName": "2.1.8",
+            "day": "2024-10-10T12:47:09Z",
+            "downloads": 277
+          },
+          {
+            "tagName": "2.1.7",
+            "day": "2024-10-01T15:24:59Z",
+            "downloads": 50
+          },
+          {
+            "tagName": "2.1.6",
+            "day": "2024-09-16T16:47:46Z",
+            "downloads": 52
+          },
+          {
+            "tagName": "2.1.5",
+            "day": "2024-05-15T15:32:09Z",
+            "downloads": 418
+          },
+          {
+            "tagName": "2.1.4",
+            "day": "2024-03-13T17:46:06Z",
+            "downloads": 279
+          },
+          {
+            "tagName": "2.0.4",
+            "day": "2024-01-29T15:09:32Z",
+            "downloads": 121
+          },
+          {
+            "tagName": "2.0.3",
+            "day": "2023-11-16T17:17:14Z",
+            "downloads": 187
+          },
+          {
+            "tagName": "2.0.1",
+            "day": "2023-10-05T02:29:23Z",
+            "downloads": 55
+          },
+          {
+            "tagName": "2.0",
+            "day": "2023-09-28T15:32:02Z",
+            "downloads": 24
+          },
+          {
+            "tagName": "1.2.0",
+            "day": "2023-04-14T21:57:54Z",
+            "downloads": 203
+          },
+          {
+            "tagName": "1.1.16",
+            "day": "2023-04-14T21:41:23Z",
+            "downloads": 9
+          }
+        ],
+        "sail_windows_i386_zip": [
+          {
+            "tagName": "2.2.3",
+            "day": "2025-04-21T10:31:57Z",
+            "downloads": 15
+          },
+          {
+            "tagName": "2.2.2",
+            "day": "2025-04-16T16:25:17Z",
+            "downloads": 9
+          }
+        ],
+        "sail_windows_zip": [
+          {
+            "tagName": "2.2.3",
+            "day": "2025-04-21T10:31:57Z",
+            "downloads": 155
+          },
+          {
+            "tagName": "2.2.2",
+            "day": "2025-04-16T16:25:17Z",
+            "downloads": 22
+          }
+        ],
+        "sail_macos_amd64_tar.gz": [
+          {
+            "tagName": "2.1.10",
+            "day": "2025-04-02T19:24:30Z",
+            "downloads": 11
+          },
+          {
+            "tagName": "2.1.9",
+            "day": "2024-11-14T00:58:21Z",
+            "downloads": 65
+          },
+          {
+            "tagName": "2.1.8",
+            "day": "2024-10-10T12:47:09Z",
+            "downloads": 36
+          },
+          {
+            "tagName": "2.1.7",
+            "day": "2024-10-01T15:24:59Z",
+            "downloads": 11
+          },
+          {
+            "tagName": "2.1.6",
+            "day": "2024-09-16T16:47:46Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "2.1.5",
+            "day": "2024-05-15T15:32:09Z",
+            "downloads": 44
+          },
+          {
+            "tagName": "2.1.4",
+            "day": "2024-03-13T17:46:06Z",
+            "downloads": 35
+          },
+          {
+            "tagName": "2.0.4",
+            "day": "2024-01-29T15:09:32Z",
+            "downloads": 41
+          },
+          {
+            "tagName": "2.0.3",
+            "day": "2023-11-16T17:17:14Z",
+            "downloads": 30
+          },
+          {
+            "tagName": "2.0.2",
+            "day": "2023-10-11T20:58:03Z",
+            "downloads": 31
+          },
+          {
+            "tagName": "2.0.1",
+            "day": "2023-10-05T02:29:23Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "2.0",
+            "day": "2023-09-28T15:32:02Z",
+            "downloads": 15
+          },
+          {
+            "tagName": "1.2.0",
+            "day": "2023-04-14T21:57:54Z",
+            "downloads": 78
+          },
+          {
+            "tagName": "1.1.16",
+            "day": "2023-04-14T21:41:23Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "1.0.0",
+            "day": "2023-03-21T19:41:09Z",
+            "downloads": 27
+          },
+          {
+            "tagName": "0.5.1",
+            "day": "2023-03-13T14:35:02Z",
+            "downloads": 11
+          },
+          {
+            "tagName": "0.5.0",
+            "day": "2023-02-27T19:31:53Z",
+            "downloads": 30
+          },
+          {
+            "tagName": "0.4.1",
+            "day": "2023-02-07T19:08:48Z",
+            "downloads": 10
+          },
+          {
+            "tagName": "0.4.0",
+            "day": "2023-01-06T16:22:01Z",
+            "downloads": 13
+          },
+          {
+            "tagName": "0.3.2",
+            "day": "2023-01-06T15:37:38Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "0.3.1",
+            "day": "2023-01-06T15:27:28Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "0.3.0",
+            "day": "2023-01-06T14:50:24Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "0.2.2",
+            "day": "2022-11-09T13:33:03Z",
+            "downloads": 8
+          }
+        ],
+        "sail_linux_386_tar.gz": [
+          {
+            "tagName": "2.1.10",
+            "day": "2025-04-02T19:24:30Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.1.9",
+            "day": "2024-11-14T00:58:21Z",
+            "downloads": 12
+          },
+          {
+            "tagName": "2.1.8",
+            "day": "2024-10-10T12:47:09Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "2.1.7",
+            "day": "2024-10-01T15:24:59Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.1.6",
+            "day": "2024-09-16T16:47:46Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.1.5",
+            "day": "2024-05-15T15:32:09Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "2.1.4",
+            "day": "2024-03-13T17:46:06Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.0.4",
+            "day": "2024-01-29T15:09:32Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "2.0.3",
+            "day": "2023-11-16T17:17:14Z",
+            "downloads": 11
+          },
+          {
+            "tagName": "2.0.2",
+            "day": "2023-10-11T20:58:03Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "2.0.1",
+            "day": "2023-10-05T02:29:23Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "2.0",
+            "day": "2023-09-28T15:32:02Z",
+            "downloads": 15
+          },
+          {
+            "tagName": "1.2.0",
+            "day": "2023-04-14T21:57:54Z",
+            "downloads": 11
+          },
+          {
+            "tagName": "1.1.16",
+            "day": "2023-04-14T21:41:23Z",
+            "downloads": 7
+          }
+        ],
+        "sail_linux_amd64_tar.gz": [
+          {
+            "tagName": "2.1.10",
+            "day": "2025-04-02T19:24:30Z",
+            "downloads": 15
+          },
+          {
+            "tagName": "2.1.9",
+            "day": "2024-11-14T00:58:21Z",
+            "downloads": 22
+          },
+          {
+            "tagName": "2.1.8",
+            "day": "2024-10-10T12:47:09Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "2.1.7",
+            "day": "2024-10-01T15:24:59Z",
+            "downloads": 3
+          },
+          {
+            "tagName": "2.1.6",
+            "day": "2024-09-16T16:47:46Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "2.1.5",
+            "day": "2024-05-15T15:32:09Z",
+            "downloads": 41
+          },
+          {
+            "tagName": "2.1.4",
+            "day": "2024-03-13T17:46:06Z",
+            "downloads": 15
+          },
+          {
+            "tagName": "2.0.4",
+            "day": "2024-01-29T15:09:32Z",
+            "downloads": 13
+          },
+          {
+            "tagName": "2.0.3",
+            "day": "2023-11-16T17:17:14Z",
+            "downloads": 13
+          },
+          {
+            "tagName": "2.0.2",
+            "day": "2023-10-11T20:58:03Z",
+            "downloads": 10
+          },
+          {
+            "tagName": "2.0.1",
+            "day": "2023-10-05T02:29:23Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "2.0",
+            "day": "2023-09-28T15:32:02Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "1.2.0",
+            "day": "2023-04-14T21:57:54Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "1.1.16",
+            "day": "2023-04-14T21:41:23Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "1.0.0",
+            "day": "2023-03-21T19:41:09Z",
+            "downloads": 12
+          },
+          {
+            "tagName": "0.5.1",
+            "day": "2023-03-13T14:35:02Z",
+            "downloads": 22
+          },
+          {
+            "tagName": "0.5.0",
+            "day": "2023-02-27T19:31:53Z",
+            "downloads": 25
+          },
+          {
+            "tagName": "0.4.1",
+            "day": "2023-02-07T19:08:48Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "0.4.0",
+            "day": "2023-01-06T16:22:01Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "0.3.2",
+            "day": "2023-01-06T15:37:38Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "0.3.1",
+            "day": "2023-01-06T15:27:28Z",
+            "downloads": 6
+          },
+          {
+            "tagName": "0.3.0",
+            "day": "2023-01-06T14:50:24Z",
+            "downloads": 5
+          },
+          {
+            "tagName": "0.2.2",
+            "day": "2022-11-09T13:33:03Z",
+            "downloads": 7
+          }
+        ],
+        "sailpoint_macos_amd64_tar.gz": [
+          {
+            "tagName": "0.2.1",
+            "day": "2022-10-27T15:50:59Z",
+            "downloads": 6
+          }
+        ],
+        "sailpoint_windows_arm64_zip": [
+          {
+            "tagName": "0.2.1",
+            "day": "2022-10-27T15:50:59Z",
+            "downloads": 6
+          }
+        ],
+        "sailpoint_macos_arm64_tar.gz": [
+          {
+            "tagName": "0.2.1",
+            "day": "2022-10-27T15:50:59Z",
+            "downloads": 6
+          }
+        ],
+        "sailpoint_linux_amd64_tar.gz": [
+          {
+            "tagName": "0.2.1",
+            "day": "2022-10-27T15:50:59Z",
+            "downloads": 7
+          }
+        ],
+        "sailpoint_linux_arm64_tar.gz": [
+          {
+            "tagName": "0.2.1",
+            "day": "2022-10-27T15:50:59Z",
+            "downloads": 6
+          }
+        ],
+        "sailpoint_windows_amd64_zip": [
+          {
+            "tagName": "0.2.1",
+            "day": "2022-10-27T15:50:59Z",
+            "downloads": 10
+          }
+        ],
+        "sailpoint_txt": [
+          {
+            "tagName": "0.2.1",
+            "day": "2022-10-27T15:50:59Z",
+            "downloads": 5
+          }
+        ],
+        "connector_windows_arm64_zip": [
+          {
+            "tagName": "0.1.2",
+            "day": "2022-10-20T18:13:15Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "0.0.2",
+            "day": "2022-08-19T20:12:00Z",
+            "downloads": 9
+          }
+        ],
+        "connector_macos_amd64_tar.gz": [
+          {
+            "tagName": "0.1.2",
+            "day": "2022-10-20T18:13:15Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "0.0.2",
+            "day": "2022-08-19T20:12:00Z",
+            "downloads": 9
+          }
+        ],
+        "connector_macos_arm64_tar.gz": [
+          {
+            "tagName": "0.1.2",
+            "day": "2022-10-20T18:13:15Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "0.0.2",
+            "day": "2022-08-19T20:12:00Z",
+            "downloads": 9
+          }
+        ],
+        "connector_linux_amd64_tar.gz": [
+          {
+            "tagName": "0.1.2",
+            "day": "2022-10-20T18:13:15Z",
+            "downloads": 10
+          },
+          {
+            "tagName": "0.0.2",
+            "day": "2022-08-19T20:12:00Z",
+            "downloads": 10
+          }
+        ],
+        "connector_linux_arm64_tar.gz": [
+          {
+            "tagName": "0.1.2",
+            "day": "2022-10-20T18:13:15Z",
+            "downloads": 9
+          },
+          {
+            "tagName": "0.0.2",
+            "day": "2022-08-19T20:12:00Z",
+            "downloads": 12
+          }
+        ],
+        "connector_windows_amd64_zip": [
+          {
+            "tagName": "0.1.2",
+            "day": "2022-10-20T18:13:15Z",
+            "downloads": 8
+          },
+          {
+            "tagName": "0.0.2",
+            "day": "2022-08-19T20:12:00Z",
+            "downloads": 13
+          }
+        ],
+        "connector_txt": [
+          {
+            "tagName": "0.1.2",
+            "day": "2022-10-20T18:13:15Z",
+            "downloads": 5
+          },
+          {
+            "tagName": "0.0.2",
+            "day": "2022-08-19T20:12:00Z",
+            "downloads": 5
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "sail_macos_arm64_tar.gz": 1519,
+        "sail_linux_i386_tar.gz": 13,
+        "sail_linux_armv6_tar.gz": 92,
+        "sail_linux_tar.gz": 35,
+        "sail_linux_arm64_tar.gz": 179,
+        "sail_windows_386_zip": 789,
+        "sail_windows_arm64_zip": 413,
+        "sail_macos_tar.gz": 49,
+        "sail_linux_386_deb": 154,
+        "sail_linux_arm64_deb": 186,
+        "sail_linux_amd64_deb": 991,
+        "sail_linux_armv6_deb": 106,
+        "sail_linux_386_rpm": 126,
+        "sail_linux_armv6_rpm": 115,
+        "sail_linux_amd64_rpm": 219,
+        "sail_linux_arm64_rpm": 116,
+        "sail_txt": 183,
+        "sail_windows_amd64_zip": 1206,
+        "sail_windows_amd64_msi": 2413,
+        "sail_windows_i386_zip": 24,
+        "sail_windows_zip": 177,
+        "sail_macos_amd64_tar.gz": 536,
+        "sail_linux_386_tar.gz": 110,
+        "sail_linux_amd64_tar.gz": 272,
+        "sailpoint_macos_amd64_tar.gz": 6,
+        "sailpoint_windows_arm64_zip": 6,
+        "sailpoint_macos_arm64_tar.gz": 6,
+        "sailpoint_linux_amd64_tar.gz": 7,
+        "sailpoint_linux_arm64_tar.gz": 6,
+        "sailpoint_windows_amd64_zip": 10,
+        "sailpoint_txt": 5,
+        "connector_windows_arm64_zip": 17,
+        "connector_macos_amd64_tar.gz": 17,
+        "connector_macos_arm64_tar.gz": 18,
+        "connector_linux_amd64_tar.gz": 20,
+        "connector_linux_arm64_tar.gz": 21,
+        "connector_windows_amd64_zip": 21,
+        "connector_txt": 10
+      },
+      "totalsByOs": {
+        "macos": 2151,
+        "linux": 2768,
+        "windows": 5076
+      },
+      "totalsByArch": {
+        "386": 1179,
+        "arm64": 2487,
+        "i386": 37,
+        "armv6": 313,
+        "amd64": 5718
+      },
+      "totalsByFormat": {
+        "tar.gz": 2906,
+        "zip": 2663,
+        "deb": 1437,
+        "rpm": 576,
+        "txt": 198,
+        "msi": 2413
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {
+          "macos": {
+            "2.2.5": 192,
+            "2.2.4": 56,
+            "2.2.3": 88,
+            "2.2.2": 22,
+            "2.1.10": 52,
+            "2.1.9": 299,
+            "2.1.8": 148,
+            "2.1.7": 30,
+            "2.1.6": 35,
+            "2.1.5": 216,
+            "2.1.4": 179,
+            "2.0.4": 101,
+            "2.0.3": 106,
+            "2.0.2": 83,
+            "2.0.1": 30,
+            "2.0": 38,
+            "1.2.0": 184,
+            "1.1.16": 14,
+            "1.0.0": 55,
+            "0.5.1": 21,
+            "0.5.0": 53,
+            "0.4.1": 19,
+            "0.4.0": 32,
+            "0.3.2": 14,
+            "0.3.1": 12,
+            "0.3.0": 9,
+            "0.2.2": 16,
+            "0.2.1": 12,
+            "0.1.2": 17,
+            "0.0.2": 18
+          },
+          "linux": {
+            "2.2.5": 193,
+            "2.2.4": 160,
+            "2.2.3": 114,
+            "2.2.2": 46,
+            "2.1.10": 102,
+            "2.1.9": 248,
+            "2.1.8": 138,
+            "2.1.7": 45,
+            "2.1.6": 71,
+            "2.1.5": 400,
+            "2.1.4": 187,
+            "2.0.4": 157,
+            "2.0.3": 125,
+            "2.0.2": 113,
+            "2.0.1": 115,
+            "2.0": 134,
+            "1.2.0": 123,
+            "1.1.16": 86,
+            "1.0.0": 20,
+            "0.5.1": 28,
+            "0.5.0": 35,
+            "0.4.1": 13,
+            "0.4.0": 14,
+            "0.3.2": 12,
+            "0.3.1": 12,
+            "0.3.0": 10,
+            "0.2.2": 13,
+            "0.2.1": 13,
+            "0.1.2": 19,
+            "0.0.2": 22
+          },
+          "windows": {
+            "2.2.5": 525,
+            "2.2.4": 196,
+            "2.2.3": 225,
+            "2.2.2": 45,
+            "2.1.10": 167,
+            "2.1.9": 944,
+            "2.1.8": 376,
+            "2.1.7": 74,
+            "2.1.6": 80,
+            "2.1.5": 644,
+            "2.1.4": 406,
+            "2.0.4": 194,
+            "2.0.3": 267,
+            "2.0.2": 141,
+            "2.0.1": 91,
+            "2.0": 55,
+            "1.2.0": 312,
+            "1.1.16": 32,
+            "1.0.0": 76,
+            "0.5.1": 21,
+            "0.5.0": 37,
+            "0.4.1": 25,
+            "0.4.0": 18,
+            "0.3.2": 14,
+            "0.3.1": 15,
+            "0.3.0": 12,
+            "0.2.2": 30,
+            "0.2.1": 16,
+            "0.1.2": 16,
+            "0.0.2": 22
+          }
+        },
+        "arch": {
+          "386": {
+            "2.2.5": 325,
+            "2.2.4": 89,
+            "2.2.3": 8,
+            "2.2.2": 6,
+            "2.1.10": 25,
+            "2.1.9": 141,
+            "2.1.8": 52,
+            "2.1.7": 18,
+            "2.1.6": 22,
+            "2.1.5": 96,
+            "2.1.4": 76,
+            "2.0.4": 56,
+            "2.0.3": 47,
+            "2.0.2": 49,
+            "2.0.1": 34,
+            "2.0": 44,
+            "1.2.0": 63,
+            "1.1.16": 28
+          },
+          "arm64": {
+            "2.2.5": 216,
+            "2.2.4": 64,
+            "2.2.3": 157,
+            "2.2.2": 42,
+            "2.1.10": 59,
+            "2.1.9": 346,
+            "2.1.8": 147,
+            "2.1.7": 33,
+            "2.1.6": 61,
+            "2.1.5": 234,
+            "2.1.4": 194,
+            "2.0.4": 103,
+            "2.0.3": 116,
+            "2.0.2": 101,
+            "2.0.1": 56,
+            "2.0": 56,
+            "1.2.0": 147,
+            "1.1.16": 34,
+            "1.0.0": 53,
+            "0.5.1": 23,
+            "0.5.0": 43,
+            "0.4.1": 21,
+            "0.4.0": 31,
+            "0.3.2": 20,
+            "0.3.1": 18,
+            "0.3.0": 15,
+            "0.2.2": 23,
+            "0.2.1": 18,
+            "0.1.2": 26,
+            "0.0.2": 30
+          },
+          "i386": {
+            "2.2.5": 6,
+            "2.2.4": 2,
+            "2.2.3": 17,
+            "2.2.2": 12
+          },
+          "armv6": {
+            "2.2.5": 11,
+            "2.2.4": 15,
+            "2.2.3": 7,
+            "2.2.2": 9,
+            "2.1.10": 13,
+            "2.1.9": 11,
+            "2.1.8": 13,
+            "2.1.7": 9,
+            "2.1.6": 12,
+            "2.1.5": 17,
+            "2.1.4": 16,
+            "2.0.4": 38,
+            "2.0.3": 27,
+            "2.0.2": 25,
+            "2.0.1": 21,
+            "2.0": 27,
+            "1.2.0": 21,
+            "1.1.16": 21
+          },
+          "amd64": {
+            "2.2.5": 322,
+            "2.2.4": 227,
+            "2.2.3": 57,
+            "2.2.2": 9,
+            "2.1.10": 224,
+            "2.1.9": 993,
+            "2.1.8": 450,
+            "2.1.7": 89,
+            "2.1.6": 91,
+            "2.1.5": 913,
+            "2.1.4": 486,
+            "2.0.4": 255,
+            "2.0.3": 308,
+            "2.0.2": 162,
+            "2.0.1": 125,
+            "2.0": 100,
+            "1.2.0": 388,
+            "1.1.16": 49,
+            "1.0.0": 98,
+            "0.5.1": 47,
+            "0.5.0": 82,
+            "0.4.1": 36,
+            "0.4.0": 33,
+            "0.3.2": 20,
+            "0.3.1": 21,
+            "0.3.0": 16,
+            "0.2.2": 36,
+            "0.2.1": 23,
+            "0.1.2": 26,
+            "0.0.2": 32
+          }
+        },
+        "format": {
+          "tar.gz": {
+            "2.2.5": 222,
+            "2.2.4": 68,
+            "2.2.3": 104,
+            "2.2.2": 40,
+            "2.1.10": 79,
+            "2.1.9": 350,
+            "2.1.8": 173,
+            "2.1.7": 43,
+            "2.1.6": 52,
+            "2.1.5": 281,
+            "2.1.4": 210,
+            "2.0.4": 134,
+            "2.0.3": 147,
+            "2.0.2": 117,
+            "2.0.1": 60,
+            "2.0": 76,
+            "1.2.0": 220,
+            "1.1.16": 41,
+            "1.0.0": 75,
+            "0.5.1": 49,
+            "0.5.0": 88,
+            "0.4.1": 32,
+            "0.4.0": 46,
+            "0.3.2": 26,
+            "0.3.1": 24,
+            "0.3.0": 19,
+            "0.2.2": 29,
+            "0.2.1": 25,
+            "0.1.2": 36,
+            "0.0.2": 40
+          },
+          "zip": {
+            "2.2.5": 358,
+            "2.2.4": 106,
+            "2.2.3": 225,
+            "2.2.2": 45,
+            "2.1.10": 41,
+            "2.1.9": 589,
+            "2.1.8": 99,
+            "2.1.7": 24,
+            "2.1.6": 28,
+            "2.1.5": 226,
+            "2.1.4": 127,
+            "2.0.4": 73,
+            "2.0.3": 80,
+            "2.0.2": 141,
+            "2.0.1": 36,
+            "2.0": 31,
+            "1.2.0": 109,
+            "1.1.16": 23,
+            "1.0.0": 76,
+            "0.5.1": 21,
+            "0.5.0": 37,
+            "0.4.1": 25,
+            "0.4.0": 18,
+            "0.3.2": 14,
+            "0.3.1": 15,
+            "0.3.0": 12,
+            "0.2.2": 30,
+            "0.2.1": 16,
+            "0.1.2": 16,
+            "0.0.2": 22
+          },
+          "deb": {
+            "2.2.5": 105,
+            "2.2.4": 119,
+            "2.2.3": 69,
+            "2.2.2": 15,
+            "2.1.10": 55,
+            "2.1.9": 169,
+            "2.1.8": 90,
+            "2.1.7": 18,
+            "2.1.6": 38,
+            "2.1.5": 298,
+            "2.1.4": 114,
+            "2.0.4": 59,
+            "2.0.3": 45,
+            "2.0.2": 42,
+            "2.0.1": 56,
+            "2.0": 62,
+            "1.2.0": 52,
+            "1.1.16": 31
+          },
+          "rpm": {
+            "2.2.5": 58,
+            "2.2.4": 29,
+            "2.2.3": 29,
+            "2.2.2": 13,
+            "2.1.10": 20,
+            "2.1.9": 28,
+            "2.1.8": 23,
+            "2.1.7": 14,
+            "2.1.6": 16,
+            "2.1.5": 37,
+            "2.1.4": 42,
+            "2.0.4": 65,
+            "2.0.3": 39,
+            "2.0.2": 37,
+            "2.0.1": 29,
+            "2.0": 34,
+            "1.2.0": 35,
+            "1.1.16": 28
+          },
+          "txt": {
+            "2.2.5": 11,
+            "2.2.4": 7,
+            "2.2.3": 12,
+            "2.2.2": 3,
+            "2.1.10": 4,
+            "2.1.9": 18,
+            "2.1.8": 8,
+            "2.1.7": 0,
+            "2.1.6": 1,
+            "2.1.5": 11,
+            "2.1.4": 11,
+            "2.0.4": 7,
+            "2.0.3": 9,
+            "2.0.2": 9,
+            "2.0.1": 7,
+            "2.0": 7,
+            "1.2.0": 13,
+            "1.1.16": 4,
+            "1.0.0": 6,
+            "0.5.1": 2,
+            "0.5.0": 6,
+            "0.4.1": 4,
+            "0.4.0": 4,
+            "0.3.2": 4,
+            "0.3.1": 4,
+            "0.3.0": 2,
+            "0.2.2": 9,
+            "0.2.1": 5,
+            "0.1.2": 5,
+            "0.0.2": 5
+          },
+          "msi": {
+            "2.2.5": 167,
+            "2.2.4": 90,
+            "2.1.10": 126,
+            "2.1.9": 355,
+            "2.1.8": 277,
+            "2.1.7": 50,
+            "2.1.6": 52,
+            "2.1.5": 418,
+            "2.1.4": 279,
+            "2.0.4": 121,
+            "2.0.3": 187,
+            "2.0.1": 55,
+            "2.0": 24,
+            "1.2.0": 203,
+            "1.1.16": 9
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "sail_macos_arm64_tar.gz": {
+          "project": "sail",
+          "os": "macos",
+          "arch": "arm64",
+          "format": "tar.gz"
+        },
+        "sail_linux_i386_tar.gz": {
+          "project": "sail",
+          "os": "linux",
+          "arch": "i386",
+          "format": "tar.gz"
+        },
+        "sail_linux_armv6_tar.gz": {
+          "project": "sail",
+          "os": "linux",
+          "arch": "armv6",
+          "format": "tar.gz"
+        },
+        "sail_linux_tar.gz": {
+          "project": "sail",
+          "os": "linux",
+          "format": "tar.gz"
+        },
+        "sail_linux_arm64_tar.gz": {
+          "project": "sail",
+          "os": "linux",
+          "arch": "arm64",
+          "format": "tar.gz"
+        },
+        "sail_windows_386_zip": {
+          "project": "sail",
+          "os": "windows",
+          "arch": "386",
+          "format": "zip"
+        },
+        "sail_windows_arm64_zip": {
+          "project": "sail",
+          "os": "windows",
+          "arch": "arm64",
+          "format": "zip"
+        },
+        "sail_macos_tar.gz": {
+          "project": "sail",
+          "os": "macos",
+          "format": "tar.gz"
+        },
+        "sail_linux_386_deb": {
+          "project": "sail",
+          "os": "linux",
+          "arch": "386",
+          "format": "deb"
+        },
+        "sail_linux_arm64_deb": {
+          "project": "sail",
+          "os": "linux",
+          "arch": "arm64",
+          "format": "deb"
+        },
+        "sail_linux_amd64_deb": {
+          "project": "sail",
+          "os": "linux",
+          "arch": "amd64",
+          "format": "deb"
+        },
+        "sail_linux_armv6_deb": {
+          "project": "sail",
+          "os": "linux",
+          "arch": "armv6",
+          "format": "deb"
+        },
+        "sail_linux_386_rpm": {
+          "project": "sail",
+          "os": "linux",
+          "arch": "386",
+          "format": "rpm"
+        },
+        "sail_linux_armv6_rpm": {
+          "project": "sail",
+          "os": "linux",
+          "arch": "armv6",
+          "format": "rpm"
+        },
+        "sail_linux_amd64_rpm": {
+          "project": "sail",
+          "os": "linux",
+          "arch": "amd64",
+          "format": "rpm"
+        },
+        "sail_linux_arm64_rpm": {
+          "project": "sail",
+          "os": "linux",
+          "arch": "arm64",
+          "format": "rpm"
+        },
+        "sail_txt": {
+          "project": "sail",
+          "format": "txt"
+        },
+        "sail_windows_amd64_zip": {
+          "project": "sail",
+          "os": "windows",
+          "arch": "amd64",
+          "format": "zip"
+        },
+        "sail_windows_amd64_msi": {
+          "project": "sail",
+          "os": "windows",
+          "arch": "amd64",
+          "format": "msi"
+        },
+        "sail_windows_i386_zip": {
+          "project": "sail",
+          "os": "windows",
+          "arch": "i386",
+          "format": "zip"
+        },
+        "sail_windows_zip": {
+          "project": "sail",
+          "os": "windows",
+          "format": "zip"
+        },
+        "sail_macos_amd64_tar.gz": {
+          "project": "sail",
+          "os": "macos",
+          "arch": "amd64",
+          "format": "tar.gz"
+        },
+        "sail_linux_386_tar.gz": {
+          "project": "sail",
+          "os": "linux",
+          "arch": "386",
+          "format": "tar.gz"
+        },
+        "sail_linux_amd64_tar.gz": {
+          "project": "sail",
+          "os": "linux",
+          "arch": "amd64",
+          "format": "tar.gz"
+        },
+        "sailpoint_macos_amd64_tar.gz": {
+          "project": "sailpoint",
+          "os": "macos",
+          "arch": "amd64",
+          "format": "tar.gz"
+        },
+        "sailpoint_windows_arm64_zip": {
+          "project": "sailpoint",
+          "os": "windows",
+          "arch": "arm64",
+          "format": "zip"
+        },
+        "sailpoint_macos_arm64_tar.gz": {
+          "project": "sailpoint",
+          "os": "macos",
+          "arch": "arm64",
+          "format": "tar.gz"
+        },
+        "sailpoint_linux_amd64_tar.gz": {
+          "project": "sailpoint",
+          "os": "linux",
+          "arch": "amd64",
+          "format": "tar.gz"
+        },
+        "sailpoint_linux_arm64_tar.gz": {
+          "project": "sailpoint",
+          "os": "linux",
+          "arch": "arm64",
+          "format": "tar.gz"
+        },
+        "sailpoint_windows_amd64_zip": {
+          "project": "sailpoint",
+          "os": "windows",
+          "arch": "amd64",
+          "format": "zip"
+        },
+        "sailpoint_txt": {
+          "project": "sailpoint",
+          "format": "txt"
+        },
+        "connector_windows_arm64_zip": {
+          "project": "connector",
+          "os": "windows",
+          "arch": "arm64",
+          "format": "zip"
+        },
+        "connector_macos_amd64_tar.gz": {
+          "project": "connector",
+          "os": "macos",
+          "arch": "amd64",
+          "format": "tar.gz"
+        },
+        "connector_macos_arm64_tar.gz": {
+          "project": "connector",
+          "os": "macos",
+          "arch": "arm64",
+          "format": "tar.gz"
+        },
+        "connector_linux_amd64_tar.gz": {
+          "project": "connector",
+          "os": "linux",
+          "arch": "amd64",
+          "format": "tar.gz"
+        },
+        "connector_linux_arm64_tar.gz": {
+          "project": "connector",
+          "os": "linux",
+          "arch": "arm64",
+          "format": "tar.gz"
+        },
+        "connector_windows_amd64_zip": {
+          "project": "connector",
+          "os": "windows",
+          "arch": "amd64",
+          "format": "zip"
+        },
+        "connector_txt": {
+          "project": "connector",
+          "format": "txt"
+        }
+      }
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/api-specs",
+    "timestamp": "2025-08-26T21:40:31.583Z",
+    "metrics": {
+      "stars": 14,
+      "forks": 21,
+      "watchers": 7,
+      "totalIssues": 28,
+      "openIssues": 20,
+      "closedIssues": 8,
+      "language": "JavaScript",
+      "size": 411147,
+      "repositoryAge": 1090,
+      "lastActivity": 0,
+      "releaseCount": 8,
+      "totalReleaseDownloads": 191,
+      "latestReleaseDownloads": 24,
+      "viewsCount": 178,
+      "uniqueVisitors": 34,
+      "latestRelease": "v2025.08.26-1635",
+      "clonesCount": 248,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 191,
+      "downloadRange": [
+        {
+          "day": "2025-08-25T17:01:08Z",
+          "downloads": 18,
+          "tagName": "v2025.08.25-1701"
+        },
+        {
+          "day": "2025-08-25T18:04:57Z",
+          "downloads": 28,
+          "tagName": "v2025.08.25-1804"
+        },
+        {
+          "day": "2025-08-25T18:17:19Z",
+          "downloads": 24,
+          "tagName": "v2025.08.25-1817"
+        },
+        {
+          "day": "2025-08-25T18:22:21Z",
+          "downloads": 24,
+          "tagName": "v2025.08.25-1822"
+        },
+        {
+          "day": "2025-08-25T18:28:41Z",
+          "downloads": 24,
+          "tagName": "v2025.08.25-1828"
+        },
+        {
+          "day": "2025-08-26T02:37:20Z",
+          "downloads": 24,
+          "tagName": "v2025.08.26-0237"
+        },
+        {
+          "day": "2025-08-26T13:57:37Z",
+          "downloads": 25,
+          "tagName": "v2025.08.26-1357"
+        },
+        {
+          "day": "2025-08-26T16:35:07Z",
+          "downloads": 24,
+          "tagName": "v2025.08.26-1635"
+        }
+      ],
+      "assetTotalsByName": {
+        "deref.sailpoint": 191
+      },
+      "assetReleaseSeries": {
+        "deref.sailpoint": [
+          {
+            "tagName": "v2025.08.26-1635",
+            "day": "2025-08-26T16:35:07Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-1635",
+            "day": "2025-08-26T16:35:07Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-1635",
+            "day": "2025-08-26T16:35:07Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-1635",
+            "day": "2025-08-26T16:35:07Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-1635",
+            "day": "2025-08-26T16:35:07Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-1635",
+            "day": "2025-08-26T16:35:07Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-1635",
+            "day": "2025-08-26T16:35:07Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-1635",
+            "day": "2025-08-26T16:35:07Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-1635",
+            "day": "2025-08-26T16:35:07Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-1635",
+            "day": "2025-08-26T16:35:07Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-1635",
+            "day": "2025-08-26T16:35:07Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-1635",
+            "day": "2025-08-26T16:35:07Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-1357",
+            "day": "2025-08-26T13:57:37Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-1357",
+            "day": "2025-08-26T13:57:37Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-1357",
+            "day": "2025-08-26T13:57:37Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-1357",
+            "day": "2025-08-26T13:57:37Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-1357",
+            "day": "2025-08-26T13:57:37Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-1357",
+            "day": "2025-08-26T13:57:37Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-1357",
+            "day": "2025-08-26T13:57:37Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-1357",
+            "day": "2025-08-26T13:57:37Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-1357",
+            "day": "2025-08-26T13:57:37Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-1357",
+            "day": "2025-08-26T13:57:37Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-1357",
+            "day": "2025-08-26T13:57:37Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-1357",
+            "day": "2025-08-26T13:57:37Z",
+            "downloads": 3
+          },
+          {
+            "tagName": "v2025.08.26-0237",
+            "day": "2025-08-26T02:37:20Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-0237",
+            "day": "2025-08-26T02:37:20Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-0237",
+            "day": "2025-08-26T02:37:20Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-0237",
+            "day": "2025-08-26T02:37:20Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-0237",
+            "day": "2025-08-26T02:37:20Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-0237",
+            "day": "2025-08-26T02:37:20Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-0237",
+            "day": "2025-08-26T02:37:20Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-0237",
+            "day": "2025-08-26T02:37:20Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-0237",
+            "day": "2025-08-26T02:37:20Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-0237",
+            "day": "2025-08-26T02:37:20Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-0237",
+            "day": "2025-08-26T02:37:20Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.26-0237",
+            "day": "2025-08-26T02:37:20Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1828",
+            "day": "2025-08-25T18:28:41Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1828",
+            "day": "2025-08-25T18:28:41Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1828",
+            "day": "2025-08-25T18:28:41Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1828",
+            "day": "2025-08-25T18:28:41Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1828",
+            "day": "2025-08-25T18:28:41Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1828",
+            "day": "2025-08-25T18:28:41Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1828",
+            "day": "2025-08-25T18:28:41Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1828",
+            "day": "2025-08-25T18:28:41Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1828",
+            "day": "2025-08-25T18:28:41Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1828",
+            "day": "2025-08-25T18:28:41Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1828",
+            "day": "2025-08-25T18:28:41Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1828",
+            "day": "2025-08-25T18:28:41Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1822",
+            "day": "2025-08-25T18:22:21Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1822",
+            "day": "2025-08-25T18:22:21Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1822",
+            "day": "2025-08-25T18:22:21Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1822",
+            "day": "2025-08-25T18:22:21Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1822",
+            "day": "2025-08-25T18:22:21Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1822",
+            "day": "2025-08-25T18:22:21Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1822",
+            "day": "2025-08-25T18:22:21Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1822",
+            "day": "2025-08-25T18:22:21Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1822",
+            "day": "2025-08-25T18:22:21Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1822",
+            "day": "2025-08-25T18:22:21Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1822",
+            "day": "2025-08-25T18:22:21Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1822",
+            "day": "2025-08-25T18:22:21Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1817",
+            "day": "2025-08-25T18:17:19Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1817",
+            "day": "2025-08-25T18:17:19Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1817",
+            "day": "2025-08-25T18:17:19Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1817",
+            "day": "2025-08-25T18:17:19Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1817",
+            "day": "2025-08-25T18:17:19Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1817",
+            "day": "2025-08-25T18:17:19Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1817",
+            "day": "2025-08-25T18:17:19Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1817",
+            "day": "2025-08-25T18:17:19Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1817",
+            "day": "2025-08-25T18:17:19Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1817",
+            "day": "2025-08-25T18:17:19Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1817",
+            "day": "2025-08-25T18:17:19Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1817",
+            "day": "2025-08-25T18:17:19Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1804",
+            "day": "2025-08-25T18:04:57Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1804",
+            "day": "2025-08-25T18:04:57Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1804",
+            "day": "2025-08-25T18:04:57Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1804",
+            "day": "2025-08-25T18:04:57Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1804",
+            "day": "2025-08-25T18:04:57Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "v2025.08.25-1804",
+            "day": "2025-08-25T18:04:57Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1804",
+            "day": "2025-08-25T18:04:57Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1804",
+            "day": "2025-08-25T18:04:57Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1804",
+            "day": "2025-08-25T18:04:57Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1804",
+            "day": "2025-08-25T18:04:57Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1804",
+            "day": "2025-08-25T18:04:57Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "v2025.08.25-1804",
+            "day": "2025-08-25T18:04:57Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1701",
+            "day": "2025-08-25T17:01:08Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1701",
+            "day": "2025-08-25T17:01:08Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1701",
+            "day": "2025-08-25T17:01:08Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1701",
+            "day": "2025-08-25T17:01:08Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1701",
+            "day": "2025-08-25T17:01:08Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1701",
+            "day": "2025-08-25T17:01:08Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1701",
+            "day": "2025-08-25T17:01:08Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1701",
+            "day": "2025-08-25T17:01:08Z",
+            "downloads": 2
+          },
+          {
+            "tagName": "v2025.08.25-1701",
+            "day": "2025-08-25T17:01:08Z",
+            "downloads": 2
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "deref.sailpoint": 191
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "json": 94,
+        "yaml": 97
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "json": {
+            "v2025.08.26-1635": 12,
+            "v2025.08.26-1357": 12,
+            "v2025.08.26-0237": 12,
+            "v2025.08.25-1828": 12,
+            "v2025.08.25-1822": 12,
+            "v2025.08.25-1817": 12,
+            "v2025.08.25-1804": 14,
+            "v2025.08.25-1701": 8
+          },
+          "yaml": {
+            "v2025.08.26-1635": 12,
+            "v2025.08.26-1357": 13,
+            "v2025.08.26-0237": 12,
+            "v2025.08.25-1828": 12,
+            "v2025.08.25-1822": 12,
+            "v2025.08.25-1817": 12,
+            "v2025.08.25-1804": 14,
+            "v2025.08.25-1701": 10
+          }
+        },
+        "variant": {},
+        "version": {
+          "beta": {
+            "v2025.08.26-1635": 4,
+            "v2025.08.26-1357": 4,
+            "v2025.08.26-0237": 4,
+            "v2025.08.25-1828": 4,
+            "v2025.08.25-1822": 4,
+            "v2025.08.25-1817": 4,
+            "v2025.08.25-1804": 6,
+            "v2025.08.25-1701": 4
+          },
+          "nerm v2025": {
+            "v2025.08.26-1635": 4,
+            "v2025.08.26-1357": 4,
+            "v2025.08.26-0237": 4,
+            "v2025.08.25-1828": 4,
+            "v2025.08.25-1822": 4,
+            "v2025.08.25-1817": 4,
+            "v2025.08.25-1804": 4
+          },
+          "nerm": {
+            "v2025.08.26-1635": 4,
+            "v2025.08.26-1357": 4,
+            "v2025.08.26-0237": 4,
+            "v2025.08.25-1828": 4,
+            "v2025.08.25-1822": 4,
+            "v2025.08.25-1817": 4,
+            "v2025.08.25-1804": 4,
+            "v2025.08.25-1701": 2
+          },
+          "v2024": {
+            "v2025.08.26-1635": 4,
+            "v2025.08.26-1357": 4,
+            "v2025.08.26-0237": 4,
+            "v2025.08.25-1828": 4,
+            "v2025.08.25-1822": 4,
+            "v2025.08.25-1817": 4,
+            "v2025.08.25-1804": 4,
+            "v2025.08.25-1701": 4
+          },
+          "v2025": {
+            "v2025.08.26-1635": 4,
+            "v2025.08.26-1357": 4,
+            "v2025.08.26-0237": 4,
+            "v2025.08.25-1828": 4,
+            "v2025.08.25-1822": 4,
+            "v2025.08.25-1817": 4,
+            "v2025.08.25-1804": 4,
+            "v2025.08.25-1701": 4
+          },
+          "v3": {
+            "v2025.08.26-1635": 4,
+            "v2025.08.26-1357": 5,
+            "v2025.08.26-0237": 4,
+            "v2025.08.25-1828": 4,
+            "v2025.08.25-1822": 4,
+            "v2025.08.25-1817": 4,
+            "v2025.08.25-1804": 6,
+            "v2025.08.25-1701": 4
+          }
+        }
+      },
+      "assetAttributesByKey": {
+        "deref.sailpoint": {
+          "project": "deref.sailpoint",
+          "format": "json",
+          "version": "beta"
+        }
+      }
     }
   },
   {
     "platform": "PyPI",
     "name": "sailpoint",
-    "timestamp": "2025-08-26T19:21:27.877Z",
+    "timestamp": "2025-08-26T21:40:30.438Z",
     "metrics": {
       "downloadsTotal": 21184,
       "downloadsMonthly": 9193,
@@ -7324,13 +10855,13 @@
   {
     "platform": "PowerShell",
     "name": "PSSailPoint",
-    "timestamp": "2025-08-26T19:21:29.002Z",
+    "timestamp": "2025-08-26T21:40:32.546Z",
     "metrics": {
-      "downloadsTotal": 20570,
+      "downloadsTotal": 20572,
       "downloadsRange": [
         {
           "day": "2025-07-29T15:00:10.787Z",
-          "downloads": 186,
+          "downloads": 187,
           "version": "1.6.6"
         },
         {
@@ -7420,7 +10951,7 @@
         },
         {
           "day": "2024-07-15T12:48:38.457Z",
-          "downloads": 2760,
+          "downloads": 2761,
           "version": "1.3.2"
         },
         {
@@ -7489,11 +11020,11 @@
           "version": "1.0.0"
         }
       ],
-      "latestVersionDownloads": 186,
+      "latestVersionDownloads": 187,
       "latestVersion": "1.6.6",
       "latestVersionDate": "2025-07-29T15:00:10.787Z",
       "versionCount": 32,
-      "lastUpdated": "2025-08-26T14:20:00.447Z",
+      "lastUpdated": "2025-08-26T20:30:00.297Z",
       "authors": "Sailpoint Developer Relations",
       "description": "PSSailpoint - the PowerShell module for IdentityNow",
       "packageSize": 13944563,
@@ -7504,13 +11035,13 @@
   {
     "platform": "PowerShell",
     "name": "PSSailpoint.V3",
-    "timestamp": "2025-08-26T19:21:27.643Z",
+    "timestamp": "2025-08-26T21:40:30.636Z",
     "metrics": {
-      "downloadsTotal": 11812,
+      "downloadsTotal": 11813,
       "downloadsRange": [
         {
           "day": "2025-07-29T14:56:06.410Z",
-          "downloads": 202,
+          "downloads": 203,
           "version": "1.6.6"
         },
         {
@@ -7604,11 +11135,11 @@
           "version": "1.4.3"
         }
       ],
-      "latestVersionDownloads": 202,
+      "latestVersionDownloads": 203,
       "latestVersion": "1.6.6",
       "latestVersionDate": "2025-07-29T14:56:06.410Z",
       "versionCount": 19,
-      "lastUpdated": "2025-08-26T15:50:00.460Z",
+      "lastUpdated": "2025-08-26T20:30:00.297Z",
       "authors": "OpenAPI Generator Team",
       "description": "PSSailpoint.V3 - the PowerShell module for Identity Security Cloud V3 API",
       "packageSize": 1047127,
@@ -7619,13 +11150,13 @@
   {
     "platform": "PowerShell",
     "name": "PSSailpoint.Beta",
-    "timestamp": "2025-08-26T19:21:28.065Z",
+    "timestamp": "2025-08-26T21:40:30.951Z",
     "metrics": {
-      "downloadsTotal": 12134,
+      "downloadsTotal": 12135,
       "downloadsRange": [
         {
           "day": "2025-07-29T14:55:41.073Z",
-          "downloads": 195,
+          "downloads": 196,
           "version": "1.6.6"
         },
         {
@@ -7719,11 +11250,11 @@
           "version": "1.4.3"
         }
       ],
-      "latestVersionDownloads": 195,
+      "latestVersionDownloads": 196,
       "latestVersion": "1.6.6",
       "latestVersionDate": "2025-07-29T14:55:41.073Z",
       "versionCount": 19,
-      "lastUpdated": "2025-08-26T15:50:00.460Z",
+      "lastUpdated": "2025-08-26T20:30:00.297Z",
       "authors": "OpenAPI Generator Team",
       "description": "PSSailpoint.Beta - the PowerShell module for Identity Security Cloud Beta API",
       "packageSize": 1562121,
@@ -7734,13 +11265,13 @@
   {
     "platform": "PowerShell",
     "name": "PSSailpoint.V2024",
-    "timestamp": "2025-08-26T19:21:27.869Z",
+    "timestamp": "2025-08-26T21:40:31.464Z",
     "metrics": {
-      "downloadsTotal": 11806,
+      "downloadsTotal": 11807,
       "downloadsRange": [
         {
           "day": "2025-07-29T14:56:45.697Z",
-          "downloads": 196,
+          "downloads": 197,
           "version": "1.6.6"
         },
         {
@@ -7834,11 +11365,11 @@
           "version": "1.4.3"
         }
       ],
-      "latestVersionDownloads": 196,
+      "latestVersionDownloads": 197,
       "latestVersion": "1.6.6",
       "latestVersionDate": "2025-07-29T14:56:45.697Z",
       "versionCount": 19,
-      "lastUpdated": "2025-08-26T15:50:00.460Z",
+      "lastUpdated": "2025-08-26T20:30:00.297Z",
       "authors": "OpenAPI Generator Team",
       "description": "PSSailpoint.V2024 - the PowerShell module for Identity Security Cloud V2024 API",
       "packageSize": 1926341,
@@ -7849,13 +11380,13 @@
   {
     "platform": "PowerShell",
     "name": "PSSailpoint.V2025",
-    "timestamp": "2025-08-26T19:21:27.517Z",
+    "timestamp": "2025-08-26T21:40:30.750Z",
     "metrics": {
-      "downloadsTotal": 1098,
+      "downloadsTotal": 1099,
       "downloadsRange": [
         {
           "day": "2025-07-29T14:57:25.877Z",
-          "downloads": 189,
+          "downloads": 190,
           "version": "1.6.6"
         },
         {
@@ -7894,11 +11425,11 @@
           "version": "1.5.0"
         }
       ],
-      "latestVersionDownloads": 189,
+      "latestVersionDownloads": 190,
       "latestVersion": "1.6.6",
       "latestVersionDate": "2025-07-29T14:57:25.877Z",
       "versionCount": 8,
-      "lastUpdated": "2025-08-26T15:50:00.460Z",
+      "lastUpdated": "2025-08-26T20:30:00.297Z",
       "authors": "OpenAPI Generator Team",
       "description": "PSSailpoint.V2025 - the PowerShell module for Identity Security Cloud V2025 API",
       "packageSize": 1968958,
