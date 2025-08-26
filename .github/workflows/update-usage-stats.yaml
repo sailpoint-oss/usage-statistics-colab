@@ -24,7 +24,7 @@ jobs:
         uses: LukeHagar/usage-statistics@latest
         with:
           npm-packages: 'sailpoint-api-client'
-          github-repositories: 'sailpoint-oss/sailpoint-cli'
+          github-repositories: 'sailpoint-oss/sailpoint-cli,sailpoint-oss/api-specs'
           pypi-packages: 'sailpoint'
           powershell-modules: 'PSSailPoint,PSSailpoint.V3,PSSailpoint.Beta,PSSailpoint.V2024,PSSailpoint.V2025'
           json-output-path: 'stats.json'
