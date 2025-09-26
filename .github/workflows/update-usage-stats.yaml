@@ -23,7 +23,7 @@ jobs:
         run: |
           COLAB_REPOS=$(gh repo list sailpoint-oss --limit 1000 --json name --jq '.[] | select(.name | startswith("colab-")) | .name' | paste -sd, -)
           echo "Colab repositories: $COLAB_REPOS"
-          echo "colab_repos=$COLAB_REPOS" >> $GITHUB_ENV
+          echo "COLAB_REPOS=$COLAB_REPOS" >> $GITHUB_ENV
         env:
           GH_TOKEN: ${{ github.token }}
 
