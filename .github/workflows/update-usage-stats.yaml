@@ -24,12 +24,14 @@ jobs:
           COLAB_REPOS=$(gh repo list sailpoint-oss --limit 1000 --json name --jq '.[] | select(.name | startswith("colab-")) | .name' | paste -sd, -)
           echo "Colab repositories: $COLAB_REPOS"
           echo "colab_repos=$COLAB_REPOS" >> $GITHUB_ENV
+        env:
+          GH_TOKEN: ${{ github.token }}
 
       - name: Usage Statistics Tracker
         id: stats
         uses: LukeHagar/usage-statistics@latest
         with:
-          github-repositories: ${{ env.colab_repos }}
+          github-repositories: ${{ env.COLAB_REPOS }}
           json-output-path: 'stats.json'
           update-readme: 'true'
           readme-path: 'README.md'
