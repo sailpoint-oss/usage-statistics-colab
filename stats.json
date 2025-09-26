@@ -1,408 +1,2966 @@
 [
   {
     "platform": "GitHub",
-    "name": "colab-isc-extended-workflow-helper",
-    "timestamp": "2025-09-26T16:16:25.707Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-isc-extended-workflow-helper. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-isc-extended-workflow-helper",
+    "timestamp": "2025-09-26T16:19:28.471Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "Java",
+      "size": 658,
+      "repositoryAge": 7,
+      "lastActivity": 0,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 71,
+      "uniqueVisitors": 19,
+      "latestRelease": null,
+      "clonesCount": 20,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-saas-conn-sailpoint-identity-fusion",
-    "timestamp": "2025-09-26T16:16:25.707Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-saas-conn-sailpoint-identity-fusion. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-saas-conn-sailpoint-identity-fusion",
+    "timestamp": "2025-09-26T16:19:28.641Z",
+    "metrics": {
+      "stars": 5,
+      "forks": 6,
+      "watchers": 4,
+      "totalIssues": 4,
+      "openIssues": 3,
+      "closedIssues": 1,
+      "language": "TypeScript",
+      "size": 6621,
+      "repositoryAge": 542,
+      "lastActivity": 8,
+      "releaseCount": 7,
+      "totalReleaseDownloads": 42,
+      "latestReleaseDownloads": 3,
+      "viewsCount": 248,
+      "uniqueVisitors": 51,
+      "latestRelease": "v1.2.2",
+      "clonesCount": 31,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 42,
+      "downloadRange": [
+        {
+          "day": "2025-02-18T21:21:37Z",
+          "downloads": 6,
+          "tagName": "v0.0.5"
+        },
+        {
+          "day": "2025-02-24T21:28:33Z",
+          "downloads": 5,
+          "tagName": "v1.0.0"
+        },
+        {
+          "day": "2025-03-17T15:43:09Z",
+          "downloads": 17,
+          "tagName": "v1.1.0"
+        },
+        {
+          "day": "2025-07-18T15:34:47Z",
+          "downloads": 4,
+          "tagName": "v1.1.1"
+        },
+        {
+          "day": "2025-08-06T19:34:26Z",
+          "downloads": 4,
+          "tagName": "v1.1.2"
+        },
+        {
+          "day": "2025-09-16T13:32:31Z",
+          "downloads": 3,
+          "tagName": "v1.2.1"
+        },
+        {
+          "day": "2025-09-18T13:09:47Z",
+          "downloads": 3,
+          "tagName": "v1.2.2"
+        }
+      ],
+      "assetTotalsByName": {
+        "identity_zip": 42
+      },
+      "assetReleaseSeries": {
+        "identity_zip": [
+          {
+            "tagName": "v1.2.2",
+            "day": "2025-09-18T13:09:47Z",
+            "downloads": 3
+          },
+          {
+            "tagName": "v1.2.1",
+            "day": "2025-09-16T13:32:31Z",
+            "downloads": 3
+          },
+          {
+            "tagName": "v1.1.2",
+            "day": "2025-08-06T19:34:26Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "v1.1.1",
+            "day": "2025-07-18T15:34:47Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "v1.1.0",
+            "day": "2025-03-17T15:43:09Z",
+            "downloads": 17
+          },
+          {
+            "tagName": "v1.0.0",
+            "day": "2025-02-24T21:28:33Z",
+            "downloads": 5
+          },
+          {
+            "tagName": "v0.0.5",
+            "day": "2025-02-18T21:21:37Z",
+            "downloads": 6
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "identity_zip": 42
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "zip": 42
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "zip": {
+            "v1.2.2": 3,
+            "v1.2.1": 3,
+            "v1.1.2": 4,
+            "v1.1.1": 4,
+            "v1.1.0": 17,
+            "v1.0.0": 5,
+            "v0.0.5": 6
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "identity_zip": {
+          "project": "identity",
+          "format": "zip"
+        }
+      }
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-saas-conn-prisma-sase",
-    "timestamp": "2025-09-26T16:16:25.707Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-saas-conn-prisma-sase. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-saas-conn-prisma-sase",
+    "timestamp": "2025-09-26T16:19:28.575Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 598,
+      "repositoryAge": 427,
+      "lastActivity": 15,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 16,
+      "uniqueVisitors": 2,
+      "latestRelease": null,
+      "clonesCount": 11,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-saas-conn-pan-customer-service-portal",
-    "timestamp": "2025-09-26T16:16:25.707Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-saas-conn-pan-customer-service-portal. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-saas-conn-pan-customer-service-portal",
+    "timestamp": "2025-09-26T16:19:28.458Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 607,
+      "repositoryAge": 427,
+      "lastActivity": 15,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 16,
+      "uniqueVisitors": 6,
+      "latestRelease": null,
+      "clonesCount": 5,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-iiq-roles-with-deleted-entitlements",
-    "timestamp": "2025-09-26T16:16:25.707Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-iiq-roles-with-deleted-entitlements. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-iiq-roles-with-deleted-entitlements",
+    "timestamp": "2025-09-26T16:19:28.488Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": null,
+      "size": 397,
+      "repositoryAge": 20,
+      "lastActivity": 20,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 29,
+      "uniqueVisitors": 4,
+      "latestRelease": null,
+      "clonesCount": 0,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-stunt-script",
-    "timestamp": "2025-09-26T16:16:25.707Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-stunt-script. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-stunt-script",
+    "timestamp": "2025-09-26T16:19:28.615Z",
+    "metrics": {
+      "stars": 3,
+      "forks": 0,
+      "watchers": 3,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "Shell",
+      "size": 506,
+      "repositoryAge": 729,
+      "lastActivity": 38,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 56,
+      "uniqueVisitors": 20,
+      "latestRelease": null,
+      "clonesCount": 17,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-saas-conn-outlook-out-of-office",
-    "timestamp": "2025-09-26T16:16:25.707Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-saas-conn-outlook-out-of-office. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-saas-conn-outlook-out-of-office",
+    "timestamp": "2025-09-26T16:19:28.574Z",
+    "metrics": {
+      "stars": 1,
+      "forks": 1,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 1545,
+      "repositoryAge": 681,
+      "lastActivity": 39,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 66,
+      "uniqueVisitors": 8,
+      "latestRelease": null,
+      "clonesCount": 4,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-saas-conn-search-loopback",
-    "timestamp": "2025-09-26T16:16:25.707Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-saas-conn-search-loopback. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-saas-conn-search-loopback",
+    "timestamp": "2025-09-26T16:19:28.535Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 687,
+      "repositoryAge": 245,
+      "lastActivity": 45,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 16,
+      "uniqueVisitors": 5,
+      "latestRelease": null,
+      "clonesCount": 5,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-sailpoint-zapier-integration",
-    "timestamp": "2025-09-26T16:16:25.707Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-sailpoint-zapier-integration. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-sailpoint-zapier-integration",
+    "timestamp": "2025-09-26T16:19:28.444Z",
+    "metrics": {
+      "stars": 1,
+      "forks": 0,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "JavaScript",
+      "size": 494,
+      "repositoryAge": 731,
+      "lastActivity": 66,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 2,
+      "uniqueVisitors": 2,
+      "latestRelease": null,
+      "clonesCount": 4,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-events-dashboard-plugin",
-    "timestamp": "2025-09-26T16:16:25.708Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-events-dashboard-plugin. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-events-dashboard-plugin",
+    "timestamp": "2025-09-26T16:19:28.601Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "Java",
+      "size": 547,
+      "repositoryAge": 92,
+      "lastActivity": 70,
+      "releaseCount": 1,
+      "totalReleaseDownloads": 5,
+      "latestReleaseDownloads": 5,
+      "viewsCount": 48,
+      "uniqueVisitors": 6,
+      "latestRelease": "v1.0",
+      "clonesCount": 2,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 5,
+      "downloadRange": [
+        {
+          "day": "2025-07-18T04:57:05Z",
+          "downloads": 5,
+          "tagName": "v1.0"
+        }
+      ],
+      "assetTotalsByName": {
+        "eventsdashboardplugin_zip": 5
+      },
+      "assetReleaseSeries": {
+        "eventsdashboardplugin_zip": [
+          {
+            "tagName": "v1.0",
+            "day": "2025-07-18T04:57:05Z",
+            "downloads": 5
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "eventsdashboardplugin_zip": 5
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "zip": 5
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "zip": {
+            "v1.0": 5
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "eventsdashboardplugin_zip": {
+          "project": "EventsDashboardPlugin",
+          "format": "zip"
+        }
+      }
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-motd-plugin",
-    "timestamp": "2025-09-26T16:16:25.708Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-motd-plugin. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-motd-plugin",
+    "timestamp": "2025-09-26T16:19:28.473Z",
+    "metrics": {
+      "stars": 3,
+      "forks": 0,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "JavaScript",
+      "size": 27236,
+      "repositoryAge": 518,
+      "lastActivity": 76,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 22,
+      "uniqueVisitors": 3,
+      "latestRelease": null,
+      "clonesCount": 4,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-saas-conn-genetec-clearid",
-    "timestamp": "2025-09-26T16:16:25.708Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-saas-conn-genetec-clearid. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-saas-conn-genetec-clearid",
+    "timestamp": "2025-09-26T16:19:28.585Z",
+    "metrics": {
+      "stars": 2,
+      "forks": 1,
+      "watchers": 1,
+      "totalIssues": 1,
+      "openIssues": 1,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 411,
+      "repositoryAge": 730,
+      "lastActivity": 100,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 53,
+      "uniqueVisitors": 12,
+      "latestRelease": null,
+      "clonesCount": 6,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-iiq-resilient-actions",
-    "timestamp": "2025-09-26T16:16:25.708Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-iiq-resilient-actions. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-iiq-resilient-actions",
+    "timestamp": "2025-09-26T16:19:28.476Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": null,
+      "size": 400,
+      "repositoryAge": 105,
+      "lastActivity": 105,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 2,
+      "uniqueVisitors": 1,
+      "latestRelease": null,
+      "clonesCount": 2,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-isc-PsAttributeSyncValidator",
-    "timestamp": "2025-09-26T16:16:25.708Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-isc-PsAttributeSyncValidator. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-isc-PsAttributeSyncValidator",
+    "timestamp": "2025-09-26T16:19:28.681Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": null,
+      "size": 397,
+      "repositoryAge": 115,
+      "lastActivity": 115,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": null,
+      "clonesCount": 2,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-saas-conn-identitynow-orphan-accounts",
-    "timestamp": "2025-09-26T16:16:25.708Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-saas-conn-identitynow-orphan-accounts. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-saas-conn-identitynow-orphan-accounts",
+    "timestamp": "2025-09-26T16:19:28.639Z",
+    "metrics": {
+      "stars": 2,
+      "forks": 5,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 413,
+      "repositoryAge": 730,
+      "lastActivity": 119,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 21,
+      "uniqueVisitors": 3,
+      "latestRelease": null,
+      "clonesCount": 3,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-saas-conn-peloton-platform",
-    "timestamp": "2025-09-26T16:16:25.708Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-saas-conn-peloton-platform. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-saas-conn-peloton-platform",
+    "timestamp": "2025-09-26T16:19:28.500Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 460,
+      "repositoryAge": 150,
+      "lastActivity": 149,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 37,
+      "uniqueVisitors": 2,
+      "latestRelease": null,
+      "clonesCount": 1,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-non-employee-risk-management-splunk-addon",
-    "timestamp": "2025-09-26T16:16:25.708Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-non-employee-risk-management-splunk-addon. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-non-employee-risk-management-splunk-addon",
+    "timestamp": "2025-09-26T16:19:28.580Z",
+    "metrics": {
+      "stars": 1,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "Python",
+      "size": 8515,
+      "repositoryAge": 308,
+      "lastActivity": 171,
+      "releaseCount": 1,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 5,
+      "uniqueVisitors": 4,
+      "latestRelease": "v1.0.0",
+      "clonesCount": 9,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [
+        {
+          "day": "2025-04-03T17:55:58Z",
+          "downloads": 0,
+          "tagName": "v1.0.0"
+        }
+      ],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-iiqda-plugin-intellij",
-    "timestamp": "2025-09-26T16:16:25.708Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-iiqda-plugin-intellij. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-iiqda-plugin-intellij",
+    "timestamp": "2025-09-26T16:19:28.633Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 3,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "Java",
+      "size": 464,
+      "repositoryAge": 464,
+      "lastActivity": 175,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 35,
+      "uniqueVisitors": 9,
+      "latestRelease": null,
+      "clonesCount": 15,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-saas-conn-identitynow-management",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-saas-conn-identitynow-management. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-saas-conn-identitynow-management",
+    "timestamp": "2025-09-26T16:19:28.458Z",
+    "metrics": {
+      "stars": 6,
+      "forks": 8,
+      "watchers": 2,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 451,
+      "repositoryAge": 731,
+      "lastActivity": 203,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 23,
+      "uniqueVisitors": 15,
+      "latestRelease": null,
+      "clonesCount": 4,
+      "topics": 0,
+      "license": null,
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-saas-conn-cyber-ark-rbac",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-saas-conn-cyber-ark-rbac. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-saas-conn-cyber-ark-rbac",
+    "timestamp": "2025-09-26T16:19:28.523Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 2,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 409,
+      "repositoryAge": 213,
+      "lastActivity": 210,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 7,
+      "uniqueVisitors": 5,
+      "latestRelease": null,
+      "clonesCount": 2,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-saas-conn-peloton-landview",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-saas-conn-peloton-landview. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-saas-conn-peloton-landview",
+    "timestamp": "2025-09-26T16:19:28.658Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 607,
+      "repositoryAge": 553,
+      "lastActivity": 213,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": null,
+      "clonesCount": 4,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-workflows",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-workflows. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-workflows",
+    "timestamp": "2025-09-26T16:19:28.621Z",
+    "metrics": {
+      "stars": 13,
+      "forks": 13,
+      "watchers": 5,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": null,
+      "size": 481,
+      "repositoryAge": 731,
+      "lastActivity": 218,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 340,
+      "uniqueVisitors": 74,
+      "latestRelease": null,
+      "clonesCount": 4,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-show-workgroup-member-plugin",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-show-workgroup-member-plugin. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-show-workgroup-member-plugin",
+    "timestamp": "2025-09-26T16:19:28.484Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 2,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "Java",
+      "size": 404,
+      "repositoryAge": 242,
+      "lastActivity": 227,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 18,
+      "uniqueVisitors": 3,
+      "latestRelease": null,
+      "clonesCount": 3,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-iiq-custom-loading-spinner",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-iiq-custom-loading-spinner. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-iiq-custom-loading-spinner",
+    "timestamp": "2025-09-26T16:19:28.602Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "JavaScript",
+      "size": 403,
+      "repositoryAge": 261,
+      "lastActivity": 256,
+      "releaseCount": 1,
+      "totalReleaseDownloads": 3,
+      "latestReleaseDownloads": 3,
+      "viewsCount": 31,
+      "uniqueVisitors": 4,
+      "latestRelease": "v1.0",
+      "clonesCount": 3,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 3,
+      "downloadRange": [
+        {
+          "day": "2025-01-13T06:49:24Z",
+          "downloads": 3,
+          "tagName": "v1.0"
+        }
+      ],
+      "assetTotalsByName": {
+        "custom_zip": 3
+      },
+      "assetReleaseSeries": {
+        "custom_zip": [
+          {
+            "tagName": "v1.0",
+            "day": "2025-01-13T06:49:24Z",
+            "downloads": 3
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "custom_zip": 3
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "zip": 3
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "zip": {
+            "v1.0": 3
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "custom_zip": {
+          "project": "Custom",
+          "format": "zip"
+        }
+      }
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-isc-auto-loader",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-isc-auto-loader. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-isc-auto-loader",
+    "timestamp": "2025-09-26T16:19:28.523Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": null,
+      "size": 397,
+      "repositoryAge": 290,
+      "lastActivity": 290,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 3,
+      "uniqueVisitors": 2,
+      "latestRelease": null,
+      "clonesCount": 4,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-saas-conn-beyondtrust-privilege-management-cloud",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-saas-conn-beyondtrust-privilege-management-cloud. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-saas-conn-beyondtrust-privilege-management-cloud",
+    "timestamp": "2025-09-26T16:19:28.612Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 6415,
+      "repositoryAge": 605,
+      "lastActivity": 295,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 1,
+      "uniqueVisitors": 1,
+      "latestRelease": null,
+      "clonesCount": 4,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-provisioning-simulator-plugin",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-provisioning-simulator-plugin. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-provisioning-simulator-plugin",
+    "timestamp": "2025-09-26T16:19:28.639Z",
+    "metrics": {
+      "stars": 1,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 11,
+      "openIssues": 8,
+      "closedIssues": 3,
+      "language": "Java",
+      "size": 15199,
+      "repositoryAge": 505,
+      "lastActivity": 297,
+      "releaseCount": 3,
+      "totalReleaseDownloads": 11,
+      "latestReleaseDownloads": 9,
+      "viewsCount": 30,
+      "uniqueVisitors": 4,
+      "latestRelease": "1.2",
+      "clonesCount": 5,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 11,
+      "downloadRange": [
+        {
+          "day": "2024-05-15T20:42:40Z",
+          "downloads": 1,
+          "tagName": "1.0"
+        },
+        {
+          "day": "2024-05-30T12:09:13Z",
+          "downloads": 1,
+          "tagName": "1.1"
+        },
+        {
+          "day": "2024-05-31T10:47:11Z",
+          "downloads": 9,
+          "tagName": "1.2"
+        }
+      ],
+      "assetTotalsByName": {
+        "colab": 6,
+        "colab_zip": 4,
+        "provisioningsimulator": 1
+      },
+      "assetReleaseSeries": {
+        "colab": [
+          {
+            "tagName": "1.2",
+            "day": "2024-05-31T10:47:11Z",
+            "downloads": 5
+          },
+          {
+            "tagName": "1.1",
+            "day": "2024-05-30T12:09:13Z",
+            "downloads": 1
+          }
+        ],
+        "colab_zip": [
+          {
+            "tagName": "1.2",
+            "day": "2024-05-31T10:47:11Z",
+            "downloads": 4
+          },
+          {
+            "tagName": "1.1",
+            "day": "2024-05-30T12:09:13Z",
+            "downloads": 0
+          }
+        ],
+        "provisioningsimulator": [
+          {
+            "tagName": "1.0",
+            "day": "2024-05-15T20:42:40Z",
+            "downloads": 1
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "colab": 6,
+        "colab_zip": 4,
+        "provisioningsimulator": 1
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "zip": 4
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "zip": {
+            "1.2": 4,
+            "1.1": 0
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "colab": {
+          "project": "colab"
+        },
+        "colab_zip": {
+          "project": "colab",
+          "format": "zip"
+        },
+        "provisioningsimulator": {
+          "project": "ProvisioningSimulator"
+        }
+      }
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-saas-conn-thomsonreuters-document-intelligence",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-saas-conn-thomsonreuters-document-intelligence. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-saas-conn-thomsonreuters-document-intelligence",
+    "timestamp": "2025-09-26T16:19:28.453Z",
+    "metrics": {
+      "stars": 1,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 460,
+      "repositoryAge": 305,
+      "lastActivity": 298,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": null,
+      "clonesCount": 3,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-isc-powershell-task-manager",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-isc-powershell-task-manager. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-isc-powershell-task-manager",
+    "timestamp": "2025-09-26T16:19:28.570Z",
+    "metrics": {
+      "stars": 1,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "PowerShell",
+      "size": 526,
+      "repositoryAge": 351,
+      "lastActivity": 329,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 12,
+      "uniqueVisitors": 2,
+      "latestRelease": null,
+      "clonesCount": 5,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-saas-conn-delimited-file",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-saas-conn-delimited-file. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-saas-conn-delimited-file",
+    "timestamp": "2025-09-26T16:19:28.715Z",
+    "metrics": {
+      "stars": 1,
+      "forks": 2,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 606,
+      "repositoryAge": 427,
+      "lastActivity": 341,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 9,
+      "uniqueVisitors": 1,
+      "latestRelease": null,
+      "clonesCount": 2,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-file-upload-utility-automation-scripts",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-file-upload-utility-automation-scripts. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-file-upload-utility-automation-scripts",
+    "timestamp": "2025-09-26T16:19:28.507Z",
+    "metrics": {
+      "stars": 1,
+      "forks": 2,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "PowerShell",
+      "size": 405,
+      "repositoryAge": 372,
+      "lastActivity": 359,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 116,
+      "uniqueVisitors": 7,
+      "latestRelease": null,
+      "clonesCount": 3,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-sailpoint-configuration-manager",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-sailpoint-configuration-manager. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-sailpoint-configuration-manager",
+    "timestamp": "2025-09-26T16:19:28.665Z",
+    "metrics": {
+      "stars": 2,
+      "forks": 2,
+      "watchers": 2,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "PowerShell",
+      "size": 485,
+      "repositoryAge": 575,
+      "lastActivity": 362,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 11,
+      "uniqueVisitors": 8,
+      "latestRelease": null,
+      "clonesCount": 7,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-org-chart-plugin",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-org-chart-plugin. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-org-chart-plugin",
+    "timestamp": "2025-09-26T16:19:28.586Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 34236,
+      "repositoryAge": 464,
+      "lastActivity": 364,
+      "releaseCount": 1,
+      "totalReleaseDownloads": 38,
+      "latestReleaseDownloads": 38,
+      "viewsCount": 24,
+      "uniqueVisitors": 4,
+      "latestRelease": "1.2.0",
+      "clonesCount": 2,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 38,
+      "downloadRange": [
+        {
+          "day": "2024-07-11T15:40:36Z",
+          "downloads": 38,
+          "tagName": "1.2.0"
+        }
+      ],
+      "assetTotalsByName": {
+        "orgchartplugin_zip": 38
+      },
+      "assetReleaseSeries": {
+        "orgchartplugin_zip": [
+          {
+            "tagName": "1.2.0",
+            "day": "2024-07-11T15:40:36Z",
+            "downloads": 38
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "orgchartplugin_zip": 38
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "zip": 38
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "zip": {
+            "1.2.0": 38
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "orgchartplugin_zip": {
+          "project": "orgchartplugin",
+          "format": "zip"
+        }
+      }
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-transforms",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-transforms. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-transforms",
+    "timestamp": "2025-09-26T16:19:28.578Z",
+    "metrics": {
+      "stars": 2,
+      "forks": 7,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": null,
+      "size": 421,
+      "repositoryAge": 731,
+      "lastActivity": 366,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 32,
+      "uniqueVisitors": 15,
+      "latestRelease": null,
+      "clonesCount": 6,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-file-upload-utility",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-file-upload-utility. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-file-upload-utility",
+    "timestamp": "2025-09-26T16:19:28.640Z",
+    "metrics": {
+      "stars": 5,
+      "forks": 8,
+      "watchers": 2,
+      "totalIssues": 5,
+      "openIssues": 3,
+      "closedIssues": 2,
+      "language": "Java",
+      "size": 457,
+      "repositoryAge": 731,
+      "lastActivity": 380,
+      "releaseCount": 2,
+      "totalReleaseDownloads": 1609,
+      "latestReleaseDownloads": 844,
+      "viewsCount": 182,
+      "uniqueVisitors": 63,
+      "latestRelease": "file-upload-utility-4.1.0",
+      "clonesCount": 6,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 1609,
+      "downloadRange": [
+        {
+          "day": "2024-05-01T16:36:27Z",
+          "downloads": 765,
+          "tagName": "file-upload-utility-4.0.0"
+        },
+        {
+          "day": "2024-09-11T02:56:25Z",
+          "downloads": 844,
+          "tagName": "file-upload-utility-4.1.0"
+        }
+      ],
+      "assetTotalsByName": {
+        "sailpoint": 1609
+      },
+      "assetReleaseSeries": {
+        "sailpoint": [
+          {
+            "tagName": "file-upload-utility-4.1.0",
+            "day": "2024-09-11T02:56:25Z",
+            "downloads": 844
+          },
+          {
+            "tagName": "file-upload-utility-4.0.0",
+            "day": "2024-05-01T16:36:27Z",
+            "downloads": 765
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "sailpoint": 1609
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "sailpoint": {
+          "project": "sailpoint"
+        }
+      }
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-isc-credential-cycling",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-isc-credential-cycling. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-isc-credential-cycling",
+    "timestamp": "2025-09-26T16:19:28.511Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "C#",
+      "size": 4101,
+      "repositoryAge": 420,
+      "lastActivity": 394,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 5,
+      "uniqueVisitors": 1,
+      "latestRelease": null,
+      "clonesCount": 3,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-log-level-modifier-plugin",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-log-level-modifier-plugin. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-log-level-modifier-plugin",
+    "timestamp": "2025-09-26T16:19:28.621Z",
+    "metrics": {
+      "stars": 1,
+      "forks": 2,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "HTML",
+      "size": 584,
+      "repositoryAge": 407,
+      "lastActivity": 402,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 18,
+      "uniqueVisitors": 4,
+      "latestRelease": null,
+      "clonesCount": 2,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-valdate-population-plugin",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-valdate-population-plugin. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-valdate-population-plugin",
+    "timestamp": "2025-09-26T16:19:28.635Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": null,
+      "size": 397,
+      "repositoryAge": 416,
+      "lastActivity": 416,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 1,
+      "uniqueVisitors": 1,
+      "latestRelease": null,
+      "clonesCount": 2,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-identity-photos-plugin",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-identity-photos-plugin. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-identity-photos-plugin",
+    "timestamp": "2025-09-26T16:19:28.626Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": null,
+      "size": 397,
+      "repositoryAge": 416,
+      "lastActivity": 416,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 2,
+      "uniqueVisitors": 1,
+      "latestRelease": null,
+      "clonesCount": 2,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-community-rest-api-plugin",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-community-rest-api-plugin. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-community-rest-api-plugin",
+    "timestamp": "2025-09-26T16:19:28.601Z",
+    "metrics": {
+      "stars": 2,
+      "forks": 4,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "Java",
+      "size": 642,
+      "repositoryAge": 464,
+      "lastActivity": 457,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 44,
+      "uniqueVisitors": 7,
+      "latestRelease": null,
+      "clonesCount": 7,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-saas-conn-beyondtrust-pmcloud-computers",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-saas-conn-beyondtrust-pmcloud-computers. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-saas-conn-beyondtrust-pmcloud-computers",
+    "timestamp": "2025-09-26T16:19:28.520Z",
+    "metrics": {
+      "stars": 1,
+      "forks": 1,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 6252,
+      "repositoryAge": 605,
+      "lastActivity": 463,
+      "releaseCount": 2,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 1,
+      "uniqueVisitors": 1,
+      "latestRelease": "v1.01",
+      "clonesCount": 4,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [
+        {
+          "day": "2024-02-23T21:48:30Z",
+          "downloads": 0,
+          "tagName": "v1.0"
+        },
+        {
+          "day": "2024-04-03T18:40:21Z",
+          "downloads": 0,
+          "tagName": "v1.01"
+        }
+      ],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-connector-configurations",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-connector-configurations. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-connector-configurations",
+    "timestamp": "2025-09-26T16:19:28.690Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": null,
+      "size": 400,
+      "repositoryAge": 464,
+      "lastActivity": 464,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": null,
+      "clonesCount": 2,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-iiq-hbm-extension-template",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-iiq-hbm-extension-template. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-iiq-hbm-extension-template",
+    "timestamp": "2025-09-26T16:19:28.543Z",
+    "metrics": {
+      "stars": 2,
+      "forks": 2,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "Java",
+      "size": 1769,
+      "repositoryAge": 520,
+      "lastActivity": 492,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 5,
+      "uniqueVisitors": 3,
+      "latestRelease": null,
+      "clonesCount": 2,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-iiqda",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-iiqda. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-iiqda",
+    "timestamp": "2025-09-26T16:19:28.694Z",
+    "metrics": {
+      "stars": 5,
+      "forks": 8,
+      "watchers": 3,
+      "totalIssues": 5,
+      "openIssues": 4,
+      "closedIssues": 1,
+      "language": "Java",
+      "size": 54240,
+      "repositoryAge": 731,
+      "lastActivity": 496,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 56,
+      "uniqueVisitors": 23,
+      "latestRelease": null,
+      "clonesCount": 11,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-announcement-plugin",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-announcement-plugin. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-announcement-plugin",
+    "timestamp": "2025-09-26T16:19:28.659Z",
+    "metrics": {
+      "stars": 2,
+      "forks": 0,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "CSS",
+      "size": 439,
+      "repositoryAge": 625,
+      "lastActivity": 496,
+      "releaseCount": 5,
+      "totalReleaseDownloads": 203,
+      "latestReleaseDownloads": 99,
+      "viewsCount": 45,
+      "uniqueVisitors": 10,
+      "latestRelease": "v3.1",
+      "clonesCount": 8,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 203,
+      "downloadRange": [
+        {
+          "day": "2024-01-11T16:01:07Z",
+          "downloads": 9,
+          "tagName": "v1.0"
+        },
+        {
+          "day": "2024-01-12T06:50:11Z",
+          "downloads": 11,
+          "tagName": "v1.0.1"
+        },
+        {
+          "day": "2024-01-25T13:54:07Z",
+          "downloads": 68,
+          "tagName": "v2.0"
+        },
+        {
+          "day": "2024-05-12T09:34:14Z",
+          "downloads": 16,
+          "tagName": "v3.0"
+        },
+        {
+          "day": "2024-05-17T18:30:18Z",
+          "downloads": 99,
+          "tagName": "v3.1"
+        }
+      ],
+      "assetTotalsByName": {
+        "announcement_zip": 203
+      },
+      "assetReleaseSeries": {
+        "announcement_zip": [
+          {
+            "tagName": "v3.1",
+            "day": "2024-05-17T18:30:18Z",
+            "downloads": 99
+          },
+          {
+            "tagName": "v3.0",
+            "day": "2024-05-12T09:34:14Z",
+            "downloads": 16
+          },
+          {
+            "tagName": "v2.0",
+            "day": "2024-01-25T13:54:07Z",
+            "downloads": 68
+          },
+          {
+            "tagName": "v1.0.1",
+            "day": "2024-01-12T06:50:11Z",
+            "downloads": 11
+          },
+          {
+            "tagName": "v1.0",
+            "day": "2024-01-11T16:01:07Z",
+            "downloads": 9
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "announcement_zip": 203
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "zip": 203
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "zip": {
+            "v3.1": 99,
+            "v3.0": 16,
+            "v2.0": 68,
+            "v1.0.1": 11,
+            "v1.0": 9
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "announcement_zip": {
+          "project": "Announcement",
+          "format": "zip"
+        }
+      }
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-identity-details-tweaks-plugin",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-identity-details-tweaks-plugin. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-identity-details-tweaks-plugin",
+    "timestamp": "2025-09-26T16:19:28.653Z",
+    "metrics": {
+      "stars": 3,
+      "forks": 2,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "JavaScript",
+      "size": 432,
+      "repositoryAge": 589,
+      "lastActivity": 542,
+      "releaseCount": 2,
+      "totalReleaseDownloads": 7,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 29,
+      "uniqueVisitors": 16,
+      "latestRelease": "v2.0",
+      "clonesCount": 4,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 7,
+      "downloadRange": [
+        {
+          "day": "2024-02-21T11:25:15Z",
+          "downloads": 7,
+          "tagName": "v1.0"
+        },
+        {
+          "day": "2024-04-02T08:06:03Z",
+          "downloads": 0,
+          "tagName": "v2.0"
+        }
+      ],
+      "assetTotalsByName": {
+        "identitydetailstweaks_zip": 7
+      },
+      "assetReleaseSeries": {
+        "identitydetailstweaks_zip": [
+          {
+            "tagName": "v1.0",
+            "day": "2024-02-21T11:25:15Z",
+            "downloads": 7
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "identitydetailstweaks_zip": 7
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "zip": 7
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "zip": {
+            "v1.0": 7
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "identitydetailstweaks_zip": {
+          "project": "IdentityDetailsTweaks",
+          "format": "zip"
+        }
+      }
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-repo-template",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-repo-template. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-repo-template",
+    "timestamp": "2025-09-26T16:19:28.729Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 3,
+      "watchers": 3,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": null,
+      "size": 426,
+      "repositoryAge": 1158,
+      "lastActivity": 570,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 12,
+      "uniqueVisitors": 8,
+      "latestRelease": null,
+      "clonesCount": 7,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-identitynow-azure-sentinel",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-identitynow-azure-sentinel. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-identitynow-azure-sentinel",
+    "timestamp": "2025-09-26T16:19:28.709Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "Python",
+      "size": 8940,
+      "repositoryAge": 723,
+      "lastActivity": 582,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 3,
+      "uniqueVisitors": 1,
+      "latestRelease": null,
+      "clonesCount": 4,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-sailpoint-rule-restriction-vs-code-plugin",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-sailpoint-rule-restriction-vs-code-plugin. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-sailpoint-rule-restriction-vs-code-plugin",
+    "timestamp": "2025-09-26T16:19:28.615Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 417,
+      "repositoryAge": 602,
+      "lastActivity": 589,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": null,
+      "clonesCount": 4,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-saas-conn-beyondtrust-representatives",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-saas-conn-beyondtrust-representatives. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-saas-conn-beyondtrust-representatives",
+    "timestamp": "2025-09-26T16:19:29.813Z",
+    "metrics": {
+      "stars": 1,
+      "forks": 1,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 10753,
+      "repositoryAge": 605,
+      "lastActivity": 602,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 1,
+      "uniqueVisitors": 1,
+      "latestRelease": null,
+      "clonesCount": 2,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-reports",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-reports. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-reports",
+    "timestamp": "2025-09-26T16:19:28.714Z",
+    "metrics": {
+      "stars": 1,
+      "forks": 1,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "Java",
+      "size": 411,
+      "repositoryAge": 689,
+      "lastActivity": 688,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 1,
+      "uniqueVisitors": 1,
+      "latestRelease": null,
+      "clonesCount": 4,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-rules",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-rules. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-rules",
+    "timestamp": "2025-09-26T16:19:28.652Z",
+    "metrics": {
+      "stars": 3,
+      "forks": 6,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": null,
+      "size": 409,
+      "repositoryAge": 731,
+      "lastActivity": 689,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 11,
+      "uniqueVisitors": 8,
+      "latestRelease": null,
+      "clonesCount": 3,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-proofpoint-plugin",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-proofpoint-plugin. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-proofpoint-plugin",
+    "timestamp": "2025-09-26T16:19:28.623Z",
+    "metrics": {
+      "stars": 1,
+      "forks": 1,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "Java",
+      "size": 608,
+      "repositoryAge": 730,
+      "lastActivity": 717,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": null,
+      "clonesCount": 5,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-siem-plugin",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-siem-plugin. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-siem-plugin",
+    "timestamp": "2025-09-26T16:19:28.668Z",
+    "metrics": {
+      "stars": 2,
+      "forks": 1,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "CSS",
+      "size": 2119,
+      "repositoryAge": 730,
+      "lastActivity": 717,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 91,
+      "uniqueVisitors": 15,
+      "latestRelease": null,
+      "clonesCount": 7,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-saas-conn-rambase-cloud-erp",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-saas-conn-rambase-cloud-erp. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-saas-conn-rambase-cloud-erp",
+    "timestamp": "2025-09-26T16:19:28.641Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 406,
+      "repositoryAge": 730,
+      "lastActivity": 721,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": null,
+      "clonesCount": 3,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-saas-conn-beyondtrust-epm",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-saas-conn-beyondtrust-epm. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-saas-conn-beyondtrust-epm",
+    "timestamp": "2025-09-26T16:19:28.805Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": null,
+      "size": 399,
+      "repositoryAge": 730,
+      "lastActivity": 724,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": null,
+      "clonesCount": 4,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-saas-conn-beyondtrust-pra",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-saas-conn-beyondtrust-pra. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-saas-conn-beyondtrust-pra",
+    "timestamp": "2025-09-26T16:19:28.766Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": null,
+      "size": 399,
+      "repositoryAge": 730,
+      "lastActivity": 724,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": null,
+      "clonesCount": 3,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   },
   {
     "platform": "GitHub",
-    "name": "colab-saas-conn-proofpoint",
-    "timestamp": "2025-09-26T16:16:25.709Z",
-    "metrics": {},
-    "error": "Invalid repository format: colab-saas-conn-proofpoint. Expected \"owner/repo\""
+    "name": "sailpoint-oss/colab-saas-conn-proofpoint",
+    "timestamp": "2025-09-26T16:19:28.746Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": null,
+      "size": 399,
+      "repositoryAge": 730,
+      "lastActivity": 724,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": null,
+      "clonesCount": 4,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
   }
 ]
