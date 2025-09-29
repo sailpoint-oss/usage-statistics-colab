@@ -3,7 +3,7 @@
 <!-- METRICS_START -->
 # Usage Statistics
     
-Last updated: 9/26/2025, 4:19:29 PM
+Last updated: 9/29/2025, 12:32:36 AM
 
 Below are stats from artifacts tracked across  and GitHub.
     
@@ -16,7 +16,7 @@ Below are stats from artifacts tracked across  and GitHub.
 | sailpoint-oss/colab-saas-conn-prisma-sase | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | N/A | TypeScript |
 | sailpoint-oss/colab-saas-conn-pan-customer-service-portal | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | N/A | TypeScript |
 | sailpoint-oss/colab-iiq-roles-with-deleted-entitlements | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | N/A | N/A |
-| sailpoint-oss/colab-stunt-script | 3 | 0 | 3 | 0 | 0 | 0 | 0 | 0 | N/A | Shell |
+| sailpoint-oss/colab-stunt-script | 4 | 0 | 3 | 0 | 0 | 0 | 0 | 0 | N/A | Shell |
 | sailpoint-oss/colab-saas-conn-outlook-out-of-office | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | N/A | TypeScript |
 | sailpoint-oss/colab-saas-conn-search-loopback | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | N/A | TypeScript |
 | sailpoint-oss/colab-sailpoint-zapier-integration | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | N/A | JavaScript |
@@ -32,7 +32,7 @@ Below are stats from artifacts tracked across  and GitHub.
 | sailpoint-oss/colab-saas-conn-identitynow-management | 6 | 8 | 2 | 0 | 0 | 0 | 0 | 0 | N/A | TypeScript |
 | sailpoint-oss/colab-saas-conn-cyber-ark-rbac | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | N/A | TypeScript |
 | sailpoint-oss/colab-saas-conn-peloton-landview | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | N/A | TypeScript |
-| sailpoint-oss/colab-workflows | 13 | 13 | 5 | 0 | 0 | 0 | 0 | 0 | N/A | N/A |
+| sailpoint-oss/colab-workflows | 13 | 14 | 5 | 0 | 0 | 0 | 0 | 0 | N/A | N/A |
 | sailpoint-oss/colab-show-workgroup-member-plugin | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | N/A | Java |
 | sailpoint-oss/colab-iiq-custom-loading-spinner | 0 | 1 | 0 | 0 | 0 | 0 | 3 | 1 | v1.0 | JavaScript |
 | sailpoint-oss/colab-isc-auto-loader | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | N/A | N/A |
@@ -44,7 +44,7 @@ Below are stats from artifacts tracked across  and GitHub.
 | sailpoint-oss/colab-file-upload-utility-automation-scripts | 1 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | N/A | PowerShell |
 | sailpoint-oss/colab-sailpoint-configuration-manager | 2 | 2 | 2 | 0 | 0 | 0 | 0 | 0 | N/A | PowerShell |
 | sailpoint-oss/colab-org-chart-plugin | 0 | 1 | 0 | 0 | 0 | 0 | 38 | 1 | 1.2.0 | TypeScript |
-| sailpoint-oss/colab-transforms | 2 | 7 | 1 | 0 | 0 | 0 | 0 | 0 | N/A | N/A |
+| sailpoint-oss/colab-transforms | 2 | 8 | 1 | 0 | 0 | 0 | 0 | 0 | N/A | N/A |
 | sailpoint-oss/colab-file-upload-utility | 5 | 8 | 2 | 3 | 2 | 5 | 1,609 | 2 | file-upload-utility-4.1.0 | Java |
 | sailpoint-oss/colab-isc-credential-cycling | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | N/A | C# |
 | sailpoint-oss/colab-log-level-modifier-plugin | 1 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | N/A | HTML |
@@ -62,171 +62,171 @@ Below are stats from artifacts tracked across  and GitHub.
 | sailpoint-oss/colab-sailpoint-rule-restriction-vs-code-plugin | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | N/A | TypeScript |
 | sailpoint-oss/colab-saas-conn-beyondtrust-representatives | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | N/A | TypeScript |
 | sailpoint-oss/colab-reports | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | N/A | Java |
-| sailpoint-oss/colab-rules | 3 | 6 | 1 | 0 | 0 | 0 | 0 | 0 | N/A | N/A |
+| sailpoint-oss/colab-rules | 3 | 7 | 1 | 0 | 0 | 0 | 0 | 0 | N/A | N/A |
 | sailpoint-oss/colab-proofpoint-plugin | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | N/A | Java |
 | sailpoint-oss/colab-siem-plugin | 2 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | N/A | CSS |
 | sailpoint-oss/colab-saas-conn-rambase-cloud-erp | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | N/A | TypeScript |
 | sailpoint-oss/colab-saas-conn-beyondtrust-epm | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | N/A | N/A |
 | sailpoint-oss/colab-saas-conn-beyondtrust-pra | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | N/A | N/A |
 | sailpoint-oss/colab-saas-conn-proofpoint | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | N/A | N/A |
-| **Total** | **75** | **114** | **46** | **19** | **7** | **26** | **1,918** | **25** | | |
+| **Total** | **76** | **117** | **46** | **19** | **7** | **26** | **1,918** | **25** | | |
 
 #### Repository Details:
 
 **sailpoint-oss/colab-isc-extended-workflow-helper**:
-- Last Activity: 0 days ago
-- Repository Age: 7 days
+- Last Activity: 3 days ago
+- Repository Age: 10 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
-- Views: 71
-- Unique Visitors: 19
+- Views: 76
+- Unique Visitors: 20
 - Clones: 20
 
 **sailpoint-oss/colab-saas-conn-sailpoint-identity-fusion**:
-- Last Activity: 8 days ago
-- Repository Age: 542 days
+- Last Activity: 10 days ago
+- Repository Age: 544 days
 - Release Count: 7
 - Total Release Downloads: 42
 - Latest Release: v1.2.2
 - Latest Release Downloads: 3
 - Views: 248
-- Unique Visitors: 51
-- Clones: 31
+- Unique Visitors: 52
+- Clones: 30
 - Top Assets (by downloads):
   - identity_zip: 42
 - Format Breakdown:
   - zip: 42
 
 **sailpoint-oss/colab-saas-conn-prisma-sase**:
-- Last Activity: 15 days ago
-- Repository Age: 427 days
+- Last Activity: 17 days ago
+- Repository Age: 429 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
 - Views: 16
 - Unique Visitors: 2
-- Clones: 11
+- Clones: 10
 
 **sailpoint-oss/colab-saas-conn-pan-customer-service-portal**:
-- Last Activity: 15 days ago
-- Repository Age: 427 days
+- Last Activity: 18 days ago
+- Repository Age: 429 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
-- Views: 16
-- Unique Visitors: 6
-- Clones: 5
+- Views: 15
+- Unique Visitors: 5
+- Clones: 6
 
 **sailpoint-oss/colab-iiq-roles-with-deleted-entitlements**:
-- Last Activity: 20 days ago
-- Repository Age: 20 days
+- Last Activity: 23 days ago
+- Repository Age: 23 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
-- Views: 29
-- Unique Visitors: 4
-- Clones: 0
+- Views: 24
+- Unique Visitors: 3
+- Clones: 1
 
 **sailpoint-oss/colab-stunt-script**:
-- Last Activity: 38 days ago
-- Repository Age: 729 days
+- Last Activity: 40 days ago
+- Repository Age: 732 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
 - Views: 56
 - Unique Visitors: 20
-- Clones: 17
+- Clones: 18
 
 **sailpoint-oss/colab-saas-conn-outlook-out-of-office**:
-- Last Activity: 39 days ago
-- Repository Age: 681 days
+- Last Activity: 41 days ago
+- Repository Age: 683 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
-- Views: 66
-- Unique Visitors: 8
-- Clones: 4
+- Views: 60
+- Unique Visitors: 7
+- Clones: 3
 
 **sailpoint-oss/colab-saas-conn-search-loopback**:
-- Last Activity: 45 days ago
-- Repository Age: 245 days
+- Last Activity: 48 days ago
+- Repository Age: 248 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
 - Views: 16
 - Unique Visitors: 5
-- Clones: 5
+- Clones: 3
 
 **sailpoint-oss/colab-sailpoint-zapier-integration**:
-- Last Activity: 66 days ago
-- Repository Age: 731 days
+- Last Activity: 68 days ago
+- Repository Age: 733 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
-- Views: 2
-- Unique Visitors: 2
-- Clones: 4
+- Views: 4
+- Unique Visitors: 3
+- Clones: 3
 
 **sailpoint-oss/colab-events-dashboard-plugin**:
-- Last Activity: 70 days ago
-- Repository Age: 92 days
+- Last Activity: 72 days ago
+- Repository Age: 95 days
 - Release Count: 1
 - Total Release Downloads: 5
 - Latest Release: v1.0
 - Latest Release Downloads: 5
-- Views: 48
-- Unique Visitors: 6
-- Clones: 2
+- Views: 31
+- Unique Visitors: 4
+- Clones: 1
 - Top Assets (by downloads):
   - eventsdashboardplugin_zip: 5
 - Format Breakdown:
   - zip: 5
 
 **sailpoint-oss/colab-motd-plugin**:
-- Last Activity: 76 days ago
-- Repository Age: 518 days
+- Last Activity: 78 days ago
+- Repository Age: 521 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
-- Views: 22
-- Unique Visitors: 3
+- Views: 15
+- Unique Visitors: 2
 - Clones: 4
 
 **sailpoint-oss/colab-saas-conn-genetec-clearid**:
-- Last Activity: 100 days ago
-- Repository Age: 730 days
+- Last Activity: 103 days ago
+- Repository Age: 732 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
-- Views: 53
-- Unique Visitors: 12
-- Clones: 6
+- Views: 50
+- Unique Visitors: 10
+- Clones: 5
 
 **sailpoint-oss/colab-iiq-resilient-actions**:
-- Last Activity: 105 days ago
-- Repository Age: 105 days
+- Last Activity: 108 days ago
+- Repository Age: 108 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
 - Views: 2
 - Unique Visitors: 1
-- Clones: 2
+- Clones: 1
 
 **sailpoint-oss/colab-isc-PsAttributeSyncValidator**:
-- Last Activity: 115 days ago
-- Repository Age: 115 days
+- Last Activity: 118 days ago
+- Repository Age: 118 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
@@ -236,8 +236,8 @@ Below are stats from artifacts tracked across  and GitHub.
 - Clones: 2
 
 **sailpoint-oss/colab-saas-conn-identitynow-orphan-accounts**:
-- Last Activity: 119 days ago
-- Repository Age: 730 days
+- Last Activity: 121 days ago
+- Repository Age: 732 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
@@ -247,63 +247,63 @@ Below are stats from artifacts tracked across  and GitHub.
 - Clones: 3
 
 **sailpoint-oss/colab-saas-conn-peloton-platform**:
-- Last Activity: 149 days ago
-- Repository Age: 150 days
+- Last Activity: 152 days ago
+- Repository Age: 152 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
 - Views: 37
 - Unique Visitors: 2
-- Clones: 1
+- Clones: 0
 
 **sailpoint-oss/colab-non-employee-risk-management-splunk-addon**:
-- Last Activity: 171 days ago
-- Repository Age: 308 days
+- Last Activity: 174 days ago
+- Repository Age: 310 days
 - Release Count: 1
 - Total Release Downloads: 0
 - Latest Release: v1.0.0
 - Latest Release Downloads: 0
 - Views: 5
 - Unique Visitors: 4
-- Clones: 9
+- Clones: 8
 
 **sailpoint-oss/colab-iiqda-plugin-intellij**:
-- Last Activity: 175 days ago
-- Repository Age: 464 days
+- Last Activity: 178 days ago
+- Repository Age: 466 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
-- Views: 35
-- Unique Visitors: 9
+- Views: 70
+- Unique Visitors: 10
 - Clones: 15
 
 **sailpoint-oss/colab-saas-conn-identitynow-management**:
-- Last Activity: 203 days ago
-- Repository Age: 731 days
+- Last Activity: 205 days ago
+- Repository Age: 733 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
-- Views: 23
-- Unique Visitors: 15
+- Views: 22
+- Unique Visitors: 14
 - Clones: 4
 
 **sailpoint-oss/colab-saas-conn-cyber-ark-rbac**:
-- Last Activity: 210 days ago
-- Repository Age: 213 days
+- Last Activity: 213 days ago
+- Repository Age: 216 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
-- Views: 7
-- Unique Visitors: 5
+- Views: 9
+- Unique Visitors: 6
 - Clones: 2
 
 **sailpoint-oss/colab-saas-conn-peloton-landview**:
-- Last Activity: 213 days ago
-- Repository Age: 553 days
+- Last Activity: 216 days ago
+- Repository Age: 555 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
@@ -313,45 +313,45 @@ Below are stats from artifacts tracked across  and GitHub.
 - Clones: 4
 
 **sailpoint-oss/colab-workflows**:
-- Last Activity: 218 days ago
-- Repository Age: 731 days
+- Last Activity: 221 days ago
+- Repository Age: 734 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
-- Views: 340
-- Unique Visitors: 74
-- Clones: 4
+- Views: 355
+- Unique Visitors: 80
+- Clones: 5
 
 **sailpoint-oss/colab-show-workgroup-member-plugin**:
-- Last Activity: 227 days ago
-- Repository Age: 242 days
+- Last Activity: 229 days ago
+- Repository Age: 244 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
-- Views: 18
-- Unique Visitors: 3
-- Clones: 3
+- Views: 19
+- Unique Visitors: 4
+- Clones: 2
 
 **sailpoint-oss/colab-iiq-custom-loading-spinner**:
-- Last Activity: 256 days ago
-- Repository Age: 261 days
+- Last Activity: 258 days ago
+- Repository Age: 264 days
 - Release Count: 1
 - Total Release Downloads: 3
 - Latest Release: v1.0
 - Latest Release Downloads: 3
-- Views: 31
-- Unique Visitors: 4
-- Clones: 3
+- Views: 23
+- Unique Visitors: 2
+- Clones: 2
 - Top Assets (by downloads):
   - custom_zip: 3
 - Format Breakdown:
   - zip: 3
 
 **sailpoint-oss/colab-isc-auto-loader**:
-- Last Activity: 290 days ago
-- Repository Age: 290 days
+- Last Activity: 292 days ago
+- Repository Age: 292 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
@@ -361,26 +361,26 @@ Below are stats from artifacts tracked across  and GitHub.
 - Clones: 4
 
 **sailpoint-oss/colab-saas-conn-beyondtrust-privilege-management-cloud**:
-- Last Activity: 295 days ago
-- Repository Age: 605 days
+- Last Activity: 297 days ago
+- Repository Age: 607 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
 - Views: 1
 - Unique Visitors: 1
-- Clones: 4
+- Clones: 3
 
 **sailpoint-oss/colab-provisioning-simulator-plugin**:
-- Last Activity: 297 days ago
-- Repository Age: 505 days
+- Last Activity: 299 days ago
+- Repository Age: 508 days
 - Release Count: 3
 - Total Release Downloads: 11
 - Latest Release: 1.2
 - Latest Release Downloads: 9
-- Views: 30
-- Unique Visitors: 4
-- Clones: 5
+- Views: 1
+- Unique Visitors: 1
+- Clones: 4
 - Top Assets (by downloads):
   - colab: 6
   - colab_zip: 4
@@ -389,19 +389,19 @@ Below are stats from artifacts tracked across  and GitHub.
   - zip: 4
 
 **sailpoint-oss/colab-saas-conn-thomsonreuters-document-intelligence**:
-- Last Activity: 298 days ago
-- Repository Age: 305 days
+- Last Activity: 300 days ago
+- Repository Age: 307 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
 - Views: 0
 - Unique Visitors: 0
-- Clones: 3
+- Clones: 2
 
 **sailpoint-oss/colab-isc-powershell-task-manager**:
-- Last Activity: 329 days ago
-- Repository Age: 351 days
+- Last Activity: 331 days ago
+- Repository Age: 353 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
@@ -411,113 +411,113 @@ Below are stats from artifacts tracked across  and GitHub.
 - Clones: 5
 
 **sailpoint-oss/colab-saas-conn-delimited-file**:
-- Last Activity: 341 days ago
-- Repository Age: 427 days
+- Last Activity: 344 days ago
+- Repository Age: 429 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
 - Views: 9
 - Unique Visitors: 1
-- Clones: 2
+- Clones: 1
 
 **sailpoint-oss/colab-file-upload-utility-automation-scripts**:
-- Last Activity: 359 days ago
-- Repository Age: 372 days
+- Last Activity: 362 days ago
+- Repository Age: 374 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
-- Views: 116
+- Views: 118
 - Unique Visitors: 7
-- Clones: 3
+- Clones: 2
 
 **sailpoint-oss/colab-sailpoint-configuration-manager**:
-- Last Activity: 362 days ago
-- Repository Age: 575 days
+- Last Activity: 365 days ago
+- Repository Age: 578 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
 - Views: 11
 - Unique Visitors: 8
-- Clones: 7
+- Clones: 4
 
 **sailpoint-oss/colab-org-chart-plugin**:
-- Last Activity: 364 days ago
-- Repository Age: 464 days
+- Last Activity: 367 days ago
+- Repository Age: 466 days
 - Release Count: 1
 - Total Release Downloads: 38
 - Latest Release: 1.2.0
 - Latest Release Downloads: 38
 - Views: 24
 - Unique Visitors: 4
-- Clones: 2
+- Clones: 1
 - Top Assets (by downloads):
   - orgchartplugin_zip: 38
 - Format Breakdown:
   - zip: 38
 
 **sailpoint-oss/colab-transforms**:
-- Last Activity: 366 days ago
-- Repository Age: 731 days
+- Last Activity: 368 days ago
+- Repository Age: 734 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
-- Views: 32
-- Unique Visitors: 15
-- Clones: 6
+- Views: 36
+- Unique Visitors: 17
+- Clones: 7
 
 **sailpoint-oss/colab-file-upload-utility**:
-- Last Activity: 380 days ago
-- Repository Age: 731 days
+- Last Activity: 382 days ago
+- Repository Age: 733 days
 - Release Count: 2
 - Total Release Downloads: 1,609
 - Latest Release: file-upload-utility-4.1.0
 - Latest Release Downloads: 844
-- Views: 182
-- Unique Visitors: 63
-- Clones: 6
+- Views: 178
+- Unique Visitors: 62
+- Clones: 4
 - Top Assets (by downloads):
   - sailpoint: 1,609
 
 **sailpoint-oss/colab-isc-credential-cycling**:
-- Last Activity: 394 days ago
-- Repository Age: 420 days
+- Last Activity: 396 days ago
+- Repository Age: 422 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
 - Views: 5
 - Unique Visitors: 1
-- Clones: 3
+- Clones: 2
 
 **sailpoint-oss/colab-log-level-modifier-plugin**:
-- Last Activity: 402 days ago
-- Repository Age: 407 days
+- Last Activity: 405 days ago
+- Repository Age: 409 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
-- Views: 18
-- Unique Visitors: 4
-- Clones: 2
+- Views: 17
+- Unique Visitors: 3
+- Clones: 1
 
 **sailpoint-oss/colab-valdate-population-plugin**:
-- Last Activity: 416 days ago
-- Repository Age: 416 days
+- Last Activity: 419 days ago
+- Repository Age: 419 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
 - Views: 1
 - Unique Visitors: 1
-- Clones: 2
+- Clones: 1
 
 **sailpoint-oss/colab-identity-photos-plugin**:
-- Last Activity: 416 days ago
-- Repository Age: 416 days
+- Last Activity: 419 days ago
+- Repository Age: 419 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
@@ -527,41 +527,41 @@ Below are stats from artifacts tracked across  and GitHub.
 - Clones: 2
 
 **sailpoint-oss/colab-community-rest-api-plugin**:
-- Last Activity: 457 days ago
-- Repository Age: 464 days
+- Last Activity: 460 days ago
+- Repository Age: 466 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
-- Views: 44
-- Unique Visitors: 7
-- Clones: 7
+- Views: 32
+- Unique Visitors: 5
+- Clones: 8
 
 **sailpoint-oss/colab-saas-conn-beyondtrust-pmcloud-computers**:
-- Last Activity: 463 days ago
-- Repository Age: 605 days
+- Last Activity: 465 days ago
+- Repository Age: 607 days
 - Release Count: 2
 - Total Release Downloads: 0
 - Latest Release: v1.01
 - Latest Release Downloads: 0
 - Views: 1
 - Unique Visitors: 1
-- Clones: 4
+- Clones: 3
 
 **sailpoint-oss/colab-connector-configurations**:
-- Last Activity: 464 days ago
-- Repository Age: 464 days
+- Last Activity: 466 days ago
+- Repository Age: 466 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
 - Views: 0
 - Unique Visitors: 0
-- Clones: 2
+- Clones: 1
 
 **sailpoint-oss/colab-iiq-hbm-extension-template**:
-- Last Activity: 492 days ago
-- Repository Age: 520 days
+- Last Activity: 494 days ago
+- Repository Age: 522 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
@@ -571,177 +571,177 @@ Below are stats from artifacts tracked across  and GitHub.
 - Clones: 2
 
 **sailpoint-oss/colab-iiqda**:
-- Last Activity: 496 days ago
-- Repository Age: 731 days
+- Last Activity: 499 days ago
+- Repository Age: 734 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
 - Views: 56
 - Unique Visitors: 23
-- Clones: 11
+- Clones: 9
 
 **sailpoint-oss/colab-announcement-plugin**:
-- Last Activity: 496 days ago
-- Repository Age: 625 days
+- Last Activity: 499 days ago
+- Repository Age: 627 days
 - Release Count: 5
 - Total Release Downloads: 203
 - Latest Release: v3.1
 - Latest Release Downloads: 99
-- Views: 45
-- Unique Visitors: 10
-- Clones: 8
+- Views: 43
+- Unique Visitors: 9
+- Clones: 7
 - Top Assets (by downloads):
   - announcement_zip: 203
 - Format Breakdown:
   - zip: 203
 
 **sailpoint-oss/colab-identity-details-tweaks-plugin**:
-- Last Activity: 542 days ago
-- Repository Age: 589 days
+- Last Activity: 544 days ago
+- Repository Age: 591 days
 - Release Count: 2
 - Total Release Downloads: 7
 - Latest Release: v2.0
 - Latest Release Downloads: 0
-- Views: 29
-- Unique Visitors: 16
-- Clones: 4
+- Views: 24
+- Unique Visitors: 15
+- Clones: 3
 - Top Assets (by downloads):
   - identitydetailstweaks_zip: 7
 - Format Breakdown:
   - zip: 7
 
 **sailpoint-oss/colab-repo-template**:
-- Last Activity: 570 days ago
-- Repository Age: 1,158 days
+- Last Activity: 573 days ago
+- Repository Age: 1,160 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
-- Views: 12
-- Unique Visitors: 8
+- Views: 13
+- Unique Visitors: 9
 - Clones: 7
 
 **sailpoint-oss/colab-identitynow-azure-sentinel**:
-- Last Activity: 582 days ago
-- Repository Age: 723 days
+- Last Activity: 585 days ago
+- Repository Age: 726 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
 - Views: 3
 - Unique Visitors: 1
-- Clones: 4
+- Clones: 3
 
 **sailpoint-oss/colab-sailpoint-rule-restriction-vs-code-plugin**:
-- Last Activity: 589 days ago
-- Repository Age: 602 days
-- Release Count: 0
-- Total Release Downloads: 0
-- Latest Release: N/A
-- Latest Release Downloads: 0
-- Views: 0
-- Unique Visitors: 0
-- Clones: 4
-
-**sailpoint-oss/colab-saas-conn-beyondtrust-representatives**:
-- Last Activity: 602 days ago
+- Last Activity: 591 days ago
 - Repository Age: 605 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
+- Views: 0
+- Unique Visitors: 0
+- Clones: 3
+
+**sailpoint-oss/colab-saas-conn-beyondtrust-representatives**:
+- Last Activity: 605 days ago
+- Repository Age: 607 days
+- Release Count: 0
+- Total Release Downloads: 0
+- Latest Release: N/A
+- Latest Release Downloads: 0
 - Views: 1
 - Unique Visitors: 1
-- Clones: 2
+- Clones: 1
 
 **sailpoint-oss/colab-reports**:
-- Last Activity: 688 days ago
-- Repository Age: 689 days
+- Last Activity: 691 days ago
+- Repository Age: 692 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
 - Views: 1
 - Unique Visitors: 1
-- Clones: 4
+- Clones: 3
 
 **sailpoint-oss/colab-rules**:
-- Last Activity: 689 days ago
-- Repository Age: 731 days
+- Last Activity: 692 days ago
+- Repository Age: 734 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
-- Views: 11
-- Unique Visitors: 8
-- Clones: 3
-
-**sailpoint-oss/colab-proofpoint-plugin**:
-- Last Activity: 717 days ago
-- Repository Age: 730 days
-- Release Count: 0
-- Total Release Downloads: 0
-- Latest Release: N/A
-- Latest Release Downloads: 0
-- Views: 0
-- Unique Visitors: 0
+- Views: 13
+- Unique Visitors: 9
 - Clones: 5
 
-**sailpoint-oss/colab-siem-plugin**:
-- Last Activity: 717 days ago
-- Repository Age: 730 days
+**sailpoint-oss/colab-proofpoint-plugin**:
+- Last Activity: 719 days ago
+- Repository Age: 732 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
-- Views: 91
-- Unique Visitors: 15
-- Clones: 7
+- Views: 0
+- Unique Visitors: 0
+- Clones: 4
+
+**sailpoint-oss/colab-siem-plugin**:
+- Last Activity: 719 days ago
+- Repository Age: 732 days
+- Release Count: 0
+- Total Release Downloads: 0
+- Latest Release: N/A
+- Latest Release Downloads: 0
+- Views: 61
+- Unique Visitors: 14
+- Clones: 6
 
 **sailpoint-oss/colab-saas-conn-rambase-cloud-erp**:
-- Last Activity: 721 days ago
-- Repository Age: 730 days
+- Last Activity: 724 days ago
+- Repository Age: 733 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
 - Views: 0
 - Unique Visitors: 0
-- Clones: 3
+- Clones: 2
 
 **sailpoint-oss/colab-saas-conn-beyondtrust-epm**:
-- Last Activity: 724 days ago
-- Repository Age: 730 days
+- Last Activity: 726 days ago
+- Repository Age: 733 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
 - Views: 0
 - Unique Visitors: 0
-- Clones: 4
+- Clones: 2
 
 **sailpoint-oss/colab-saas-conn-beyondtrust-pra**:
-- Last Activity: 724 days ago
-- Repository Age: 730 days
+- Last Activity: 726 days ago
+- Repository Age: 733 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
 - Views: 0
 - Unique Visitors: 0
-- Clones: 3
+- Clones: 2
 
 **sailpoint-oss/colab-saas-conn-proofpoint**:
-- Last Activity: 724 days ago
-- Repository Age: 730 days
+- Last Activity: 726 days ago
+- Repository Age: 732 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
 - Views: 0
 - Unique Visitors: 0
-- Clones: 4
+- Clones: 2
 
 
 
