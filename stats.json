@@ -2,7 +2,7 @@
   {
     "platform": "GitHub",
     "name": "sailpoint-oss/colab-saas-conn-sailpoint-identity-fusion",
-    "timestamp": "2026-06-15T01:18:34.403Z",
+    "timestamp": "2026-06-22T01:17:50.603Z",
     "metrics": {
       "stars": 6,
       "forks": 8,
@@ -11,16 +11,16 @@
       "openIssues": 0,
       "closedIssues": 5,
       "language": "TypeScript",
-      "size": 137241,
-      "repositoryAge": 803,
-      "lastActivity": 4,
-      "releaseCount": 11,
+      "size": 137465,
+      "repositoryAge": 810,
+      "lastActivity": 0,
+      "releaseCount": 12,
       "totalReleaseDownloads": 123,
-      "latestReleaseDownloads": 8,
-      "viewsCount": 118,
-      "uniqueVisitors": 34,
-      "latestRelease": "v2.1.5",
-      "clonesCount": 83,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 93,
+      "uniqueVisitors": 32,
+      "latestRelease": "v2.1.6",
+      "clonesCount": 103,
       "topics": 0,
       "license": "MIT License",
       "defaultBranch": "main",
@@ -80,6 +80,11 @@
           "day": "2026-05-18T21:02:16Z",
           "downloads": 8,
           "tagName": "v2.1.5"
+        },
+        {
+          "day": "2026-06-16T13:29:05Z",
+          "downloads": 0,
+          "tagName": "v2.1.6"
         }
       ],
       "assetTotalsByName": {
@@ -87,6 +92,11 @@
       },
       "assetReleaseSeries": {
         "identity_zip": [
+          {
+            "tagName": "v2.1.6",
+            "day": "2026-06-16T13:29:05Z",
+            "downloads": 0
+          },
           {
             "tagName": "v2.1.5",
             "day": "2026-05-18T21:02:16Z",
@@ -158,6 +168,7 @@
         "arch": {},
         "format": {
           "zip": {
+            "v2.1.6": 0,
             "v2.1.5": 8,
             "v1.3.2": 38,
             "v1.3.1": 7,
@@ -184,158 +195,26 @@
   },
   {
     "platform": "GitHub",
-    "name": "sailpoint-oss/colab-IIQ-account-correlation-assistant-plugin",
-    "timestamp": "2026-06-15T01:18:34.340Z",
+    "name": "sailpoint-oss/colab-workflows",
+    "timestamp": "2026-06-22T01:17:50.604Z",
     "metrics": {
-      "stars": 0,
-      "forks": 1,
-      "watchers": 0,
+      "stars": 16,
+      "forks": 21,
+      "watchers": 4,
       "totalIssues": 0,
       "openIssues": 0,
       "closedIssues": 0,
       "language": null,
-      "size": 397,
-      "repositoryAge": 11,
-      "lastActivity": 11,
+      "size": 492,
+      "repositoryAge": 1000,
+      "lastActivity": 2,
       "releaseCount": 0,
       "totalReleaseDownloads": 0,
       "latestReleaseDownloads": 0,
-      "viewsCount": 26,
-      "uniqueVisitors": 6,
+      "viewsCount": 232,
+      "uniqueVisitors": 62,
       "latestRelease": null,
-      "clonesCount": 25,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-isc-role-criteria-manager",
-    "timestamp": "2026-06-15T01:18:34.466Z",
-    "metrics": {
-      "stars": 0,
-      "forks": 1,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": null,
-      "size": 397,
-      "repositoryAge": 13,
-      "lastActivity": 13,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 21,
-      "uniqueVisitors": 3,
-      "latestRelease": null,
-      "clonesCount": 30,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-SailPoint-IIQ-on-Docker",
-    "timestamp": "2026-06-15T01:18:34.367Z",
-    "metrics": {
-      "stars": 0,
-      "forks": 1,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": null,
-      "size": 397,
-      "repositoryAge": 16,
-      "lastActivity": 16,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 34,
-      "uniqueVisitors": 5,
-      "latestRelease": null,
-      "clonesCount": 17,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-stunt-script",
-    "timestamp": "2026-06-15T01:18:34.431Z",
-    "metrics": {
-      "stars": 4,
-      "forks": 0,
-      "watchers": 2,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "Shell",
-      "size": 558,
-      "repositoryAge": 991,
-      "lastActivity": 26,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 40,
-      "uniqueVisitors": 17,
-      "latestRelease": null,
-      "clonesCount": 67,
+      "clonesCount": 47,
       "topics": 1,
       "license": "MIT License",
       "defaultBranch": "main",
@@ -360,8 +239,262 @@
   },
   {
     "platform": "GitHub",
-    "name": "sailpoint-oss/colab-isc-config-hub-history",
-    "timestamp": "2026-06-15T01:18:34.342Z",
+    "name": "sailpoint-oss/colab-valdate-population-plugin",
+    "timestamp": "2026-06-22T01:17:50.554Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": null,
+      "size": 398,
+      "repositoryAge": 685,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": null,
+      "clonesCount": 16,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-transforms",
+    "timestamp": "2026-06-22T01:17:50.689Z",
+    "metrics": {
+      "stars": 2,
+      "forks": 12,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": null,
+      "size": 424,
+      "repositoryAge": 1000,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 45,
+      "uniqueVisitors": 16,
+      "latestRelease": null,
+      "clonesCount": 38,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-stunt-script",
+    "timestamp": "2026-06-22T01:17:50.556Z",
+    "metrics": {
+      "stars": 4,
+      "forks": 0,
+      "watchers": 2,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "Shell",
+      "size": 559,
+      "repositoryAge": 998,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 32,
+      "uniqueVisitors": 11,
+      "latestRelease": null,
+      "clonesCount": 87,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-siem-plugin",
+    "timestamp": "2026-06-22T01:17:50.608Z",
+    "metrics": {
+      "stars": 4,
+      "forks": 6,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "CSS",
+      "size": 2126,
+      "repositoryAge": 998,
+      "lastActivity": 2,
+      "releaseCount": 1,
+      "totalReleaseDownloads": 63,
+      "latestReleaseDownloads": 63,
+      "viewsCount": 60,
+      "uniqueVisitors": 22,
+      "latestRelease": "v2.1.5",
+      "clonesCount": 16,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 63,
+      "downloadRange": [
+        {
+          "day": "2025-12-15T21:21:11Z",
+          "downloads": 63,
+          "tagName": "v2.1.5"
+        }
+      ],
+      "assetTotalsByName": {
+        "siem_zip": 63
+      },
+      "assetReleaseSeries": {
+        "siem_zip": [
+          {
+            "tagName": "v2.1.5",
+            "day": "2025-12-15T21:21:11Z",
+            "downloads": 42
+          },
+          {
+            "tagName": "v2.1.5",
+            "day": "2025-12-15T21:21:11Z",
+            "downloads": 21
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "siem_zip": 63
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "zip": 63
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "zip": {
+            "v2.1.5": 63
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "siem_zip": {
+          "project": "SIEM",
+          "format": "zip"
+        }
+      }
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-show-workgroup-member-plugin",
+    "timestamp": "2026-06-22T01:17:50.590Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "Java",
+      "size": 405,
+      "repositoryAge": 510,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 35,
+      "uniqueVisitors": 4,
+      "latestRelease": null,
+      "clonesCount": 19,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-sailpoint-zapier-integration",
+    "timestamp": "2026-06-22T01:17:50.533Z",
     "metrics": {
       "stars": 1,
       "forks": 1,
@@ -370,16 +503,104 @@
       "openIssues": 0,
       "closedIssues": 0,
       "language": "JavaScript",
-      "size": 489,
-      "repositoryAge": 73,
-      "lastActivity": 44,
+      "size": 512,
+      "repositoryAge": 999,
+      "lastActivity": 2,
       "releaseCount": 0,
       "totalReleaseDownloads": 0,
       "latestReleaseDownloads": 0,
-      "viewsCount": 169,
-      "uniqueVisitors": 30,
+      "viewsCount": 1,
+      "uniqueVisitors": 1,
       "latestRelease": null,
-      "clonesCount": 32,
+      "clonesCount": 27,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-sailpoint-rule-restriction-vs-code-plugin",
+    "timestamp": "2026-06-22T01:17:50.959Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 3,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 419,
+      "repositoryAge": 871,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 2,
+      "uniqueVisitors": 2,
+      "latestRelease": null,
+      "clonesCount": 26,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-sailpoint-configuration-manager",
+    "timestamp": "2026-06-22T01:17:50.575Z",
+    "metrics": {
+      "stars": 2,
+      "forks": 3,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "PowerShell",
+      "size": 486,
+      "repositoryAge": 844,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 5,
+      "uniqueVisitors": 2,
+      "latestRelease": null,
+      "clonesCount": 13,
       "topics": 0,
       "license": "MIT License",
       "defaultBranch": "main",
@@ -405,7 +626,7 @@
   {
     "platform": "GitHub",
     "name": "sailpoint-oss/colab-saas-customizer-entra-id-plus",
-    "timestamp": "2026-06-15T01:18:34.391Z",
+    "timestamp": "2026-06-22T01:17:50.591Z",
     "metrics": {
       "stars": 0,
       "forks": 2,
@@ -414,16 +635,16 @@
       "openIssues": 0,
       "closedIssues": 0,
       "language": "TypeScript",
-      "size": 1003,
-      "repositoryAge": 354,
-      "lastActivity": 67,
+      "size": 1004,
+      "repositoryAge": 361,
+      "lastActivity": 2,
       "releaseCount": 2,
       "totalReleaseDownloads": 6,
       "latestReleaseDownloads": 0,
       "viewsCount": 60,
-      "uniqueVisitors": 5,
+      "uniqueVisitors": 7,
       "latestRelease": "v0.1.4",
-      "clonesCount": 11,
+      "clonesCount": 22,
       "topics": 0,
       "license": "MIT License",
       "defaultBranch": "main",
@@ -488,8 +709,709 @@
   },
   {
     "platform": "GitHub",
+    "name": "sailpoint-oss/colab-saas-conn-thomsonreuters-document-intelligence",
+    "timestamp": "2026-06-22T01:17:50.560Z",
+    "metrics": {
+      "stars": 1,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 474,
+      "repositoryAge": 573,
+      "lastActivity": 2,
+      "releaseCount": 1,
+      "totalReleaseDownloads": 1,
+      "latestReleaseDownloads": 1,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": "v0.1.0",
+      "clonesCount": 36,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 1,
+      "downloadRange": [
+        {
+          "day": "2025-12-17T16:36:13Z",
+          "downloads": 1,
+          "tagName": "v0.1.0"
+        }
+      ],
+      "assetTotalsByName": {
+        "colab_zip": 1
+      },
+      "assetReleaseSeries": {
+        "colab_zip": [
+          {
+            "tagName": "v0.1.0",
+            "day": "2025-12-17T16:36:13Z",
+            "downloads": 1
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "colab_zip": 1
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "zip": 1
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "zip": {
+            "v0.1.0": 1
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "colab_zip": {
+          "project": "colab",
+          "format": "zip"
+        }
+      }
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-saas-conn-search-loopback",
+    "timestamp": "2026-06-22T01:17:50.535Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 2,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 706,
+      "repositoryAge": 514,
+      "lastActivity": 2,
+      "releaseCount": 1,
+      "totalReleaseDownloads": 6,
+      "latestReleaseDownloads": 6,
+      "viewsCount": 2,
+      "uniqueVisitors": 2,
+      "latestRelease": "v0.1.0",
+      "clonesCount": 11,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 6,
+      "downloadRange": [
+        {
+          "day": "2025-12-17T16:37:24Z",
+          "downloads": 6,
+          "tagName": "v0.1.0"
+        }
+      ],
+      "assetTotalsByName": {
+        "saas_zip": 6
+      },
+      "assetReleaseSeries": {
+        "saas_zip": [
+          {
+            "tagName": "v0.1.0",
+            "day": "2025-12-17T16:37:24Z",
+            "downloads": 6
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "saas_zip": 6
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "zip": 6
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "zip": {
+            "v0.1.0": 6
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "saas_zip": {
+          "project": "saas",
+          "format": "zip"
+        }
+      }
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-saas-conn-rambase-cloud-erp",
+    "timestamp": "2026-06-22T01:17:50.637Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 1237,
+      "repositoryAge": 999,
+      "lastActivity": 2,
+      "releaseCount": 1,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": "v1.0",
+      "clonesCount": 21,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [
+        {
+          "day": "2025-12-17T16:29:15Z",
+          "downloads": 0,
+          "tagName": "v1.0"
+        }
+      ],
+      "assetTotalsByName": {
+        "rambase_zip": 0
+      },
+      "assetReleaseSeries": {
+        "rambase_zip": [
+          {
+            "tagName": "v1.0",
+            "day": "2025-12-17T16:29:15Z",
+            "downloads": 0
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "rambase_zip": 0
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "zip": 0
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "zip": {
+            "v1.0": 0
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "rambase_zip": {
+          "project": "RamBase",
+          "format": "zip"
+        }
+      }
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-saas-conn-proxy-entitlements",
+    "timestamp": "2026-06-22T01:17:50.593Z",
+    "metrics": {
+      "stars": 1,
+      "forks": 0,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 1056,
+      "repositoryAge": 361,
+      "lastActivity": 2,
+      "releaseCount": 1,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": "v0.1.1",
+      "clonesCount": 31,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [
+        {
+          "day": "2025-12-17T16:45:07Z",
+          "downloads": 0,
+          "tagName": "v0.1.1"
+        }
+      ],
+      "assetTotalsByName": {
+        "proxy_zip": 0
+      },
+      "assetReleaseSeries": {
+        "proxy_zip": [
+          {
+            "tagName": "v0.1.1",
+            "day": "2025-12-17T16:45:07Z",
+            "downloads": 0
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "proxy_zip": 0
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "zip": 0
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "zip": {
+            "v0.1.1": 0
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "proxy_zip": {
+          "project": "proxy",
+          "format": "zip"
+        }
+      }
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-saas-conn-proofpoint",
+    "timestamp": "2026-06-22T01:17:50.567Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 2,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": null,
+      "size": 400,
+      "repositoryAge": 998,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": null,
+      "clonesCount": 17,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-saas-conn-prisma-sase",
+    "timestamp": "2026-06-22T01:17:50.613Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 2,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 656,
+      "repositoryAge": 695,
+      "lastActivity": 2,
+      "releaseCount": 1,
+      "totalReleaseDownloads": 1,
+      "latestReleaseDownloads": 1,
+      "viewsCount": 1,
+      "uniqueVisitors": 1,
+      "latestRelease": "v1.0.0",
+      "clonesCount": 33,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 1,
+      "downloadRange": [
+        {
+          "day": "2025-12-17T16:32:30Z",
+          "downloads": 1,
+          "tagName": "v1.0.0"
+        }
+      ],
+      "assetTotalsByName": {
+        "prisma_zip": 1
+      },
+      "assetReleaseSeries": {
+        "prisma_zip": [
+          {
+            "tagName": "v1.0.0",
+            "day": "2025-12-17T16:32:30Z",
+            "downloads": 1
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "prisma_zip": 1
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "zip": 1
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "zip": {
+            "v1.0.0": 1
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "prisma_zip": {
+          "project": "prisma",
+          "format": "zip"
+        }
+      }
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-saas-conn-peloton-platform",
+    "timestamp": "2026-06-22T01:17:50.552Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 466,
+      "repositoryAge": 418,
+      "lastActivity": 2,
+      "releaseCount": 1,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": "v0.1.0",
+      "clonesCount": 24,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [
+        {
+          "day": "2025-12-17T16:36:51Z",
+          "downloads": 0,
+          "tagName": "v0.1.0"
+        }
+      ],
+      "assetTotalsByName": {
+        "colab_zip": 0
+      },
+      "assetReleaseSeries": {
+        "colab_zip": [
+          {
+            "tagName": "v0.1.0",
+            "day": "2025-12-17T16:36:51Z",
+            "downloads": 0
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "colab_zip": 0
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "zip": 0
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "zip": {
+            "v0.1.0": 0
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "colab_zip": {
+          "project": "colab",
+          "format": "zip"
+        }
+      }
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-saas-conn-peloton-landview",
+    "timestamp": "2026-06-22T01:17:50.631Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 678,
+      "repositoryAge": 821,
+      "lastActivity": 2,
+      "releaseCount": 1,
+      "totalReleaseDownloads": 1,
+      "latestReleaseDownloads": 1,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": "v0.2.0",
+      "clonesCount": 20,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 1,
+      "downloadRange": [
+        {
+          "day": "2025-12-17T16:31:48Z",
+          "downloads": 1,
+          "tagName": "v0.2.0"
+        }
+      ],
+      "assetTotalsByName": {
+        "colab_zip": 1
+      },
+      "assetReleaseSeries": {
+        "colab_zip": [
+          {
+            "tagName": "v0.2.0",
+            "day": "2025-12-17T16:31:48Z",
+            "downloads": 1
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "colab_zip": 1
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "zip": 1
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "zip": {
+            "v0.2.0": 1
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "colab_zip": {
+          "project": "colab",
+          "format": "zip"
+        }
+      }
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-saas-conn-pan-customer-service-portal",
+    "timestamp": "2026-06-22T01:17:50.751Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 672,
+      "repositoryAge": 695,
+      "lastActivity": 2,
+      "releaseCount": 1,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 2,
+      "uniqueVisitors": 1,
+      "latestRelease": "v1.0.0",
+      "clonesCount": 27,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [
+        {
+          "day": "2025-12-17T16:37:02Z",
+          "downloads": 0,
+          "tagName": "v1.0.0"
+        }
+      ],
+      "assetTotalsByName": {
+        "saas_zip": 0
+      },
+      "assetReleaseSeries": {
+        "saas_zip": [
+          {
+            "tagName": "v1.0.0",
+            "day": "2025-12-17T16:37:02Z",
+            "downloads": 0
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "saas_zip": 0
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "zip": 0
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "zip": {
+            "v1.0.0": 0
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "saas_zip": {
+          "project": "saas",
+          "format": "zip"
+        }
+      }
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-saas-conn-outlook-out-of-office",
+    "timestamp": "2026-06-22T01:17:50.695Z",
+    "metrics": {
+      "stars": 1,
+      "forks": 1,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 1592,
+      "repositoryAge": 949,
+      "lastActivity": 2,
+      "releaseCount": 1,
+      "totalReleaseDownloads": 2,
+      "latestReleaseDownloads": 2,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": "v1.1.0",
+      "clonesCount": 39,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 2,
+      "downloadRange": [
+        {
+          "day": "2025-12-17T16:44:17Z",
+          "downloads": 2,
+          "tagName": "v1.1.0"
+        }
+      ],
+      "assetTotalsByName": {
+        "outlook_zip": 2
+      },
+      "assetReleaseSeries": {
+        "outlook_zip": [
+          {
+            "tagName": "v1.1.0",
+            "day": "2025-12-17T16:44:17Z",
+            "downloads": 2
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "outlook_zip": 2
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "zip": 2
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "zip": {
+            "v1.1.0": 2
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "outlook_zip": {
+          "project": "outlook",
+          "format": "zip"
+        }
+      }
+    }
+  },
+  {
+    "platform": "GitHub",
     "name": "sailpoint-oss/colab-saas-conn-identitynow-orphan-accounts",
-    "timestamp": "2026-06-15T01:18:34.471Z",
+    "timestamp": "2026-06-22T01:17:50.694Z",
     "metrics": {
       "stars": 2,
       "forks": 6,
@@ -498,16 +1420,16 @@
       "openIssues": 0,
       "closedIssues": 0,
       "language": "TypeScript",
-      "size": 927,
-      "repositoryAge": 991,
-      "lastActivity": 76,
+      "size": 928,
+      "repositoryAge": 998,
+      "lastActivity": 2,
       "releaseCount": 1,
       "totalReleaseDownloads": 1,
       "latestReleaseDownloads": 1,
       "viewsCount": 0,
       "uniqueVisitors": 0,
       "latestRelease": "v0.3.4",
-      "clonesCount": 13,
+      "clonesCount": 15,
       "topics": 1,
       "license": "MIT License",
       "defaultBranch": "main",
@@ -561,8 +1483,81 @@
   },
   {
     "platform": "GitHub",
+    "name": "sailpoint-oss/colab-saas-conn-identitynow-management",
+    "timestamp": "2026-06-22T01:17:50.641Z",
+    "metrics": {
+      "stars": 5,
+      "forks": 9,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 511,
+      "repositoryAge": 999,
+      "lastActivity": 2,
+      "releaseCount": 1,
+      "totalReleaseDownloads": 5,
+      "latestReleaseDownloads": 5,
+      "viewsCount": 9,
+      "uniqueVisitors": 4,
+      "latestRelease": "v2.1.7",
+      "clonesCount": 27,
+      "topics": 0,
+      "license": null,
+      "defaultBranch": "main",
+      "downloadsTotal": 5,
+      "downloadRange": [
+        {
+          "day": "2025-12-17T16:32:43Z",
+          "downloads": 5,
+          "tagName": "v2.1.7"
+        }
+      ],
+      "assetTotalsByName": {
+        "identitynowmanagement_zip": 5
+      },
+      "assetReleaseSeries": {
+        "identitynowmanagement_zip": [
+          {
+            "tagName": "v2.1.7",
+            "day": "2025-12-17T16:32:43Z",
+            "downloads": 5
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "identitynowmanagement_zip": 5
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "zip": 5
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "zip": {
+            "v2.1.7": 5
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "identitynowmanagement_zip": {
+          "project": "IdentityNowManagement",
+          "format": "zip"
+        }
+      }
+    }
+  },
+  {
+    "platform": "GitHub",
     "name": "sailpoint-oss/colab-saas-conn-genetec-clearid",
-    "timestamp": "2026-06-15T01:18:34.440Z",
+    "timestamp": "2026-06-22T01:17:51.404Z",
     "metrics": {
       "stars": 2,
       "forks": 1,
@@ -571,16 +1566,16 @@
       "openIssues": 1,
       "closedIssues": 0,
       "language": "TypeScript",
-      "size": 1302,
-      "repositoryAge": 991,
-      "lastActivity": 77,
+      "size": 1260,
+      "repositoryAge": 998,
+      "lastActivity": 2,
       "releaseCount": 2,
       "totalReleaseDownloads": 11,
       "latestReleaseDownloads": 11,
-      "viewsCount": 46,
-      "uniqueVisitors": 4,
+      "viewsCount": 25,
+      "uniqueVisitors": 5,
       "latestRelease": "v1.2.1",
-      "clonesCount": 10,
+      "clonesCount": 26,
       "topics": 1,
       "license": "MIT License",
       "defaultBranch": "main",
@@ -639,8 +1634,154 @@
   },
   {
     "platform": "GitHub",
+    "name": "sailpoint-oss/colab-saas-conn-delimited-file",
+    "timestamp": "2026-06-22T01:17:50.593Z",
+    "metrics": {
+      "stars": 1,
+      "forks": 2,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 742,
+      "repositoryAge": 695,
+      "lastActivity": 2,
+      "releaseCount": 1,
+      "totalReleaseDownloads": 8,
+      "latestReleaseDownloads": 8,
+      "viewsCount": 3,
+      "uniqueVisitors": 2,
+      "latestRelease": "v0.1.5",
+      "clonesCount": 27,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 8,
+      "downloadRange": [
+        {
+          "day": "2025-12-17T16:37:12Z",
+          "downloads": 8,
+          "tagName": "v0.1.5"
+        }
+      ],
+      "assetTotalsByName": {
+        "isc_zip": 8
+      },
+      "assetReleaseSeries": {
+        "isc_zip": [
+          {
+            "tagName": "v0.1.5",
+            "day": "2025-12-17T16:37:12Z",
+            "downloads": 8
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "isc_zip": 8
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "zip": 8
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "zip": {
+            "v0.1.5": 8
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "isc_zip": {
+          "project": "isc",
+          "format": "zip"
+        }
+      }
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-saas-conn-cyber-ark-rbac",
+    "timestamp": "2026-06-22T01:17:50.579Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 4,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 469,
+      "repositoryAge": 482,
+      "lastActivity": 2,
+      "releaseCount": 1,
+      "totalReleaseDownloads": 3,
+      "latestReleaseDownloads": 3,
+      "viewsCount": 25,
+      "uniqueVisitors": 5,
+      "latestRelease": "v0.1.0",
+      "clonesCount": 30,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 3,
+      "downloadRange": [
+        {
+          "day": "2025-12-17T16:36:23Z",
+          "downloads": 3,
+          "tagName": "v0.1.0"
+        }
+      ],
+      "assetTotalsByName": {
+        "colab_zip": 3
+      },
+      "assetReleaseSeries": {
+        "colab_zip": [
+          {
+            "tagName": "v0.1.0",
+            "day": "2025-12-17T16:36:23Z",
+            "downloads": 3
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "colab_zip": 3
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "zip": 3
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "zip": {
+            "v0.1.0": 3
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "colab_zip": {
+          "project": "colab",
+          "format": "zip"
+        }
+      }
+    }
+  },
+  {
+    "platform": "GitHub",
     "name": "sailpoint-oss/colab-saas-conn-beyondtrust-representatives",
-    "timestamp": "2026-06-15T01:18:34.395Z",
+    "timestamp": "2026-06-22T01:17:50.627Z",
     "metrics": {
       "stars": 1,
       "forks": 1,
@@ -649,16 +1790,16 @@
       "openIssues": 0,
       "closedIssues": 0,
       "language": "TypeScript",
-      "size": 11399,
-      "repositoryAge": 866,
-      "lastActivity": 77,
+      "size": 11400,
+      "repositoryAge": 873,
+      "lastActivity": 2,
       "releaseCount": 1,
       "totalReleaseDownloads": 2,
       "latestReleaseDownloads": 2,
       "viewsCount": 0,
       "uniqueVisitors": 0,
       "latestRelease": "v0.1.0",
-      "clonesCount": 7,
+      "clonesCount": 24,
       "topics": 0,
       "license": "MIT License",
       "defaultBranch": "main",
@@ -712,81 +1853,8 @@
   },
   {
     "platform": "GitHub",
-    "name": "sailpoint-oss/colab-saas-conn-rambase-cloud-erp",
-    "timestamp": "2026-06-15T01:18:34.388Z",
-    "metrics": {
-      "stars": 0,
-      "forks": 1,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "TypeScript",
-      "size": 1236,
-      "repositoryAge": 992,
-      "lastActivity": 77,
-      "releaseCount": 1,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 1,
-      "uniqueVisitors": 1,
-      "latestRelease": "v1.0",
-      "clonesCount": 7,
-      "topics": 1,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [
-        {
-          "day": "2025-12-17T16:29:15Z",
-          "downloads": 0,
-          "tagName": "v1.0"
-        }
-      ],
-      "assetTotalsByName": {
-        "rambase_zip": 0
-      },
-      "assetReleaseSeries": {
-        "rambase_zip": [
-          {
-            "tagName": "v1.0",
-            "day": "2025-12-17T16:29:15Z",
-            "downloads": 0
-          }
-        ]
-      },
-      "assetTotalsByParsedKey": {
-        "rambase_zip": 0
-      },
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {
-        "zip": 0
-      },
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {
-          "zip": {
-            "v1.0": 0
-          }
-        },
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {
-        "rambase_zip": {
-          "project": "RamBase",
-          "format": "zip"
-        }
-      }
-    }
-  },
-  {
-    "platform": "GitHub",
     "name": "sailpoint-oss/colab-saas-conn-beyondtrust-privilege-management-cloud",
-    "timestamp": "2026-06-15T01:18:34.356Z",
+    "timestamp": "2026-06-22T01:17:50.577Z",
     "metrics": {
       "stars": 0,
       "forks": 1,
@@ -795,16 +1863,16 @@
       "openIssues": 0,
       "closedIssues": 0,
       "language": "TypeScript",
-      "size": 6889,
-      "repositoryAge": 866,
-      "lastActivity": 77,
+      "size": 6890,
+      "repositoryAge": 873,
+      "lastActivity": 2,
       "releaseCount": 1,
       "totalReleaseDownloads": 5,
       "latestReleaseDownloads": 5,
       "viewsCount": 0,
       "uniqueVisitors": 0,
       "latestRelease": "v0.1.0",
-      "clonesCount": 7,
+      "clonesCount": 38,
       "topics": 0,
       "license": "MIT License",
       "defaultBranch": "main",
@@ -858,8 +1926,263 @@
   },
   {
     "platform": "GitHub",
+    "name": "sailpoint-oss/colab-saas-conn-beyondtrust-pra",
+    "timestamp": "2026-06-22T01:17:50.677Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": null,
+      "size": 400,
+      "repositoryAge": 999,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": null,
+      "clonesCount": 28,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-saas-conn-beyondtrust-pmcloud-computers",
+    "timestamp": "2026-06-22T01:17:50.642Z",
+    "metrics": {
+      "stars": 1,
+      "forks": 2,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 6262,
+      "repositoryAge": 873,
+      "lastActivity": 2,
+      "releaseCount": 3,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 1,
+      "uniqueVisitors": 1,
+      "latestRelease": "v0.1.0",
+      "clonesCount": 24,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [
+        {
+          "day": "2025-12-17T16:32:01Z",
+          "downloads": 0,
+          "tagName": "v0.1.0"
+        },
+        {
+          "day": "2024-02-23T21:48:30Z",
+          "downloads": 0,
+          "tagName": "v1.0"
+        },
+        {
+          "day": "2024-04-03T18:40:21Z",
+          "downloads": 0,
+          "tagName": "v1.01"
+        }
+      ],
+      "assetTotalsByName": {
+        "beyondtrust_zip": 0
+      },
+      "assetReleaseSeries": {
+        "beyondtrust_zip": [
+          {
+            "tagName": "v0.1.0",
+            "day": "2025-12-17T16:32:01Z",
+            "downloads": 0
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "beyondtrust_zip": 0
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "zip": 0
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "zip": {
+            "v0.1.0": 0
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "beyondtrust_zip": {
+          "project": "BeyondTrust",
+          "format": "zip"
+        }
+      }
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-saas-conn-beyondtrust-epm",
+    "timestamp": "2026-06-22T01:17:50.630Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": null,
+      "size": 400,
+      "repositoryAge": 999,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": null,
+      "clonesCount": 30,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-saas-conn-attribute-generator",
+    "timestamp": "2026-06-22T01:17:50.632Z",
+    "metrics": {
+      "stars": 1,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 3,
+      "openIssues": 3,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 1038,
+      "repositoryAge": 361,
+      "lastActivity": 2,
+      "releaseCount": 2,
+      "totalReleaseDownloads": 7,
+      "latestReleaseDownloads": 7,
+      "viewsCount": 2,
+      "uniqueVisitors": 2,
+      "latestRelease": "v0.2.5",
+      "clonesCount": 24,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 7,
+      "downloadRange": [
+        {
+          "day": "2025-12-16T15:04:26Z",
+          "downloads": 0,
+          "tagName": "v0.2.0"
+        },
+        {
+          "day": "2025-12-17T15:38:23Z",
+          "downloads": 7,
+          "tagName": "v0.2.5"
+        }
+      ],
+      "assetTotalsByName": {
+        "attribute_zip": 7
+      },
+      "assetReleaseSeries": {
+        "attribute_zip": [
+          {
+            "tagName": "v0.2.5",
+            "day": "2025-12-17T15:38:23Z",
+            "downloads": 7
+          },
+          {
+            "tagName": "v0.2.0",
+            "day": "2025-12-16T15:04:26Z",
+            "downloads": 0
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "attribute_zip": 7
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "zip": 7
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "zip": {
+            "v0.2.5": 7,
+            "v0.2.0": 0
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "attribute_zip": {
+          "project": "attribute",
+          "format": "zip"
+        }
+      }
+    }
+  },
+  {
+    "platform": "GitHub",
     "name": "sailpoint-oss/colab-saas-conn-access-management",
-    "timestamp": "2026-06-15T01:18:34.349Z",
+    "timestamp": "2026-06-22T01:17:50.659Z",
     "metrics": {
       "stars": 1,
       "forks": 1,
@@ -868,16 +2191,16 @@
       "openIssues": 0,
       "closedIssues": 0,
       "language": "TypeScript",
-      "size": 1473,
-      "repositoryAge": 354,
-      "lastActivity": 77,
+      "size": 521,
+      "repositoryAge": 361,
+      "lastActivity": 2,
       "releaseCount": 3,
       "totalReleaseDownloads": 8,
       "latestReleaseDownloads": 1,
-      "viewsCount": 16,
-      "uniqueVisitors": 6,
+      "viewsCount": 14,
+      "uniqueVisitors": 2,
       "latestRelease": "v0.2.1",
-      "clonesCount": 10,
+      "clonesCount": 20,
       "topics": 0,
       "license": "MIT License",
       "defaultBranch": "main",
@@ -953,341 +2276,8 @@
   },
   {
     "platform": "GitHub",
-    "name": "sailpoint-oss/colab-neovim-isc-plugin",
-    "timestamp": "2026-06-15T01:18:34.366Z",
-    "metrics": {
-      "stars": 2,
-      "forks": 2,
-      "watchers": 1,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "TypeScript",
-      "size": 862,
-      "repositoryAge": 94,
-      "lastActivity": 88,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 3,
-      "uniqueVisitors": 1,
-      "latestRelease": null,
-      "clonesCount": 11,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-transforms",
-    "timestamp": "2026-06-15T01:18:34.332Z",
-    "metrics": {
-      "stars": 2,
-      "forks": 12,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": null,
-      "size": 423,
-      "repositoryAge": 993,
-      "lastActivity": 95,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 34,
-      "uniqueVisitors": 11,
-      "latestRelease": null,
-      "clonesCount": 16,
-      "topics": 1,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-sailpoint-zapier-integration",
-    "timestamp": "2026-06-15T01:18:34.414Z",
-    "metrics": {
-      "stars": 1,
-      "forks": 1,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "JavaScript",
-      "size": 511,
-      "repositoryAge": 992,
-      "lastActivity": 106,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 0,
-      "uniqueVisitors": 0,
-      "latestRelease": null,
-      "clonesCount": 6,
-      "topics": 1,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-workflows",
-    "timestamp": "2026-06-15T01:18:34.409Z",
-    "metrics": {
-      "stars": 16,
-      "forks": 21,
-      "watchers": 4,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": null,
-      "size": 491,
-      "repositoryAge": 993,
-      "lastActivity": 115,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 270,
-      "uniqueVisitors": 78,
-      "latestRelease": null,
-      "clonesCount": 31,
-      "topics": 1,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-saas-conn-attribute-generator",
-    "timestamp": "2026-06-15T01:18:34.399Z",
-    "metrics": {
-      "stars": 1,
-      "forks": 1,
-      "watchers": 0,
-      "totalIssues": 3,
-      "openIssues": 3,
-      "closedIssues": 0,
-      "language": "TypeScript",
-      "size": 1037,
-      "repositoryAge": 354,
-      "lastActivity": 120,
-      "releaseCount": 2,
-      "totalReleaseDownloads": 7,
-      "latestReleaseDownloads": 7,
-      "viewsCount": 2,
-      "uniqueVisitors": 2,
-      "latestRelease": "v0.2.5",
-      "clonesCount": 9,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 7,
-      "downloadRange": [
-        {
-          "day": "2025-12-16T15:04:26Z",
-          "downloads": 0,
-          "tagName": "v0.2.0"
-        },
-        {
-          "day": "2025-12-17T15:38:23Z",
-          "downloads": 7,
-          "tagName": "v0.2.5"
-        }
-      ],
-      "assetTotalsByName": {
-        "attribute_zip": 7
-      },
-      "assetReleaseSeries": {
-        "attribute_zip": [
-          {
-            "tagName": "v0.2.5",
-            "day": "2025-12-17T15:38:23Z",
-            "downloads": 7
-          },
-          {
-            "tagName": "v0.2.0",
-            "day": "2025-12-16T15:04:26Z",
-            "downloads": 0
-          }
-        ]
-      },
-      "assetTotalsByParsedKey": {
-        "attribute_zip": 7
-      },
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {
-        "zip": 7
-      },
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {
-          "zip": {
-            "v0.2.5": 7,
-            "v0.2.0": 0
-          }
-        },
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {
-        "attribute_zip": {
-          "project": "attribute",
-          "format": "zip"
-        }
-      }
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-saas-conn-proxy-entitlements",
-    "timestamp": "2026-06-15T01:18:34.361Z",
-    "metrics": {
-      "stars": 1,
-      "forks": 0,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "TypeScript",
-      "size": 1055,
-      "repositoryAge": 354,
-      "lastActivity": 123,
-      "releaseCount": 1,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 0,
-      "uniqueVisitors": 0,
-      "latestRelease": "v0.1.1",
-      "clonesCount": 8,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [
-        {
-          "day": "2025-12-17T16:45:07Z",
-          "downloads": 0,
-          "tagName": "v0.1.1"
-        }
-      ],
-      "assetTotalsByName": {
-        "proxy_zip": 0
-      },
-      "assetReleaseSeries": {
-        "proxy_zip": [
-          {
-            "tagName": "v0.1.1",
-            "day": "2025-12-17T16:45:07Z",
-            "downloads": 0
-          }
-        ]
-      },
-      "assetTotalsByParsedKey": {
-        "proxy_zip": 0
-      },
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {
-        "zip": 0
-      },
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {
-          "zip": {
-            "v0.1.1": 0
-          }
-        },
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {
-        "proxy_zip": {
-          "project": "proxy",
-          "format": "zip"
-        }
-      }
-    }
-  },
-  {
-    "platform": "GitHub",
     "name": "sailpoint-oss/colab-rules",
-    "timestamp": "2026-06-15T01:18:34.391Z",
+    "timestamp": "2026-06-22T01:17:50.673Z",
     "metrics": {
       "stars": 4,
       "forks": 8,
@@ -1296,16 +2286,16 @@
       "openIssues": 0,
       "closedIssues": 0,
       "language": null,
-      "size": 420,
-      "repositoryAge": 993,
-      "lastActivity": 153,
+      "size": 421,
+      "repositoryAge": 1000,
+      "lastActivity": 2,
       "releaseCount": 0,
       "totalReleaseDownloads": 0,
       "latestReleaseDownloads": 0,
-      "viewsCount": 78,
-      "uniqueVisitors": 31,
+      "viewsCount": 74,
+      "uniqueVisitors": 33,
       "latestRelease": null,
-      "clonesCount": 10,
+      "clonesCount": 23,
       "topics": 1,
       "license": "MIT License",
       "defaultBranch": "main",
@@ -1330,1421 +2320,70 @@
   },
   {
     "platform": "GitHub",
-    "name": "sailpoint-oss/colab-saas-conn-outlook-out-of-office",
-    "timestamp": "2026-06-15T01:18:34.429Z",
+    "name": "sailpoint-oss/colab-reports",
+    "timestamp": "2026-06-22T01:17:50.595Z",
     "metrics": {
       "stars": 1,
-      "forks": 1,
-      "watchers": 1,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "TypeScript",
-      "size": 1591,
-      "repositoryAge": 942,
-      "lastActivity": 179,
-      "releaseCount": 1,
-      "totalReleaseDownloads": 2,
-      "latestReleaseDownloads": 2,
-      "viewsCount": 0,
-      "uniqueVisitors": 0,
-      "latestRelease": "v1.1.0",
-      "clonesCount": 16,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 2,
-      "downloadRange": [
-        {
-          "day": "2025-12-17T16:44:17Z",
-          "downloads": 2,
-          "tagName": "v1.1.0"
-        }
-      ],
-      "assetTotalsByName": {
-        "outlook_zip": 2
-      },
-      "assetReleaseSeries": {
-        "outlook_zip": [
-          {
-            "tagName": "v1.1.0",
-            "day": "2025-12-17T16:44:17Z",
-            "downloads": 2
-          }
-        ]
-      },
-      "assetTotalsByParsedKey": {
-        "outlook_zip": 2
-      },
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {
-        "zip": 2
-      },
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {
-          "zip": {
-            "v1.1.0": 2
-          }
-        },
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {
-        "outlook_zip": {
-          "project": "outlook",
-          "format": "zip"
-        }
-      }
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-saas-conn-search-loopback",
-    "timestamp": "2026-06-15T01:18:34.517Z",
-    "metrics": {
-      "stars": 0,
-      "forks": 2,
-      "watchers": 1,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "TypeScript",
-      "size": 705,
-      "repositoryAge": 507,
-      "lastActivity": 179,
-      "releaseCount": 1,
-      "totalReleaseDownloads": 6,
-      "latestReleaseDownloads": 6,
-      "viewsCount": 10,
-      "uniqueVisitors": 5,
-      "latestRelease": "v0.1.0",
-      "clonesCount": 6,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 6,
-      "downloadRange": [
-        {
-          "day": "2025-12-17T16:37:24Z",
-          "downloads": 6,
-          "tagName": "v0.1.0"
-        }
-      ],
-      "assetTotalsByName": {
-        "saas_zip": 6
-      },
-      "assetReleaseSeries": {
-        "saas_zip": [
-          {
-            "tagName": "v0.1.0",
-            "day": "2025-12-17T16:37:24Z",
-            "downloads": 6
-          }
-        ]
-      },
-      "assetTotalsByParsedKey": {
-        "saas_zip": 6
-      },
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {
-        "zip": 6
-      },
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {
-          "zip": {
-            "v0.1.0": 6
-          }
-        },
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {
-        "saas_zip": {
-          "project": "saas",
-          "format": "zip"
-        }
-      }
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-saas-conn-delimited-file",
-    "timestamp": "2026-06-15T01:18:34.557Z",
-    "metrics": {
-      "stars": 1,
-      "forks": 2,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "TypeScript",
-      "size": 741,
-      "repositoryAge": 688,
-      "lastActivity": 179,
-      "releaseCount": 1,
-      "totalReleaseDownloads": 8,
-      "latestReleaseDownloads": 8,
-      "viewsCount": 5,
-      "uniqueVisitors": 1,
-      "latestRelease": "v0.1.5",
-      "clonesCount": 19,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 8,
-      "downloadRange": [
-        {
-          "day": "2025-12-17T16:37:12Z",
-          "downloads": 8,
-          "tagName": "v0.1.5"
-        }
-      ],
-      "assetTotalsByName": {
-        "isc_zip": 8
-      },
-      "assetReleaseSeries": {
-        "isc_zip": [
-          {
-            "tagName": "v0.1.5",
-            "day": "2025-12-17T16:37:12Z",
-            "downloads": 8
-          }
-        ]
-      },
-      "assetTotalsByParsedKey": {
-        "isc_zip": 8
-      },
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {
-        "zip": 8
-      },
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {
-          "zip": {
-            "v0.1.5": 8
-          }
-        },
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {
-        "isc_zip": {
-          "project": "isc",
-          "format": "zip"
-        }
-      }
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-saas-conn-pan-customer-service-portal",
-    "timestamp": "2026-06-15T01:18:34.594Z",
-    "metrics": {
-      "stars": 0,
       "forks": 1,
       "watchers": 0,
       "totalIssues": 0,
       "openIssues": 0,
       "closedIssues": 0,
-      "language": "TypeScript",
-      "size": 670,
-      "repositoryAge": 688,
-      "lastActivity": 179,
-      "releaseCount": 1,
+      "language": "Java",
+      "size": 411,
+      "repositoryAge": 958,
+      "lastActivity": 2,
+      "releaseCount": 0,
       "totalReleaseDownloads": 0,
       "latestReleaseDownloads": 0,
-      "viewsCount": 6,
-      "uniqueVisitors": 3,
-      "latestRelease": "v1.0.0",
-      "clonesCount": 15,
+      "viewsCount": 4,
+      "uniqueVisitors": 2,
+      "latestRelease": null,
+      "clonesCount": 12,
       "topics": 0,
       "license": "MIT License",
       "defaultBranch": "main",
       "downloadsTotal": 0,
-      "downloadRange": [
-        {
-          "day": "2025-12-17T16:37:02Z",
-          "downloads": 0,
-          "tagName": "v1.0.0"
-        }
-      ],
-      "assetTotalsByName": {
-        "saas_zip": 0
-      },
-      "assetReleaseSeries": {
-        "saas_zip": [
-          {
-            "tagName": "v1.0.0",
-            "day": "2025-12-17T16:37:02Z",
-            "downloads": 0
-          }
-        ]
-      },
-      "assetTotalsByParsedKey": {
-        "saas_zip": 0
-      },
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
       "totalsByOs": {},
       "totalsByArch": {},
-      "totalsByFormat": {
-        "zip": 0
-      },
+      "totalsByFormat": {},
       "totalsByVariant": {},
       "attributeReleaseSeries": {
         "os": {},
         "arch": {},
-        "format": {
-          "zip": {
-            "v1.0.0": 0
-          }
-        },
+        "format": {},
         "variant": {},
         "version": {}
       },
-      "assetAttributesByKey": {
-        "saas_zip": {
-          "project": "saas",
-          "format": "zip"
-        }
-      }
+      "assetAttributesByKey": {}
     }
   },
   {
     "platform": "GitHub",
-    "name": "sailpoint-oss/colab-saas-conn-peloton-platform",
-    "timestamp": "2026-06-15T01:18:34.405Z",
-    "metrics": {
-      "stars": 0,
-      "forks": 1,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "TypeScript",
-      "size": 465,
-      "repositoryAge": 411,
-      "lastActivity": 179,
-      "releaseCount": 1,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 0,
-      "uniqueVisitors": 0,
-      "latestRelease": "v0.1.0",
-      "clonesCount": 11,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [
-        {
-          "day": "2025-12-17T16:36:51Z",
-          "downloads": 0,
-          "tagName": "v0.1.0"
-        }
-      ],
-      "assetTotalsByName": {
-        "colab_zip": 0
-      },
-      "assetReleaseSeries": {
-        "colab_zip": [
-          {
-            "tagName": "v0.1.0",
-            "day": "2025-12-17T16:36:51Z",
-            "downloads": 0
-          }
-        ]
-      },
-      "assetTotalsByParsedKey": {
-        "colab_zip": 0
-      },
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {
-        "zip": 0
-      },
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {
-          "zip": {
-            "v0.1.0": 0
-          }
-        },
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {
-        "colab_zip": {
-          "project": "colab",
-          "format": "zip"
-        }
-      }
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-saas-conn-cyber-ark-rbac",
-    "timestamp": "2026-06-15T01:18:34.454Z",
+    "name": "sailpoint-oss/colab-repo-template",
+    "timestamp": "2026-06-22T01:17:50.577Z",
     "metrics": {
       "stars": 0,
       "forks": 4,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "TypeScript",
-      "size": 468,
-      "repositoryAge": 475,
-      "lastActivity": 179,
-      "releaseCount": 1,
-      "totalReleaseDownloads": 3,
-      "latestReleaseDownloads": 3,
-      "viewsCount": 37,
-      "uniqueVisitors": 4,
-      "latestRelease": "v0.1.0",
-      "clonesCount": 12,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 3,
-      "downloadRange": [
-        {
-          "day": "2025-12-17T16:36:23Z",
-          "downloads": 3,
-          "tagName": "v0.1.0"
-        }
-      ],
-      "assetTotalsByName": {
-        "colab_zip": 3
-      },
-      "assetReleaseSeries": {
-        "colab_zip": [
-          {
-            "tagName": "v0.1.0",
-            "day": "2025-12-17T16:36:23Z",
-            "downloads": 3
-          }
-        ]
-      },
-      "assetTotalsByParsedKey": {
-        "colab_zip": 3
-      },
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {
-        "zip": 3
-      },
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {
-          "zip": {
-            "v0.1.0": 3
-          }
-        },
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {
-        "colab_zip": {
-          "project": "colab",
-          "format": "zip"
-        }
-      }
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-saas-conn-thomsonreuters-document-intelligence",
-    "timestamp": "2026-06-15T01:18:34.420Z",
-    "metrics": {
-      "stars": 1,
-      "forks": 1,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "TypeScript",
-      "size": 473,
-      "repositoryAge": 566,
-      "lastActivity": 179,
-      "releaseCount": 1,
-      "totalReleaseDownloads": 1,
-      "latestReleaseDownloads": 1,
-      "viewsCount": 0,
-      "uniqueVisitors": 0,
-      "latestRelease": "v0.1.0",
-      "clonesCount": 12,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 1,
-      "downloadRange": [
-        {
-          "day": "2025-12-17T16:36:13Z",
-          "downloads": 1,
-          "tagName": "v0.1.0"
-        }
-      ],
-      "assetTotalsByName": {
-        "colab_zip": 1
-      },
-      "assetReleaseSeries": {
-        "colab_zip": [
-          {
-            "tagName": "v0.1.0",
-            "day": "2025-12-17T16:36:13Z",
-            "downloads": 1
-          }
-        ]
-      },
-      "assetTotalsByParsedKey": {
-        "colab_zip": 1
-      },
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {
-        "zip": 1
-      },
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {
-          "zip": {
-            "v0.1.0": 1
-          }
-        },
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {
-        "colab_zip": {
-          "project": "colab",
-          "format": "zip"
-        }
-      }
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-saas-conn-identitynow-management",
-    "timestamp": "2026-06-15T01:18:34.396Z",
-    "metrics": {
-      "stars": 5,
-      "forks": 9,
-      "watchers": 1,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "TypeScript",
-      "size": 509,
-      "repositoryAge": 992,
-      "lastActivity": 179,
-      "releaseCount": 1,
-      "totalReleaseDownloads": 5,
-      "latestReleaseDownloads": 5,
-      "viewsCount": 21,
-      "uniqueVisitors": 11,
-      "latestRelease": "v2.1.7",
-      "clonesCount": 10,
-      "topics": 0,
-      "license": null,
-      "defaultBranch": "main",
-      "downloadsTotal": 5,
-      "downloadRange": [
-        {
-          "day": "2025-12-17T16:32:43Z",
-          "downloads": 5,
-          "tagName": "v2.1.7"
-        }
-      ],
-      "assetTotalsByName": {
-        "identitynowmanagement_zip": 5
-      },
-      "assetReleaseSeries": {
-        "identitynowmanagement_zip": [
-          {
-            "tagName": "v2.1.7",
-            "day": "2025-12-17T16:32:43Z",
-            "downloads": 5
-          }
-        ]
-      },
-      "assetTotalsByParsedKey": {
-        "identitynowmanagement_zip": 5
-      },
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {
-        "zip": 5
-      },
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {
-          "zip": {
-            "v2.1.7": 5
-          }
-        },
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {
-        "identitynowmanagement_zip": {
-          "project": "IdentityNowManagement",
-          "format": "zip"
-        }
-      }
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-saas-conn-prisma-sase",
-    "timestamp": "2026-06-15T01:18:34.456Z",
-    "metrics": {
-      "stars": 0,
-      "forks": 2,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "TypeScript",
-      "size": 655,
-      "repositoryAge": 688,
-      "lastActivity": 179,
-      "releaseCount": 1,
-      "totalReleaseDownloads": 1,
-      "latestReleaseDownloads": 1,
-      "viewsCount": 0,
-      "uniqueVisitors": 0,
-      "latestRelease": "v1.0.0",
-      "clonesCount": 11,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 1,
-      "downloadRange": [
-        {
-          "day": "2025-12-17T16:32:30Z",
-          "downloads": 1,
-          "tagName": "v1.0.0"
-        }
-      ],
-      "assetTotalsByName": {
-        "prisma_zip": 1
-      },
-      "assetReleaseSeries": {
-        "prisma_zip": [
-          {
-            "tagName": "v1.0.0",
-            "day": "2025-12-17T16:32:30Z",
-            "downloads": 1
-          }
-        ]
-      },
-      "assetTotalsByParsedKey": {
-        "prisma_zip": 1
-      },
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {
-        "zip": 1
-      },
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {
-          "zip": {
-            "v1.0.0": 1
-          }
-        },
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {
-        "prisma_zip": {
-          "project": "prisma",
-          "format": "zip"
-        }
-      }
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-saas-conn-beyondtrust-pmcloud-computers",
-    "timestamp": "2026-06-15T01:18:34.413Z",
-    "metrics": {
-      "stars": 1,
-      "forks": 2,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "TypeScript",
-      "size": 6261,
-      "repositoryAge": 866,
-      "lastActivity": 179,
-      "releaseCount": 3,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 2,
-      "uniqueVisitors": 2,
-      "latestRelease": "v0.1.0",
-      "clonesCount": 11,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [
-        {
-          "day": "2025-12-17T16:32:01Z",
-          "downloads": 0,
-          "tagName": "v0.1.0"
-        },
-        {
-          "day": "2024-02-23T21:48:30Z",
-          "downloads": 0,
-          "tagName": "v1.0"
-        },
-        {
-          "day": "2024-04-03T18:40:21Z",
-          "downloads": 0,
-          "tagName": "v1.01"
-        }
-      ],
-      "assetTotalsByName": {
-        "beyondtrust_zip": 0
-      },
-      "assetReleaseSeries": {
-        "beyondtrust_zip": [
-          {
-            "tagName": "v0.1.0",
-            "day": "2025-12-17T16:32:01Z",
-            "downloads": 0
-          }
-        ]
-      },
-      "assetTotalsByParsedKey": {
-        "beyondtrust_zip": 0
-      },
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {
-        "zip": 0
-      },
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {
-          "zip": {
-            "v0.1.0": 0
-          }
-        },
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {
-        "beyondtrust_zip": {
-          "project": "BeyondTrust",
-          "format": "zip"
-        }
-      }
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-saas-conn-peloton-landview",
-    "timestamp": "2026-06-15T01:18:34.398Z",
-    "metrics": {
-      "stars": 0,
-      "forks": 0,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "TypeScript",
-      "size": 676,
-      "repositoryAge": 814,
-      "lastActivity": 179,
-      "releaseCount": 1,
-      "totalReleaseDownloads": 1,
-      "latestReleaseDownloads": 1,
-      "viewsCount": 1,
-      "uniqueVisitors": 1,
-      "latestRelease": "v0.2.0",
-      "clonesCount": 12,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 1,
-      "downloadRange": [
-        {
-          "day": "2025-12-17T16:31:48Z",
-          "downloads": 1,
-          "tagName": "v0.2.0"
-        }
-      ],
-      "assetTotalsByName": {
-        "colab_zip": 1
-      },
-      "assetReleaseSeries": {
-        "colab_zip": [
-          {
-            "tagName": "v0.2.0",
-            "day": "2025-12-17T16:31:48Z",
-            "downloads": 1
-          }
-        ]
-      },
-      "assetTotalsByParsedKey": {
-        "colab_zip": 1
-      },
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {
-        "zip": 1
-      },
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {
-          "zip": {
-            "v0.2.0": 1
-          }
-        },
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {
-        "colab_zip": {
-          "project": "colab",
-          "format": "zip"
-        }
-      }
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-siem-plugin",
-    "timestamp": "2026-06-15T01:18:34.426Z",
-    "metrics": {
-      "stars": 4,
-      "forks": 6,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "CSS",
-      "size": 2125,
-      "repositoryAge": 991,
-      "lastActivity": 181,
-      "releaseCount": 1,
-      "totalReleaseDownloads": 61,
-      "latestReleaseDownloads": 61,
-      "viewsCount": 42,
-      "uniqueVisitors": 14,
-      "latestRelease": "v2.1.5",
-      "clonesCount": 6,
-      "topics": 1,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 61,
-      "downloadRange": [
-        {
-          "day": "2025-12-15T21:21:11Z",
-          "downloads": 61,
-          "tagName": "v2.1.5"
-        }
-      ],
-      "assetTotalsByName": {
-        "siem_zip": 61
-      },
-      "assetReleaseSeries": {
-        "siem_zip": [
-          {
-            "tagName": "v2.1.5",
-            "day": "2025-12-15T21:21:11Z",
-            "downloads": 40
-          },
-          {
-            "tagName": "v2.1.5",
-            "day": "2025-12-15T21:21:11Z",
-            "downloads": 21
-          }
-        ]
-      },
-      "assetTotalsByParsedKey": {
-        "siem_zip": 61
-      },
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {
-        "zip": 61
-      },
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {
-          "zip": {
-            "v2.1.5": 61
-          }
-        },
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {
-        "siem_zip": {
-          "project": "SIEM",
-          "format": "zip"
-        }
-      }
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-isc-extended-workflow-helper",
-    "timestamp": "2026-06-15T01:18:34.380Z",
-    "metrics": {
-      "stars": 1,
-      "forks": 2,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "Java",
-      "size": 658,
-      "repositoryAge": 269,
-      "lastActivity": 262,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 11,
-      "uniqueVisitors": 1,
-      "latestRelease": null,
-      "clonesCount": 8,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-iiq-roles-with-deleted-entitlements",
-    "timestamp": "2026-06-15T01:18:34.400Z",
-    "metrics": {
-      "stars": 0,
-      "forks": 1,
-      "watchers": 0,
+      "watchers": 2,
       "totalIssues": 0,
       "openIssues": 0,
       "closedIssues": 0,
       "language": null,
-      "size": 397,
-      "repositoryAge": 282,
-      "lastActivity": 282,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 3,
-      "uniqueVisitors": 1,
-      "latestRelease": null,
-      "clonesCount": 8,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-events-dashboard-plugin",
-    "timestamp": "2026-06-15T01:18:34.440Z",
-    "metrics": {
-      "stars": 0,
-      "forks": 1,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "Java",
-      "size": 547,
-      "repositoryAge": 354,
-      "lastActivity": 331,
-      "releaseCount": 1,
-      "totalReleaseDownloads": 31,
-      "latestReleaseDownloads": 31,
-      "viewsCount": 12,
-      "uniqueVisitors": 5,
-      "latestRelease": "v1.0",
-      "clonesCount": 12,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 31,
-      "downloadRange": [
-        {
-          "day": "2025-07-18T04:57:05Z",
-          "downloads": 31,
-          "tagName": "v1.0"
-        }
-      ],
-      "assetTotalsByName": {
-        "eventsdashboardplugin_zip": 31
-      },
-      "assetReleaseSeries": {
-        "eventsdashboardplugin_zip": [
-          {
-            "tagName": "v1.0",
-            "day": "2025-07-18T04:57:05Z",
-            "downloads": 31
-          }
-        ]
-      },
-      "assetTotalsByParsedKey": {
-        "eventsdashboardplugin_zip": 31
-      },
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {
-        "zip": 31
-      },
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {
-          "zip": {
-            "v1.0": 31
-          }
-        },
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {
-        "eventsdashboardplugin_zip": {
-          "project": "EventsDashboardPlugin",
-          "format": "zip"
-        }
-      }
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-motd-plugin",
-    "timestamp": "2026-06-15T01:18:34.411Z",
-    "metrics": {
-      "stars": 4,
-      "forks": 0,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "JavaScript",
-      "size": 27236,
-      "repositoryAge": 780,
-      "lastActivity": 337,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 16,
-      "uniqueVisitors": 2,
-      "latestRelease": null,
-      "clonesCount": 10,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-iiq-resilient-actions",
-    "timestamp": "2026-06-15T01:18:34.395Z",
-    "metrics": {
-      "stars": 0,
-      "forks": 1,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": null,
-      "size": 400,
-      "repositoryAge": 367,
-      "lastActivity": 367,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 1,
-      "uniqueVisitors": 1,
-      "latestRelease": null,
-      "clonesCount": 6,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-isc-PsAttributeSyncValidator",
-    "timestamp": "2026-06-15T01:18:34.398Z",
-    "metrics": {
-      "stars": 0,
-      "forks": 1,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": null,
-      "size": 397,
-      "repositoryAge": 377,
-      "lastActivity": 377,
+      "size": 427,
+      "repositoryAge": 1426,
+      "lastActivity": 2,
       "releaseCount": 0,
       "totalReleaseDownloads": 0,
       "latestReleaseDownloads": 0,
       "viewsCount": 0,
       "uniqueVisitors": 0,
       "latestRelease": null,
-      "clonesCount": 7,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-non-employee-risk-management-splunk-addon",
-    "timestamp": "2026-06-15T01:18:34.426Z",
-    "metrics": {
-      "stars": 1,
-      "forks": 1,
-      "watchers": 0,
-      "totalIssues": 1,
-      "openIssues": 1,
-      "closedIssues": 0,
-      "language": "Python",
-      "size": 8515,
-      "repositoryAge": 569,
-      "lastActivity": 433,
-      "releaseCount": 1,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 0,
-      "uniqueVisitors": 0,
-      "latestRelease": "v1.0.0",
-      "clonesCount": 10,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [
-        {
-          "day": "2025-04-03T17:55:58Z",
-          "downloads": 0,
-          "tagName": "v1.0.0"
-        }
-      ],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-iiqda-plugin-intellij",
-    "timestamp": "2026-06-15T01:18:34.412Z",
-    "metrics": {
-      "stars": 0,
-      "forks": 4,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "Java",
-      "size": 464,
-      "repositoryAge": 725,
-      "lastActivity": 437,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 25,
-      "uniqueVisitors": 6,
-      "latestRelease": null,
-      "clonesCount": 11,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-show-workgroup-member-plugin",
-    "timestamp": "2026-06-15T01:18:34.483Z",
-    "metrics": {
-      "stars": 0,
-      "forks": 1,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "Java",
-      "size": 404,
-      "repositoryAge": 503,
-      "lastActivity": 488,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 32,
-      "uniqueVisitors": 9,
-      "latestRelease": null,
-      "clonesCount": 8,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-iiq-custom-loading-spinner",
-    "timestamp": "2026-06-15T01:18:34.498Z",
-    "metrics": {
-      "stars": 0,
-      "forks": 1,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "JavaScript",
-      "size": 403,
-      "repositoryAge": 523,
-      "lastActivity": 517,
-      "releaseCount": 1,
-      "totalReleaseDownloads": 7,
-      "latestReleaseDownloads": 7,
-      "viewsCount": 2,
-      "uniqueVisitors": 1,
-      "latestRelease": "v1.0",
-      "clonesCount": 10,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 7,
-      "downloadRange": [
-        {
-          "day": "2025-01-13T06:49:24Z",
-          "downloads": 7,
-          "tagName": "v1.0"
-        }
-      ],
-      "assetTotalsByName": {
-        "custom_zip": 7
-      },
-      "assetReleaseSeries": {
-        "custom_zip": [
-          {
-            "tagName": "v1.0",
-            "day": "2025-01-13T06:49:24Z",
-            "downloads": 7
-          }
-        ]
-      },
-      "assetTotalsByParsedKey": {
-        "custom_zip": 7
-      },
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {
-        "zip": 7
-      },
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {
-          "zip": {
-            "v1.0": 7
-          }
-        },
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {
-        "custom_zip": {
-          "project": "Custom",
-          "format": "zip"
-        }
-      }
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-isc-auto-loader",
-    "timestamp": "2026-06-15T01:18:34.552Z",
-    "metrics": {
-      "stars": 0,
-      "forks": 3,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": null,
-      "size": 397,
-      "repositoryAge": 551,
-      "lastActivity": 551,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 0,
-      "uniqueVisitors": 0,
-      "latestRelease": null,
-      "clonesCount": 6,
+      "clonesCount": 23,
       "topics": 0,
       "license": "MIT License",
       "defaultBranch": "main",
@@ -2770,7 +2409,7 @@
   {
     "platform": "GitHub",
     "name": "sailpoint-oss/colab-provisioning-simulator-plugin",
-    "timestamp": "2026-06-15T01:18:34.511Z",
+    "timestamp": "2026-06-22T01:17:50.628Z",
     "metrics": {
       "stars": 2,
       "forks": 1,
@@ -2779,16 +2418,16 @@
       "openIssues": 8,
       "closedIssues": 3,
       "language": "Java",
-      "size": 15199,
-      "repositoryAge": 767,
-      "lastActivity": 558,
+      "size": 15200,
+      "repositoryAge": 774,
+      "lastActivity": 2,
       "releaseCount": 3,
       "totalReleaseDownloads": 15,
       "latestReleaseDownloads": 13,
-      "viewsCount": 3,
-      "uniqueVisitors": 2,
+      "viewsCount": 2,
+      "uniqueVisitors": 1,
       "latestRelease": "1.2",
-      "clonesCount": 10,
+      "clonesCount": 25,
       "topics": 0,
       "license": "MIT License",
       "defaultBranch": "main",
@@ -2887,8 +2526,351 @@
   },
   {
     "platform": "GitHub",
+    "name": "sailpoint-oss/colab-proofpoint-plugin",
+    "timestamp": "2026-06-22T01:17:50.643Z",
+    "metrics": {
+      "stars": 1,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "Java",
+      "size": 609,
+      "repositoryAge": 998,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": null,
+      "clonesCount": 18,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-org-chart-plugin",
+    "timestamp": "2026-06-22T01:17:50.698Z",
+    "metrics": {
+      "stars": 1,
+      "forks": 1,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 34238,
+      "repositoryAge": 732,
+      "lastActivity": 2,
+      "releaseCount": 1,
+      "totalReleaseDownloads": 56,
+      "latestReleaseDownloads": 56,
+      "viewsCount": 8,
+      "uniqueVisitors": 4,
+      "latestRelease": "1.2.0",
+      "clonesCount": 33,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 56,
+      "downloadRange": [
+        {
+          "day": "2024-07-11T15:40:36Z",
+          "downloads": 56,
+          "tagName": "1.2.0"
+        }
+      ],
+      "assetTotalsByName": {
+        "orgchartplugin_zip": 56
+      },
+      "assetReleaseSeries": {
+        "orgchartplugin_zip": [
+          {
+            "tagName": "1.2.0",
+            "day": "2024-07-11T15:40:36Z",
+            "downloads": 56
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "orgchartplugin_zip": 56
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "zip": 56
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "zip": {
+            "1.2.0": 56
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "orgchartplugin_zip": {
+          "project": "orgchartplugin",
+          "format": "zip"
+        }
+      }
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-non-employee-risk-management-splunk-addon",
+    "timestamp": "2026-06-22T01:17:50.686Z",
+    "metrics": {
+      "stars": 1,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 1,
+      "openIssues": 1,
+      "closedIssues": 0,
+      "language": "Python",
+      "size": 8516,
+      "repositoryAge": 576,
+      "lastActivity": 2,
+      "releaseCount": 1,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": "v1.0.0",
+      "clonesCount": 33,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [
+        {
+          "day": "2025-04-03T17:55:58Z",
+          "downloads": 0,
+          "tagName": "v1.0.0"
+        }
+      ],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-neovim-isc-plugin",
+    "timestamp": "2026-06-22T01:17:50.672Z",
+    "metrics": {
+      "stars": 2,
+      "forks": 2,
+      "watchers": 1,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "TypeScript",
+      "size": 863,
+      "repositoryAge": 101,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 9,
+      "uniqueVisitors": 4,
+      "latestRelease": null,
+      "clonesCount": 24,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-motd-plugin",
+    "timestamp": "2026-06-22T01:17:50.581Z",
+    "metrics": {
+      "stars": 4,
+      "forks": 0,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "JavaScript",
+      "size": 27237,
+      "repositoryAge": 787,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 1,
+      "uniqueVisitors": 1,
+      "latestRelease": null,
+      "clonesCount": 31,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-log-level-modifier-plugin",
+    "timestamp": "2026-06-22T01:17:50.666Z",
+    "metrics": {
+      "stars": 1,
+      "forks": 2,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "HTML",
+      "size": 585,
+      "repositoryAge": 675,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": null,
+      "clonesCount": 21,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-isc-role-criteria-manager",
+    "timestamp": "2026-06-22T01:17:50.676Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": null,
+      "size": 398,
+      "repositoryAge": 20,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 1,
+      "uniqueVisitors": 1,
+      "latestRelease": null,
+      "clonesCount": 13,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
     "name": "sailpoint-oss/colab-isc-powershell-task-manager",
-    "timestamp": "2026-06-15T01:18:34.418Z",
+    "timestamp": "2026-06-22T01:17:50.684Z",
     "metrics": {
       "stars": 1,
       "forks": 1,
@@ -2897,9 +2879,229 @@
       "openIssues": 0,
       "closedIssues": 0,
       "language": "PowerShell",
-      "size": 526,
-      "repositoryAge": 612,
-      "lastActivity": 590,
+      "size": 527,
+      "repositoryAge": 619,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": null,
+      "clonesCount": 24,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-isc-extended-workflow-helper",
+    "timestamp": "2026-06-22T01:17:50.611Z",
+    "metrics": {
+      "stars": 1,
+      "forks": 2,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "Java",
+      "size": 659,
+      "repositoryAge": 276,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 2,
+      "uniqueVisitors": 1,
+      "latestRelease": null,
+      "clonesCount": 19,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-isc-credential-cycling",
+    "timestamp": "2026-06-22T01:17:50.666Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "C#",
+      "size": 4102,
+      "repositoryAge": 688,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": null,
+      "clonesCount": 10,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-isc-config-hub-history",
+    "timestamp": "2026-06-22T01:17:50.559Z",
+    "metrics": {
+      "stars": 2,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "JavaScript",
+      "size": 454,
+      "repositoryAge": 80,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 74,
+      "uniqueVisitors": 16,
+      "latestRelease": null,
+      "clonesCount": 39,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-isc-auto-loader",
+    "timestamp": "2026-06-22T01:17:50.596Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 3,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": null,
+      "size": 398,
+      "repositoryAge": 558,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": null,
+      "clonesCount": 14,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-isc-PsAttributeSyncValidator",
+    "timestamp": "2026-06-22T01:17:50.628Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": null,
+      "size": 398,
+      "repositoryAge": 384,
+      "lastActivity": 2,
       "releaseCount": 0,
       "totalReleaseDownloads": 0,
       "latestReleaseDownloads": 0,
@@ -2931,26 +3133,26 @@
   },
   {
     "platform": "GitHub",
-    "name": "sailpoint-oss/colab-file-upload-utility-automation-scripts",
-    "timestamp": "2026-06-15T01:18:34.461Z",
+    "name": "sailpoint-oss/colab-iiqda-plugin-intellij",
+    "timestamp": "2026-06-22T01:17:50.673Z",
     "metrics": {
-      "stars": 1,
-      "forks": 3,
-      "watchers": 1,
+      "stars": 0,
+      "forks": 4,
+      "watchers": 0,
       "totalIssues": 0,
       "openIssues": 0,
       "closedIssues": 0,
-      "language": "PowerShell",
-      "size": 405,
-      "repositoryAge": 633,
-      "lastActivity": 621,
+      "language": "Java",
+      "size": 465,
+      "repositoryAge": 732,
+      "lastActivity": 2,
       "releaseCount": 0,
       "totalReleaseDownloads": 0,
       "latestReleaseDownloads": 0,
-      "viewsCount": 0,
-      "uniqueVisitors": 0,
+      "viewsCount": 22,
+      "uniqueVisitors": 2,
       "latestRelease": null,
-      "clonesCount": 9,
+      "clonesCount": 28,
       "topics": 0,
       "license": "MIT License",
       "defaultBranch": "main",
@@ -2975,23 +3177,438 @@
   },
   {
     "platform": "GitHub",
-    "name": "sailpoint-oss/colab-sailpoint-configuration-manager",
-    "timestamp": "2026-06-15T01:18:34.530Z",
+    "name": "sailpoint-oss/colab-iiqda",
+    "timestamp": "2026-06-22T01:17:50.649Z",
+    "metrics": {
+      "stars": 5,
+      "forks": 9,
+      "watchers": 2,
+      "totalIssues": 5,
+      "openIssues": 4,
+      "closedIssues": 1,
+      "language": "Java",
+      "size": 54241,
+      "repositoryAge": 1000,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 30,
+      "uniqueVisitors": 10,
+      "latestRelease": null,
+      "clonesCount": 24,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-iiq-roles-with-deleted-entitlements",
+    "timestamp": "2026-06-22T01:17:50.669Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": null,
+      "size": 398,
+      "repositoryAge": 289,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 4,
+      "uniqueVisitors": 2,
+      "latestRelease": null,
+      "clonesCount": 25,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-iiq-resilient-actions",
+    "timestamp": "2026-06-22T01:17:50.699Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": null,
+      "size": 401,
+      "repositoryAge": 374,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 1,
+      "uniqueVisitors": 1,
+      "latestRelease": null,
+      "clonesCount": 28,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-iiq-hbm-extension-template",
+    "timestamp": "2026-06-22T01:17:50.590Z",
     "metrics": {
       "stars": 2,
+      "forks": 2,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "Java",
+      "size": 1770,
+      "repositoryAge": 788,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 4,
+      "uniqueVisitors": 1,
+      "latestRelease": null,
+      "clonesCount": 7,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-iiq-custom-loading-spinner",
+    "timestamp": "2026-06-22T01:17:50.677Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "JavaScript",
+      "size": 404,
+      "repositoryAge": 530,
+      "lastActivity": 2,
+      "releaseCount": 1,
+      "totalReleaseDownloads": 7,
+      "latestReleaseDownloads": 7,
+      "viewsCount": 45,
+      "uniqueVisitors": 2,
+      "latestRelease": "v1.0",
+      "clonesCount": 25,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 7,
+      "downloadRange": [
+        {
+          "day": "2025-01-13T06:49:24Z",
+          "downloads": 7,
+          "tagName": "v1.0"
+        }
+      ],
+      "assetTotalsByName": {
+        "custom_zip": 7
+      },
+      "assetReleaseSeries": {
+        "custom_zip": [
+          {
+            "tagName": "v1.0",
+            "day": "2025-01-13T06:49:24Z",
+            "downloads": 7
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "custom_zip": 7
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "zip": 7
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "zip": {
+            "v1.0": 7
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "custom_zip": {
+          "project": "Custom",
+          "format": "zip"
+        }
+      }
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-identitynow-azure-sentinel",
+    "timestamp": "2026-06-22T01:17:50.681Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 2,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "Python",
+      "size": 8941,
+      "repositoryAge": 992,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": null,
+      "clonesCount": 14,
+      "topics": 1,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-identity-photos-plugin",
+    "timestamp": "2026-06-22T01:17:50.655Z",
+    "metrics": {
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": null,
+      "size": 398,
+      "repositoryAge": 685,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 0,
+      "uniqueVisitors": 0,
+      "latestRelease": null,
+      "clonesCount": 15,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {},
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {},
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {}
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-identity-details-tweaks-plugin",
+    "timestamp": "2026-06-22T01:17:50.614Z",
+    "metrics": {
+      "stars": 3,
+      "forks": 2,
+      "watchers": 0,
+      "totalIssues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "language": "JavaScript",
+      "size": 433,
+      "repositoryAge": 857,
+      "lastActivity": 2,
+      "releaseCount": 2,
+      "totalReleaseDownloads": 11,
+      "latestReleaseDownloads": 0,
+      "viewsCount": 38,
+      "uniqueVisitors": 7,
+      "latestRelease": "v2.0",
+      "clonesCount": 22,
+      "topics": 0,
+      "license": "MIT License",
+      "defaultBranch": "main",
+      "downloadsTotal": 11,
+      "downloadRange": [
+        {
+          "day": "2024-02-21T11:25:15Z",
+          "downloads": 11,
+          "tagName": "v1.0"
+        },
+        {
+          "day": "2024-04-02T08:06:03Z",
+          "downloads": 0,
+          "tagName": "v2.0"
+        }
+      ],
+      "assetTotalsByName": {
+        "identitydetailstweaks_zip": 11
+      },
+      "assetReleaseSeries": {
+        "identitydetailstweaks_zip": [
+          {
+            "tagName": "v1.0",
+            "day": "2024-02-21T11:25:15Z",
+            "downloads": 11
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "identitydetailstweaks_zip": 11
+      },
+      "totalsByOs": {},
+      "totalsByArch": {},
+      "totalsByFormat": {
+        "zip": 11
+      },
+      "totalsByVariant": {},
+      "attributeReleaseSeries": {
+        "os": {},
+        "arch": {},
+        "format": {
+          "zip": {
+            "v1.0": 11
+          }
+        },
+        "variant": {},
+        "version": {}
+      },
+      "assetAttributesByKey": {
+        "identitydetailstweaks_zip": {
+          "project": "IdentityDetailsTweaks",
+          "format": "zip"
+        }
+      }
+    }
+  },
+  {
+    "platform": "GitHub",
+    "name": "sailpoint-oss/colab-file-upload-utility-automation-scripts",
+    "timestamp": "2026-06-22T01:17:50.666Z",
+    "metrics": {
+      "stars": 1,
       "forks": 3,
       "watchers": 1,
       "totalIssues": 0,
       "openIssues": 0,
       "closedIssues": 0,
       "language": "PowerShell",
-      "size": 485,
-      "repositoryAge": 837,
-      "lastActivity": 624,
+      "size": 406,
+      "repositoryAge": 640,
+      "lastActivity": 2,
       "releaseCount": 0,
       "totalReleaseDownloads": 0,
       "latestReleaseDownloads": 0,
-      "viewsCount": 3,
+      "viewsCount": 4,
       "uniqueVisitors": 1,
       "latestRelease": null,
       "clonesCount": 15,
@@ -3019,81 +3636,8 @@
   },
   {
     "platform": "GitHub",
-    "name": "sailpoint-oss/colab-org-chart-plugin",
-    "timestamp": "2026-06-15T01:18:34.466Z",
-    "metrics": {
-      "stars": 1,
-      "forks": 1,
-      "watchers": 1,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "TypeScript",
-      "size": 34236,
-      "repositoryAge": 725,
-      "lastActivity": 626,
-      "releaseCount": 1,
-      "totalReleaseDownloads": 55,
-      "latestReleaseDownloads": 55,
-      "viewsCount": 9,
-      "uniqueVisitors": 5,
-      "latestRelease": "1.2.0",
-      "clonesCount": 8,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 55,
-      "downloadRange": [
-        {
-          "day": "2024-07-11T15:40:36Z",
-          "downloads": 55,
-          "tagName": "1.2.0"
-        }
-      ],
-      "assetTotalsByName": {
-        "orgchartplugin_zip": 55
-      },
-      "assetReleaseSeries": {
-        "orgchartplugin_zip": [
-          {
-            "tagName": "1.2.0",
-            "day": "2024-07-11T15:40:36Z",
-            "downloads": 55
-          }
-        ]
-      },
-      "assetTotalsByParsedKey": {
-        "orgchartplugin_zip": 55
-      },
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {
-        "zip": 55
-      },
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {
-          "zip": {
-            "1.2.0": 55
-          }
-        },
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {
-        "orgchartplugin_zip": {
-          "project": "orgchartplugin",
-          "format": "zip"
-        }
-      }
-    }
-  },
-  {
-    "platform": "GitHub",
     "name": "sailpoint-oss/colab-file-upload-utility",
-    "timestamp": "2026-06-15T01:18:34.522Z",
+    "timestamp": "2026-06-22T01:17:50.788Z",
     "metrics": {
       "stars": 6,
       "forks": 7,
@@ -3102,51 +3646,51 @@
       "openIssues": 3,
       "closedIssues": 2,
       "language": "Java",
-      "size": 457,
-      "repositoryAge": 992,
-      "lastActivity": 641,
+      "size": 460,
+      "repositoryAge": 999,
+      "lastActivity": 2,
       "releaseCount": 2,
-      "totalReleaseDownloads": 2079,
-      "latestReleaseDownloads": 1292,
-      "viewsCount": 78,
-      "uniqueVisitors": 40,
+      "totalReleaseDownloads": 2092,
+      "latestReleaseDownloads": 1304,
+      "viewsCount": 95,
+      "uniqueVisitors": 39,
       "latestRelease": "file-upload-utility-4.1.0",
-      "clonesCount": 13,
+      "clonesCount": 15,
       "topics": 1,
       "license": "MIT License",
       "defaultBranch": "main",
-      "downloadsTotal": 2079,
+      "downloadsTotal": 2092,
       "downloadRange": [
         {
           "day": "2024-05-01T16:36:27Z",
-          "downloads": 787,
+          "downloads": 788,
           "tagName": "file-upload-utility-4.0.0"
         },
         {
           "day": "2024-09-11T02:56:25Z",
-          "downloads": 1292,
+          "downloads": 1304,
           "tagName": "file-upload-utility-4.1.0"
         }
       ],
       "assetTotalsByName": {
-        "sailpoint": 2079
+        "sailpoint": 2092
       },
       "assetReleaseSeries": {
         "sailpoint": [
           {
             "tagName": "file-upload-utility-4.1.0",
             "day": "2024-09-11T02:56:25Z",
-            "downloads": 1292
+            "downloads": 1304
           },
           {
             "tagName": "file-upload-utility-4.0.0",
             "day": "2024-05-01T16:36:27Z",
-            "downloads": 787
+            "downloads": 788
           }
         ]
       },
       "assetTotalsByParsedKey": {
-        "sailpoint": 2079
+        "sailpoint": 2092
       },
       "totalsByOs": {},
       "totalsByArch": {},
@@ -3168,8 +3712,8 @@
   },
   {
     "platform": "GitHub",
-    "name": "sailpoint-oss/colab-isc-credential-cycling",
-    "timestamp": "2026-06-15T01:18:34.575Z",
+    "name": "sailpoint-oss/colab-events-dashboard-plugin",
+    "timestamp": "2026-06-22T01:17:50.722Z",
     "metrics": {
       "stars": 0,
       "forks": 1,
@@ -3177,149 +3721,90 @@
       "totalIssues": 0,
       "openIssues": 0,
       "closedIssues": 0,
-      "language": "C#",
-      "size": 4101,
-      "repositoryAge": 681,
-      "lastActivity": 655,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 0,
-      "uniqueVisitors": 0,
-      "latestRelease": null,
-      "clonesCount": 6,
+      "language": "Java",
+      "size": 548,
+      "repositoryAge": 361,
+      "lastActivity": 2,
+      "releaseCount": 1,
+      "totalReleaseDownloads": 31,
+      "latestReleaseDownloads": 31,
+      "viewsCount": 10,
+      "uniqueVisitors": 4,
+      "latestRelease": "v1.0",
+      "clonesCount": 15,
       "topics": 0,
       "license": "MIT License",
       "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
+      "downloadsTotal": 31,
+      "downloadRange": [
+        {
+          "day": "2025-07-18T04:57:05Z",
+          "downloads": 31,
+          "tagName": "v1.0"
+        }
+      ],
+      "assetTotalsByName": {
+        "eventsdashboardplugin_zip": 31
+      },
+      "assetReleaseSeries": {
+        "eventsdashboardplugin_zip": [
+          {
+            "tagName": "v1.0",
+            "day": "2025-07-18T04:57:05Z",
+            "downloads": 31
+          }
+        ]
+      },
+      "assetTotalsByParsedKey": {
+        "eventsdashboardplugin_zip": 31
+      },
       "totalsByOs": {},
       "totalsByArch": {},
-      "totalsByFormat": {},
+      "totalsByFormat": {
+        "zip": 31
+      },
       "totalsByVariant": {},
       "attributeReleaseSeries": {
         "os": {},
         "arch": {},
-        "format": {},
+        "format": {
+          "zip": {
+            "v1.0": 31
+          }
+        },
         "variant": {},
         "version": {}
       },
-      "assetAttributesByKey": {}
+      "assetAttributesByKey": {
+        "eventsdashboardplugin_zip": {
+          "project": "EventsDashboardPlugin",
+          "format": "zip"
+        }
+      }
     }
   },
   {
     "platform": "GitHub",
-    "name": "sailpoint-oss/colab-log-level-modifier-plugin",
-    "timestamp": "2026-06-15T01:18:34.456Z",
-    "metrics": {
-      "stars": 1,
-      "forks": 2,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "HTML",
-      "size": 584,
-      "repositoryAge": 668,
-      "lastActivity": 664,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 7,
-      "uniqueVisitors": 2,
-      "latestRelease": null,
-      "clonesCount": 8,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-valdate-population-plugin",
-    "timestamp": "2026-06-15T01:18:34.477Z",
+    "name": "sailpoint-oss/colab-connector-configurations",
+    "timestamp": "2026-06-22T01:17:50.611Z",
     "metrics": {
       "stars": 0,
-      "forks": 0,
+      "forks": 1,
       "watchers": 0,
       "totalIssues": 0,
       "openIssues": 0,
       "closedIssues": 0,
       "language": null,
-      "size": 397,
-      "repositoryAge": 678,
-      "lastActivity": 678,
+      "size": 401,
+      "repositoryAge": 732,
+      "lastActivity": 2,
       "releaseCount": 0,
       "totalReleaseDownloads": 0,
       "latestReleaseDownloads": 0,
       "viewsCount": 0,
       "uniqueVisitors": 0,
       "latestRelease": null,
-      "clonesCount": 7,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-identity-photos-plugin",
-    "timestamp": "2026-06-15T01:18:34.439Z",
-    "metrics": {
-      "stars": 0,
-      "forks": 0,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": null,
-      "size": 397,
-      "repositoryAge": 678,
-      "lastActivity": 678,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 0,
-      "uniqueVisitors": 0,
-      "latestRelease": null,
-      "clonesCount": 8,
+      "clonesCount": 17,
       "topics": 0,
       "license": "MIT License",
       "defaultBranch": "main",
@@ -3345,7 +3830,7 @@
   {
     "platform": "GitHub",
     "name": "sailpoint-oss/colab-community-rest-api-plugin",
-    "timestamp": "2026-06-15T01:18:34.486Z",
+    "timestamp": "2026-06-22T01:17:50.656Z",
     "metrics": {
       "stars": 2,
       "forks": 4,
@@ -3354,149 +3839,17 @@
       "openIssues": 0,
       "closedIssues": 0,
       "language": "Java",
-      "size": 642,
-      "repositoryAge": 725,
-      "lastActivity": 719,
+      "size": 643,
+      "repositoryAge": 732,
+      "lastActivity": 2,
       "releaseCount": 0,
       "totalReleaseDownloads": 0,
       "latestReleaseDownloads": 0,
       "viewsCount": 17,
-      "uniqueVisitors": 4,
+      "uniqueVisitors": 3,
       "latestRelease": null,
-      "clonesCount": 8,
+      "clonesCount": 31,
       "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-connector-configurations",
-    "timestamp": "2026-06-15T01:18:34.451Z",
-    "metrics": {
-      "stars": 0,
-      "forks": 1,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": null,
-      "size": 400,
-      "repositoryAge": 725,
-      "lastActivity": 725,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 0,
-      "uniqueVisitors": 0,
-      "latestRelease": null,
-      "clonesCount": 7,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-iiq-hbm-extension-template",
-    "timestamp": "2026-06-15T01:18:34.505Z",
-    "metrics": {
-      "stars": 2,
-      "forks": 2,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "Java",
-      "size": 1769,
-      "repositoryAge": 781,
-      "lastActivity": 753,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 3,
-      "uniqueVisitors": 1,
-      "latestRelease": null,
-      "clonesCount": 7,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-iiqda",
-    "timestamp": "2026-06-15T01:18:34.590Z",
-    "metrics": {
-      "stars": 5,
-      "forks": 9,
-      "watchers": 2,
-      "totalIssues": 5,
-      "openIssues": 4,
-      "closedIssues": 1,
-      "language": "Java",
-      "size": 54240,
-      "repositoryAge": 993,
-      "lastActivity": 758,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 30,
-      "uniqueVisitors": 13,
-      "latestRelease": null,
-      "clonesCount": 21,
-      "topics": 1,
       "license": "MIT License",
       "defaultBranch": "main",
       "downloadsTotal": 0,
@@ -3521,7 +3874,7 @@
   {
     "platform": "GitHub",
     "name": "sailpoint-oss/colab-announcement-plugin",
-    "timestamp": "2026-06-15T01:18:34.581Z",
+    "timestamp": "2026-06-22T01:17:50.712Z",
     "metrics": {
       "stars": 3,
       "forks": 0,
@@ -3530,16 +3883,16 @@
       "openIssues": 0,
       "closedIssues": 0,
       "language": "CSS",
-      "size": 439,
-      "repositoryAge": 886,
-      "lastActivity": 758,
+      "size": 440,
+      "repositoryAge": 893,
+      "lastActivity": 2,
       "releaseCount": 5,
       "totalReleaseDownloads": 279,
       "latestReleaseDownloads": 133,
       "viewsCount": 14,
-      "uniqueVisitors": 5,
+      "uniqueVisitors": 3,
       "latestRelease": "v3.1",
-      "clonesCount": 12,
+      "clonesCount": 18,
       "topics": 0,
       "license": "MIT License",
       "defaultBranch": "main",
@@ -3637,413 +3990,71 @@
   },
   {
     "platform": "GitHub",
-    "name": "sailpoint-oss/colab-identity-details-tweaks-plugin",
-    "timestamp": "2026-06-15T01:18:34.494Z",
+    "name": "sailpoint-oss/colab-SailPoint-IIQ-on-Docker",
+    "timestamp": "2026-06-22T01:17:50.623Z",
     "metrics": {
-      "stars": 3,
-      "forks": 2,
+      "stars": 0,
+      "forks": 1,
       "watchers": 0,
       "totalIssues": 0,
       "openIssues": 0,
       "closedIssues": 0,
-      "language": "JavaScript",
-      "size": 432,
-      "repositoryAge": 850,
-      "lastActivity": 803,
-      "releaseCount": 2,
-      "totalReleaseDownloads": 11,
+      "language": null,
+      "size": 398,
+      "repositoryAge": 23,
+      "lastActivity": 2,
+      "releaseCount": 0,
+      "totalReleaseDownloads": 0,
       "latestReleaseDownloads": 0,
-      "viewsCount": 45,
-      "uniqueVisitors": 8,
-      "latestRelease": "v2.0",
-      "clonesCount": 13,
+      "viewsCount": 18,
+      "uniqueVisitors": 6,
+      "latestRelease": null,
+      "clonesCount": 22,
       "topics": 0,
       "license": "MIT License",
       "defaultBranch": "main",
-      "downloadsTotal": 11,
-      "downloadRange": [
-        {
-          "day": "2024-02-21T11:25:15Z",
-          "downloads": 11,
-          "tagName": "v1.0"
-        },
-        {
-          "day": "2024-04-02T08:06:03Z",
-          "downloads": 0,
-          "tagName": "v2.0"
-        }
-      ],
-      "assetTotalsByName": {
-        "identitydetailstweaks_zip": 11
-      },
-      "assetReleaseSeries": {
-        "identitydetailstweaks_zip": [
-          {
-            "tagName": "v1.0",
-            "day": "2024-02-21T11:25:15Z",
-            "downloads": 11
-          }
-        ]
-      },
-      "assetTotalsByParsedKey": {
-        "identitydetailstweaks_zip": 11
-      },
+      "downloadsTotal": 0,
+      "downloadRange": [],
+      "assetTotalsByName": {},
+      "assetReleaseSeries": {},
+      "assetTotalsByParsedKey": {},
       "totalsByOs": {},
       "totalsByArch": {},
-      "totalsByFormat": {
-        "zip": 11
-      },
+      "totalsByFormat": {},
       "totalsByVariant": {},
       "attributeReleaseSeries": {
         "os": {},
         "arch": {},
-        "format": {
-          "zip": {
-            "v1.0": 11
-          }
-        },
+        "format": {},
         "variant": {},
         "version": {}
       },
-      "assetAttributesByKey": {
-        "identitydetailstweaks_zip": {
-          "project": "IdentityDetailsTweaks",
-          "format": "zip"
-        }
-      }
+      "assetAttributesByKey": {}
     }
   },
   {
     "platform": "GitHub",
-    "name": "sailpoint-oss/colab-repo-template",
-    "timestamp": "2026-06-15T01:18:34.483Z",
+    "name": "sailpoint-oss/colab-IIQ-account-correlation-assistant-plugin",
+    "timestamp": "2026-06-22T01:17:50.590Z",
     "metrics": {
       "stars": 0,
-      "forks": 4,
-      "watchers": 2,
+      "forks": 1,
+      "watchers": 0,
       "totalIssues": 0,
       "openIssues": 0,
       "closedIssues": 0,
       "language": null,
-      "size": 426,
-      "repositoryAge": 1419,
-      "lastActivity": 832,
+      "size": 398,
+      "repositoryAge": 18,
+      "lastActivity": 2,
       "releaseCount": 0,
       "totalReleaseDownloads": 0,
       "latestReleaseDownloads": 0,
-      "viewsCount": 0,
-      "uniqueVisitors": 0,
+      "viewsCount": 31,
+      "uniqueVisitors": 7,
       "latestRelease": null,
       "clonesCount": 13,
       "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-identitynow-azure-sentinel",
-    "timestamp": "2026-06-15T01:18:34.541Z",
-    "metrics": {
-      "stars": 0,
-      "forks": 2,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "Python",
-      "size": 8940,
-      "repositoryAge": 985,
-      "lastActivity": 844,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 0,
-      "uniqueVisitors": 0,
-      "latestRelease": null,
-      "clonesCount": 5,
-      "topics": 1,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-sailpoint-rule-restriction-vs-code-plugin",
-    "timestamp": "2026-06-15T01:18:34.470Z",
-    "metrics": {
-      "stars": 0,
-      "forks": 3,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "TypeScript",
-      "size": 417,
-      "repositoryAge": 864,
-      "lastActivity": 850,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 0,
-      "uniqueVisitors": 0,
-      "latestRelease": null,
-      "clonesCount": 8,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-reports",
-    "timestamp": "2026-06-15T01:18:34.534Z",
-    "metrics": {
-      "stars": 1,
-      "forks": 1,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "Java",
-      "size": 411,
-      "repositoryAge": 951,
-      "lastActivity": 950,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 21,
-      "uniqueVisitors": 2,
-      "latestRelease": null,
-      "clonesCount": 7,
-      "topics": 0,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-proofpoint-plugin",
-    "timestamp": "2026-06-15T01:18:34.525Z",
-    "metrics": {
-      "stars": 1,
-      "forks": 1,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": "Java",
-      "size": 608,
-      "repositoryAge": 991,
-      "lastActivity": 978,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 0,
-      "uniqueVisitors": 0,
-      "latestRelease": null,
-      "clonesCount": 6,
-      "topics": 1,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-saas-conn-beyondtrust-epm",
-    "timestamp": "2026-06-15T01:18:34.487Z",
-    "metrics": {
-      "stars": 0,
-      "forks": 1,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": null,
-      "size": 399,
-      "repositoryAge": 992,
-      "lastActivity": 985,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 0,
-      "uniqueVisitors": 0,
-      "latestRelease": null,
-      "clonesCount": 7,
-      "topics": 1,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-saas-conn-beyondtrust-pra",
-    "timestamp": "2026-06-15T01:18:34.531Z",
-    "metrics": {
-      "stars": 0,
-      "forks": 1,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": null,
-      "size": 399,
-      "repositoryAge": 992,
-      "lastActivity": 985,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 1,
-      "uniqueVisitors": 1,
-      "latestRelease": null,
-      "clonesCount": 6,
-      "topics": 1,
-      "license": "MIT License",
-      "defaultBranch": "main",
-      "downloadsTotal": 0,
-      "downloadRange": [],
-      "assetTotalsByName": {},
-      "assetReleaseSeries": {},
-      "assetTotalsByParsedKey": {},
-      "totalsByOs": {},
-      "totalsByArch": {},
-      "totalsByFormat": {},
-      "totalsByVariant": {},
-      "attributeReleaseSeries": {
-        "os": {},
-        "arch": {},
-        "format": {},
-        "variant": {},
-        "version": {}
-      },
-      "assetAttributesByKey": {}
-    }
-  },
-  {
-    "platform": "GitHub",
-    "name": "sailpoint-oss/colab-saas-conn-proofpoint",
-    "timestamp": "2026-06-15T01:18:34.682Z",
-    "metrics": {
-      "stars": 0,
-      "forks": 2,
-      "watchers": 0,
-      "totalIssues": 0,
-      "openIssues": 0,
-      "closedIssues": 0,
-      "language": null,
-      "size": 399,
-      "repositoryAge": 991,
-      "lastActivity": 985,
-      "releaseCount": 0,
-      "totalReleaseDownloads": 0,
-      "latestReleaseDownloads": 0,
-      "viewsCount": 0,
-      "uniqueVisitors": 0,
-      "latestRelease": null,
-      "clonesCount": 6,
-      "topics": 1,
       "license": "MIT License",
       "defaultBranch": "main",
       "downloadsTotal": 0,
